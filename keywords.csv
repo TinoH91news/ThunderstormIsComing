@@ -8,7 +8,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'thunderstorm cell',de,Causes,#00ffff,#00ffff,1,0.425
 'thunderstorm flooding',en,Impacts,#4287f5,#9467bd,2,0.1299798630968576
 'hail freezing level',en,Causes,#8e44ad,#17a2b8,1,0.1251543463962643
-'thunderstorm tornado',en,Hazard,#a89216,#393b79,1,0.1233023125342814
 'thunderstorm power outages',en,Impacts,#4287f5,#7b4173,1,0.1208602653364138
 'thunderstorm wind damage',en,Impacts,#4287f5,#8c6d31,1,0.1176878718002009
 'thunderstorm squall line',en,Hazard,#a89216,#636363,1,0.1165127472218438
@@ -21,6 +20,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'thunderstorm lightning',en,Hazard,#a89216,#637939,2,0.1103961233006028
 'hail crop damage',en,Impacts,#2980b9,#ff7f0e,1,0.1090595371788524
 'thunderstorm flood barriers',en,Mitigation,#33cc33,#7f7f7f,1,0.1080978368764375
+'thunderstorm tornado',en,Hazard,#a89216,#393b79,1,0.10780726565413919
 'hail dented vehicles',en,Impacts,#2980b9,#843c39,1,0.1074153096830617
 'thunderstorm convection',en,Causes,#9e3215,#17becf,1,0.1068147093272938
 'thunderstorm wind shear',en,Causes,#9e3215,#31a354,1,0.1063828603290854
