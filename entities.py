@@ -458,6 +458,7 @@ indexLocationsDF = pd.DataFrame.from_dict(indexLocations, orient='index', column
 indexLocationsDF['sentiment'] = indexLocationsDF['sentiment']/indexLocationsDF['count']
 indexLocationsDF['subjectivity'] = indexLocationsDF['subjectivity']/indexLocationsDF['count']
 indexLocationsDF = indexLocationsDF.sort_values(by=['count'], ascending=False)
+indexLocationsDF = enrichFromGeonames(indexLocationsDF)
 indexLocationsDF.to_csv(DATA_PATH / 'csv' / "sentiments_locations.csv", index=True, float_format='%.8f')   
  
 colSent = ['phrase', 'label', 'sentiment', 'subjectivity', 'language', 'count']
