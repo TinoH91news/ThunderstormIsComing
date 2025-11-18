@@ -166,7 +166,7 @@ if(geonamesKey == 'demo_demo_123'):
 print(['foundGeonames',foundGeonames])
 #foundGeonames = True
 
-geomax = 50
+geomax = 250
 def enrichFromGeonames(df):
     global geomax
     print('Starting with geonames')
