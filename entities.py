@@ -165,7 +165,7 @@ if(geonamesKey == 'demo_demo_123'):
 print(['foundGeonames',foundGeonames])
 #foundGeonames = True
 
-geomax = 250
+geomax = 50
 def enrichFromGeonames(df):
     global geomax
     print('Starting with geonames')
@@ -189,6 +189,7 @@ def enrichFromGeonames(df):
             gne = geocoder.geonames(phrase, lang='en', key=geonamesKey)
             if(gne.country):
               df.loc[index,'country'] = gne.country
+              print(gne.country)
             print(['geo',gn.lat,gn.lng, gn])
 
             #(get country) get ipcc
@@ -202,26 +203,32 @@ def enrichFromGeonames(df):
             whichIpcc = geopandas.sjoin(ipccRegions, Coords, how='inner', op='intersects')
             print(whichIpcc)
             if(not whichIpcc.empty):
+                print(['Acronym & Continent',list(whichIpcc['Acronym'])[0],list(whichIpcc['Continent'])[0]])
                 df.loc[index,'ipcc'] = list(whichIpcc['Acronym'])[0]
                 df.loc[index,'continent'] = list(whichIpcc['Continent'])[0]
+                
             whichCountry = geopandas.sjoin(countriesDf, Coords, how='inner', op='intersects')
             print(whichCountry)
             if(not whichCountry.empty):
+                print(['country',list(whichCountry['Country'])[0]])
                 df.loc[index,'country'] = list(whichCountry['Country'])[0]
 
             #get GND
             found = False 
             gnd = searchGndByGeonamesId(gn.geonames_id)
+            print(['searchGndByGeonamesId',gnd]) 
             if(gnd and 'gndId' in gnd):
               df.loc[index,'gnd'] = str(gnd['gndId'])
               found = True
             if(not found):
               gnd = searchGndByNameAndGeo(phrase, float(gn.lat), float(gn.lng))
+              print(['searchGndByNameAndGeo',gnd]) 
               if(gnd and 'gndId' in gnd):
                 df.loc[index,'gnd'] = str(gnd['gndId'])
                 found = True
             if(not found):
               gnd = searchGndByName(phrase)
+              print(['searchGndByName',gnd]) 
               if(gnd and 'gndId' in gnd):
                 df.loc[index,'gnd'] = str(gnd['gndId'])
                 found = True
