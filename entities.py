@@ -398,7 +398,8 @@ for index, column in objNewsDF.iterrows():
 
             if(entity.label_ in ['LOC','GPE']):
                 if(entity.text in indexLocations):
-                    indexLocations[entity.text]['count'] += 1   #TODO   add valid value...
+                    #indexLocations[entity.text]['count'] += 1   
+                    indexLocations[entity.text]['count'] += column.valid   
                     indexLocations[entity.text]['sentiment'] += sentence.sentiment.polarity
                     indexLocations[entity.text]['subjectivity'] += sentence.sentiment.subjectivity
                 else:      
@@ -429,7 +430,8 @@ for index, column in objNewsDF.iterrows():
              if(strangeCharacters(personText,".,!?;:'…<>/\n\r")==0):
                if(personText.count(' ')>0):
                 if(personText in indexPersons):
-                    indexPersons[personText]['count'] += 1
+                    #indexPersons[personText]['count'] += 1
+                    indexPersons[personText]['count'] += column.valid
                     indexPersons[personText]['sentiment'] += sentence.sentiment.polarity
                     indexPersons[personText]['subjectivity'] += sentence.sentiment.subjectivity
                 else:    
@@ -437,7 +439,8 @@ for index, column in objNewsDF.iterrows():
                                                  'subjectivity':sentence.sentiment.subjectivity, 'language':lang, 'count':1}   
             elif('ORG' == entity.label_):
                 if(entity.text in indexOrganizations):
-                    indexOrganizations[entity.text]['count'] += 1
+                    #indexOrganizations[entity.text]['count'] += 1
+                    indexOrganizations[entity.text]['count'] += column.valid
                     indexOrganizations[entity.text]['sentiment'] += sentence.sentiment.polarity
                     indexOrganizations[entity.text]['subjectivity'] += sentence.sentiment.subjectivity
                 else:    
@@ -445,7 +448,8 @@ for index, column in objNewsDF.iterrows():
                                                        'subjectivity':0, 'language':lang, 'count':1} 
             elif('MISC' == entity.label_):
                 if(entity.text in indexMisc):
-                    indexMisc[entity.text]['count'] += 1
+                    #indexMisc[entity.text]['count'] += 1
+                    indexMisc[entity.text]['count'] += column.valid
                     indexMisc[entity.text]['sentiment'] += sentence.sentiment.polarity
                     indexMisc[entity.text]['subjectivity'] += sentence.sentiment.subjectivity
                 else:         
@@ -453,7 +457,8 @@ for index, column in objNewsDF.iterrows():
                                               'subjectivity':sentence.sentiment.subjectivity, 'language':lang, 'count':1} 
             else:
                 if(entity.text in indexMissing):
-                    indexMissing[entity.text]['count'] += 1
+                    #indexMissing[entity.text]['count'] += 1
+                    indexMissing[entity.text]['count'] += column.valid
                     indexMissing[entity.text]['sentiment'] += sentence.sentiment.polarity
                     indexMissing[entity.text]['subjectivity'] += sentence.sentiment.subjectivity
                 else:
