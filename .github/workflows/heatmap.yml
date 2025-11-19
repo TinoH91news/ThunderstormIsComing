@@ -31,6 +31,8 @@ jobs:
         run: (cd /cre/python/)
       - name: Install shapely cartopy
         run: (pip3 install shapely cartopy --no-binary shapely --no-binary cartopy)
+      - name: Install folium pillow
+        run: (pip3 install folium webbrowser pillow)
       - name: Run diagrams
         run: (python3 heatmap.py)
       - name: Submit changes       
