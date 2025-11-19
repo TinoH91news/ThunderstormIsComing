@@ -56,7 +56,6 @@ def getNewsDF():
 
 keywordsColorsDF = pd.read_csv(DATA_PATH / 'keywords.csv', delimiter=',')
 topicsColorsDF = keywordsColorsDF.drop_duplicates(subset=['topic'])
-
 invalidTopicDF = pd.DataFrame(data={'keyword':['invalidINVALIDinvalid'], 'language':[topicsColorsDF['language'].min()], 'topic':['Invalid'],'topicColor':['#bbbbbb'],'keywordColor':['#bbbbbb'],'limitPages':[2],'ratioNew':[0.01]})
 topicsColorsDF = pd.concat([topicsColorsDF, invalidTopicDF])
 print(topicsColorsDF)
@@ -79,7 +78,7 @@ for index, column in newsDf0.iterrows():
      newsDf0.loc[index,'topic'] = 'Invalid'
 print(newsDf0)  
 
-newsDf2 = newsDf[newsDf0['valid']>0.5]
+newsDf2 = newsDf[newsDf['valid']>0.5]
 newsDf2 = pd.merge(newsDf2, keywordsColorsDF, how='left', left_on=['keyword'], right_on=['keyword'])
 #newsDf2 = newsDf0.copy()
 print(newsDf2.columns)
@@ -97,7 +96,7 @@ newsDf1 = newsDf[newsDf0['valid']>0.5]
 keywordsDF = newsDf1.groupby('keyword').count()
 keywordsDF = keywordsDF.dropna()
 keywordsDF = pd.merge(keywordsDF, keywordsColorsDF, how='inner', left_on=['keyword'], right_on=['keyword'])
-topicsDF = topicsDF[topicsDF['valid']>0.5]
+##topicsDF = topicsDF[topicsDF['valid']>0.5]
 keywordsDF = keywordsDF.sort_values('index', ascending=False)
 axKeywords = plt.subplot(gs[0,1])
 axKeywords.set_title("Keywords (valid)", fontsize=24)
@@ -111,7 +110,6 @@ newsDf3 = newsDf[newsDf0['valid']<0.5]
 keywordsDF = newsDf3.groupby('keyword').count()
 keywordsDF = keywordsDF.dropna()
 keywordsDF = pd.merge(keywordsDF, keywordsColorsDF, how='inner', left_on=['keyword'], right_on=['keyword'])
-topicsDF = topicsDF[topicsDF['valid']>0.5]
 keywordsDF = keywordsDF.sort_values('index', ascending=False)
 axKeywords = plt.subplot(gs[0,2])
 axKeywords.set_title("Keywords (invalid)", fontsize=24)
@@ -461,7 +459,6 @@ def getDay(dateString):
 
 #topics per date
 indexTopics = {}
-#for index, column in newsDf.iterrows():
 for index, column in newsDf0.iterrows():
     #print(column['keyword'])
     dayDate = getDay(column.published)
@@ -499,9 +496,7 @@ for index, column in newsDf0.iterrows():
           else:
             indexTopics[dayDate]['Invalid'] += 1.0-column.valid
 
-topicColumns = list(topicsColorsDF['topic'])
-#topicColumns.append('invalid')
-indexTopicsDF = pd.DataFrame.from_dict(indexTopics, orient='index', columns=topicColumns)
+indexTopicsDF = pd.DataFrame.from_dict(indexTopics, orient='index', columns=list(topicsColorsDF['topic']))
 indexTopicsDF.to_csv(DATA_PATH / 'csv' / "topics_date.csv", index=True)
 
 
