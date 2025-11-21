@@ -5,7 +5,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'thunderstorm cell',en,Causes,#00ffff,#00ffff,1,0.3612499999999999
 'lightning rod',en,Adaptation,#0000ff,#0000ff,2,0.3286511188709676
 'lightning fire',en,Impacts,#ffff00,#ffff00,2,0.3193990408602272
-'lightning and thunder',en,Hazard,#ff0000,#ff0000,1,0.226289709375
+'lightning and thunder',en,Hazard,#ff0000,#ff0000,2,0.20136746296875
 'thunderstorm flooding',en,Impacts,#4287f5,#9467bd,2,0.1299798630968576
 'hail freezing level',en,Causes,#8e44ad,#17a2b8,1,0.1251543463962643
 'thunderstorm power outages',en,Impacts,#4287f5,#7b4173,1,0.1208602653364138
@@ -30,4 +30,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'hail dented vehicles',en,Impacts,#2980b9,#843c39,1,0.0913030132306024
 'thunderstorm convection',en,Causes,#9e3215,#17becf,1,0.0907925029281997
 'hail swath',en,Hazard,#e67e22,#ff6f61,1,0.0872204248425533
-'hail vehicle shelters',en,Mitigation,#2ecc71,#e377c2,1,0.08228995060632867
+'hail vehicle shelters',en,Mitigation,#2ecc71,#e377c2,1,0.0822899506063286
