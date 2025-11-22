@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'thunderstorm',en,Hazard,#ff0000,#ff0000,1,0.4298874999999999
 'thunderstorm warning',en,Mitigation,#00ff00,#00ff00,2,0.3799152907142856
-'anvil clouds',en,Causes,#00ffff,#00ffff,1,0.36170004499999997
+'anvil clouds',en,Causes,#00ffff,#00ffff,1,0.3617000449999999
 'thunderstorm cell',en,Causes,#00ffff,#00ffff,1,0.3612499999999999
 'lightning rod',en,Adaptation,#0000ff,#0000ff,2,0.3286511188709676
 'lightning fire',en,Impacts,#ffff00,#ffff00,2,0.3193990408602272
@@ -15,7 +15,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'hailstorm',en,Hazard,#e67e22,#756bb1,2,0.1134278277204459
 'hail nets',en,Mitigation,#2ecc71,#8c564b,1,0.1130819861933684
 'hail supercells',en,Causes,#8e44ad,#bdb76b,1,0.1128587353505256
-'hail insurance',en,Mitigation,#22cc44,#1f77b4,2,0.112234512277155
 'thunderstorm building codes',en,Mitigation,#33cc33,#9c9ede,1,0.1118474225016912
 'thunderstorm early warning',en,Mitigation,#33cc33,#3182bd,1,0.1111292183966875
 'hail crop damage',en,Impacts,#2980b9,#ff7f0e,1,0.1090595371788524
@@ -24,6 +23,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'thunderstorm wind shear',en,Causes,#9e3215,#31a354,1,0.1063828603290854
 'hail roof damage',en,Impacts,#2980b9,#e6550d,2,0.1018239304144174
 'large hail',en,Hazard,#e67e22,#d62728,3,0.1016931309624225
+'hail insurance',en,Mitigation,#22cc44,#1f77b4,2,0.10005035543558176
 'hail impact resistant roofing',en,Mitigation,#2ecc71,#6b6ecf,1,0.096497667379337
 'thunderstorm lightning',en,Hazard,#a89216,#637939,2,0.0915750865846854
 'hail dented vehicles',en,Impacts,#2980b9,#843c39,1,0.0913030132306024
