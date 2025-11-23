@@ -6,9 +6,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'thunderstorm cell',en,Causes,#00ffff,#00ffff,1,0.3085626499999999
 'anvil clouds',en,Causes,#00ffff,#00ffff,1,0.3078950832499999
 'lightning and thunder',en,Hazard,#ff0000,#ff0000,2,0.1759648635234375
-'thunderstorm squall line',en,Hazard,#a89216,#636363,1,0.1421105431177821
 'thunderstorm flooding',en,Impacts,#4287f5,#9467bd,2,0.1299798630968576
 'hail freezing level',en,Causes,#8e44ad,#17a2b8,1,0.1251543463962643
+'thunderstorm squall line',en,Hazard,#a89216,#636363,1,0.12109400665011477
 'thunderstorm power outages',en,Impacts,#4287f5,#7b4173,1,0.1208602653364138
 'thunderstorm wind damage',en,Impacts,#4287f5,#8c6d31,1,0.1176878718002009
 'thunderstorm low pressure',en,Causes,#9e3215,#2ca02c,2,0.115868662892311
