@@ -19,10 +19,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'thunderstorm early warning',en,Mitigation,#33cc33,#3182bd,1,0.1111292183966875
 'hail crop damage',en,Impacts,#2980b9,#ff7f0e,1,0.1090595371788524
 'thunderstorm flood barriers',en,Mitigation,#33cc33,#7f7f7f,1,0.1080978368764375
-'thunderstorm tornado',en,Hazard,#a89216,#393b79,1,0.1078072656541391
 'thunderstorm wind shear',en,Causes,#9e3215,#31a354,1,0.1063828603290854
 'hail roof damage',en,Impacts,#2980b9,#e6550d,2,0.1018239304144174
 'large hail',en,Hazard,#e67e22,#d62728,3,0.1016931309624225
+'thunderstorm tornado',en,Hazard,#a89216,#393b79,1,0.10159172396391297
 'hail insurance',en,Mitigation,#22cc44,#1f77b4,2,0.1000503554355817
 'hail impact resistant roofing',en,Mitigation,#2ecc71,#6b6ecf,1,0.096497667379337
 'thunderstorm lightning',en,Hazard,#a89216,#637939,2,0.0915750865846854
