@@ -9,7 +9,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'thunderstorm flooding',en,Impacts,#4287f5,#9467bd,2,0.1299798630968576
 'hail freezing level',en,Causes,#8e44ad,#17a2b8,1,0.1251543463962643
 'thunderstorm squall line',en,Hazard,#a89216,#636363,1,0.1210940066501147
-'thunderstorm power outages',en,Impacts,#4287f5,#7b4173,1,0.1208602653364138
 'thunderstorm wind damage',en,Impacts,#4287f5,#8c6d31,1,0.1176878718002009
 'thunderstorm low pressure',en,Causes,#9e3215,#2ca02c,2,0.115868662892311
 'hailstorm',en,Hazard,#e67e22,#756bb1,2,0.1134278277204459
@@ -20,6 +19,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'hail crop damage',en,Impacts,#2980b9,#ff7f0e,1,0.1090595371788524
 'thunderstorm flood barriers',en,Mitigation,#33cc33,#7f7f7f,1,0.1080978368764375
 'thunderstorm wind shear',en,Causes,#9e3215,#31a354,1,0.1063828603290854
+'thunderstorm power outages',en,Impacts,#4287f5,#7b4173,1,0.10408137553595172
 'hail roof damage',en,Impacts,#2980b9,#e6550d,2,0.1018239304144174
 'large hail',en,Hazard,#e67e22,#d62728,3,0.1016931309624225
 'hail insurance',en,Mitigation,#22cc44,#1f77b4,2,0.1000503554355817
