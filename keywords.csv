@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'thunderstorm',en,Hazard,#ff0000,#ff0000,1,0.4298874999999999
+'thunderstorm',en,Hazard,#ff0000,#ff0000,2,0.3879074049999999
 'lightning rod',en,Adaptation,#0000ff,#0000ff,2,0.3286511188709676
 'thunderstorm warning',en,Mitigation,#00ff00,#00ff00,2,0.3127061582668778
 'thunderstorm cell',en,Causes,#00ffff,#00ffff,1,0.3085626499999999
