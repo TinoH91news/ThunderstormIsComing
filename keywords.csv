@@ -4,8 +4,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'thunderstorm',en,Hazard,#ff0000,#ff0000,3,0.3039299151157466
 'lightning fire',en,Impacts,#ffff00,#ffff00,2,0.2800447797311931
 'thunderstorm cell',en,Causes,#00ffff,#00ffff,1,0.2640784474999999
-'anvil clouds',en,Causes,#00ffff,#00ffff,1,0.2232867808981249
-'lightning and thunder',en,Hazard,#ff0000,#ff0000,3,0.15452277399492187
+'anvil clouds',en,Causes,#00ffff,#00ffff,1,0.19024380876340616
+'lightning and thunder',en,Hazard,#ff0000,#ff0000,3,0.1545227739949218
 'thunderstorm flooding',en,Impacts,#4287f5,#9467bd,2,0.1299798630968576
 'hail freezing level',en,Causes,#8e44ad,#17a2b8,1,0.1251543463962643
 'thunderstorm wind damage',en,Impacts,#4287f5,#8c6d31,1,0.1177349910301707
