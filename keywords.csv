@@ -3,7 +3,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'thunderstorm warning',en,Mitigation,#00ff00,#00ff00,2,0.3127061582668778
 'thunderstorm cell',en,Causes,#00ffff,#00ffff,1,0.2640784474999999
 'thunderstorm',en,Hazard,#ff0000,#ff0000,3,0.2625438028483846
-'lightning fire',en,Impacts,#ffff00,#ffff00,3,0.210839813355787
+'lightning fire',en,Impacts,#ffff00,#ffff00,3,0.18401924135241893
 'anvil clouds',en,Causes,#00ffff,#00ffff,1,0.1623072974488952
 'lightning and thunder',en,Hazard,#ff0000,#ff0000,3,0.1398969528956835
 'thunderstorm flooding',en,Impacts,#4287f5,#9467bd,2,0.1299798630968576
