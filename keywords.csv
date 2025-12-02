@@ -3,9 +3,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'thunderstorm warning',en,Mitigation,#00ff00,#00ff00,2,0.3127061582668778
 'thunderstorm cell',en,Causes,#00ffff,#00ffff,1,0.2640784474999999
 'thunderstorm',en,Hazard,#ff0000,#ff0000,3,0.2625438028483846
-'anvil clouds',en,Causes,#00ffff,#00ffff,1,0.1623072974488952
 'lightning fire',en,Impacts,#ffff00,#ffff00,3,0.161221515149556
 'lightning and thunder',en,Hazard,#ff0000,#ff0000,3,0.1398969528956835
+'anvil clouds',en,Causes,#00ffff,#00ffff,1,0.13826123283156092
 'hail freezing level',en,Causes,#8e44ad,#17a2b8,1,0.1251543463962643
 'thunderstorm wind damage',en,Impacts,#4287f5,#8c6d31,1,0.1177349910301707
 'hail crop damage',en,Impacts,#2980b9,#ff7f0e,1,0.1161006966020245
@@ -25,7 +25,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'hail dented vehicles',en,Impacts,#2980b9,#843c39,1,0.0913030132306024
 'thunderstorm convection',en,Causes,#9e3215,#17becf,1,0.0907925029281997
 'thunderstorm tornado',en,Hazard,#a89216,#393b79,1,0.0892032503693259
-'thunderstorm squall line',en,Hazard,#a89216,#636363,1,0.08789548805470777
+'thunderstorm squall line',en,Hazard,#a89216,#636363,1,0.0878954880547077
 'hail swath',en,Hazard,#e67e22,#ff6f61,1,0.0872204248425533
 'hail impact resistant roofing',en,Mitigation,#2ecc71,#6b6ecf,1,0.0824730622724364
 'hail vehicle shelters',en,Mitigation,#2ecc71,#e377c2,1,0.0822899506063286
