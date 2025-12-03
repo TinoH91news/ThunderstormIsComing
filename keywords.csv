@@ -5,8 +5,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'thunderstorm cell',en,Causes,#00ffff,#00ffff,1,0.2259668453749999
 'lightning fire',en,Impacts,#ffff00,#ffff00,3,0.1456300665134862
 'lightning and thunder',en,Hazard,#ff0000,#ff0000,3,0.1398969528956835
-'anvil clouds',en,Causes,#00ffff,#00ffff,1,0.1382612328315609
 'hail freezing level',en,Causes,#8e44ad,#17a2b8,1,0.1251543463962643
+'anvil clouds',en,Causes,#00ffff,#00ffff,1,0.11782207790682676
 'thunderstorm wind damage',en,Impacts,#4287f5,#8c6d31,1,0.1177349910301707
 'thunderstorm low pressure',en,Causes,#9e3215,#2ca02c,2,0.115868662892311
 'hail nets',en,Mitigation,#2ecc71,#8c564b,1,0.1130819861933684
@@ -25,7 +25,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'thunderstorm convection',en,Causes,#9e3215,#17becf,1,0.0907925029281997
 'thunderstorm tornado',en,Hazard,#a89216,#393b79,1,0.0892032503693259
 'hail swath',en,Hazard,#e67e22,#ff6f61,1,0.0872204248425533
-'hail crop damage',en,Impacts,#2980b9,#ff7f0e,1,0.08567543254496268
+'hail crop damage',en,Impacts,#2980b9,#ff7f0e,1,0.0856754325449626
 'hail impact resistant roofing',en,Mitigation,#2ecc71,#6b6ecf,1,0.0824730622724364
 'hail vehicle shelters',en,Mitigation,#2ecc71,#e377c2,1,0.0822899506063286
 'thunderstorm building codes',en,Mitigation,#33cc33,#9c9ede,1,0.0808097627574718
