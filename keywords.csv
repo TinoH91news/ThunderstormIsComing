@@ -1,10 +1,10 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'thunderstorm warning',en,Mitigation,#00ff00,#00ff00,2,0.2934271915958116
-'lightning rod',en,Adaptation,#0000ff,#0000ff,2,0.29248853922214063
+'lightning rod',en,Adaptation,#0000ff,#0000ff,2,0.2924885392221406
 'thunderstorm',en,Hazard,#ff0000,#ff0000,3,0.2625438028483846
 'thunderstorm cell',en,Causes,#00ffff,#00ffff,1,0.2259668453749999
 'lightning fire',en,Impacts,#ffff00,#ffff00,3,0.1456300665134862
-'lightning and thunder',en,Hazard,#ff0000,#ff0000,3,0.1398969528956835
+'lightning and thunder',en,Hazard,#ff0000,#ff0000,3,0.13179097641294388
 'hail freezing level',en,Causes,#8e44ad,#17a2b8,1,0.1251543463962643
 'anvil clouds',en,Causes,#00ffff,#00ffff,1,0.1178220779068267
 'thunderstorm wind damage',en,Impacts,#4287f5,#8c6d31,1,0.1177349910301707
