@@ -2,7 +2,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'thunderstorm warning',en,Mitigation,#00ff00,#00ff00,2,0.2934271915958116
 'lightning rod',en,Adaptation,#0000ff,#0000ff,2,0.2576235170484969
 'thunderstorm',en,Hazard,#ff0000,#ff0000,3,0.2279653524211268
-'thunderstorm cell',en,Causes,#00ffff,#00ffff,1,0.1935719835687499
+'thunderstorm cell',en,Causes,#00ffff,#00ffff,1,0.16588633603343741
 'lightning fire',en,Impacts,#ffff00,#ffff00,3,0.1456300665134862
 'lightning and thunder',en,Hazard,#ff0000,#ff0000,3,0.1317909764129438
 'hail freezing level',en,Causes,#8e44ad,#17a2b8,1,0.1251543463962643
@@ -29,5 +29,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'thunderstorm squall line',en,Hazard,#a89216,#636363,1,0.0748611948465015
 'hail impact resistant roofing',en,Mitigation,#2ecc71,#6b6ecf,1,0.0705521479315709
 'hail vehicle shelters',en,Mitigation,#2ecc71,#e377c2,1,0.0596045043130724
-'hail strong updrafts',en,Causes,#8e44ad,#bcbd22,1,0.058789771432096904
+'hail strong updrafts',en,Causes,#8e44ad,#bcbd22,1,0.0587897714320969
 'thunderstorm building codes',en,Mitigation,#33cc33,#9c9ede,1,0.0583850535922733
