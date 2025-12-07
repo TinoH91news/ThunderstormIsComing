@@ -18,7 +18,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'large hail',en,Hazard,#e67e22,#d62728,3,0.1016931309624225
 'hail insurance',en,Mitigation,#22cc44,#1f77b4,2,0.1000503554355817
 'hailstorm',en,Hazard,#e67e22,#756bb1,1,0.0940435492780221
-'thunderstorm flood barriers',en,Mitigation,#33cc33,#7f7f7f,1,0.09203317634497186
+'thunderstorm flood barriers',en,Mitigation,#33cc33,#7f7f7f,1,0.0920331763449718
 'thunderstorm tornado',en,Hazard,#a89216,#393b79,1,0.0892032503693259
 'hail swath',en,Hazard,#e67e22,#ff6f61,1,0.0872204248425533
 'thunderstorm lightning',en,Hazard,#a89216,#637939,2,0.08684454730666
@@ -28,6 +28,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'thunderstorm convection',en,Causes,#9e3215,#17becf,1,0.0774736574889697
 'thunderstorm squall line',en,Hazard,#a89216,#636363,1,0.0748611948465015
 'hail impact resistant roofing',en,Mitigation,#2ecc71,#6b6ecf,1,0.0705521479315709
-'hail strong updrafts',en,Causes,#8e44ad,#bcbd22,1,0.0688114605083493
 'hail vehicle shelters',en,Mitigation,#2ecc71,#e377c2,1,0.0596045043130724
+'hail strong updrafts',en,Causes,#8e44ad,#bcbd22,1,0.058789771432096904
 'thunderstorm building codes',en,Mitigation,#33cc33,#9c9ede,1,0.0583850535922733
