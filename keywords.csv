@@ -25,9 +25,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'hail crop damage',en,Impacts,#2980b9,#ff7f0e,1,0.0856754325449626
 'hail supercells',en,Causes,#8e44ad,#bdb76b,1,0.0836106432907546
 'hail dented vehicles',en,Impacts,#2980b9,#843c39,1,0.077607561246012
-'thunderstorm squall line',en,Hazard,#a89216,#636363,1,0.0748611948465015
 'hail impact resistant roofing',en,Mitigation,#2ecc71,#6b6ecf,1,0.0705521479315709
-'thunderstorm convection',en,Causes,#9e3215,#17becf,1,0.06615263886562425
+'thunderstorm convection',en,Causes,#9e3215,#17becf,1,0.0661526388656242
+'thunderstorm squall line',en,Hazard,#a89216,#636363,1,0.06393204561952628
 'hail vehicle shelters',en,Mitigation,#2ecc71,#e377c2,1,0.0596045043130724
 'hail strong updrafts',en,Causes,#8e44ad,#bcbd22,1,0.0587897714320969
 'thunderstorm building codes',en,Mitigation,#33cc33,#9c9ede,1,0.0583850535922733
