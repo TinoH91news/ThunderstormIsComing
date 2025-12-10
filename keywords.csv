@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'thunderstorm warning',en,Mitigation,#00ff00,#00ff00,2,0.2934271915958116
+'thunderstorm warning',en,Mitigation,#00ff00,#00ff00,2,0.26712861898547213
 'lightning rod',en,Adaptation,#0000ff,#0000ff,2,0.2576235170484969
 'thunderstorm',en,Hazard,#ff0000,#ff0000,3,0.2279653524211268
 'lightning fire',en,Impacts,#ffff00,#ffff00,3,0.1456300665134862
@@ -30,4 +30,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'hail vehicle shelters',en,Mitigation,#2ecc71,#e377c2,1,0.0596045043130724
 'hail strong updrafts',en,Causes,#8e44ad,#bcbd22,1,0.0587897714320969
 'thunderstorm building codes',en,Mitigation,#33cc33,#9c9ede,1,0.0583850535922733
-'thunderstorm squall line',en,Hazard,#a89216,#636363,1,0.046745958460107616
+'thunderstorm squall line',en,Hazard,#a89216,#636363,1,0.0467459584601076
