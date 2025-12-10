@@ -1,16 +1,16 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'thunderstorm warning',en,Mitigation,#00ff00,#00ff00,2,0.26712861898547213
+'thunderstorm warning',en,Mitigation,#00ff00,#00ff00,2,0.2671286189854721
 'lightning rod',en,Adaptation,#0000ff,#0000ff,2,0.2576235170484969
 'thunderstorm',en,Hazard,#ff0000,#ff0000,3,0.2279653524211268
 'lightning fire',en,Impacts,#ffff00,#ffff00,3,0.1456300665134862
 'thunderstorm cell',en,Causes,#00ffff,#00ffff,1,0.1422035206284217
 'lightning and thunder',en,Hazard,#ff0000,#ff0000,3,0.1317909764129438
-'hail freezing level',en,Causes,#8e44ad,#17a2b8,1,0.1251543463962643
 'anvil clouds',en,Causes,#00ffff,#00ffff,1,0.1178220779068267
 'thunderstorm wind damage',en,Impacts,#4287f5,#8c6d31,1,0.1177349910301707
 'thunderstorm low pressure',en,Causes,#9e3215,#2ca02c,2,0.115868662892311
 'thunderstorm early warning',en,Mitigation,#33cc33,#3182bd,1,0.1111292183966875
 'thunderstorm flooding',en,Impacts,#4287f5,#9467bd,2,0.1106333936323289
+'hail freezing level',en,Causes,#8e44ad,#17a2b8,1,0.10653120943682465
 'thunderstorm wind shear',en,Causes,#9e3215,#31a354,1,0.1063828603290854
 'hail roof damage',en,Impacts,#2980b9,#e6550d,2,0.1018239304144174
 'large hail',en,Hazard,#e67e22,#d62728,3,0.1016931309624225
