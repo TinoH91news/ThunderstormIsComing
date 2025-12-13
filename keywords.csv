@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'thunderstorm',en,Hazard,#ff0000,#ff0000,3,0.2279653524211268
 'lightning rod',en,Adaptation,#0000ff,#0000ff,3,0.2239329744912223
-'thunderstorm warning',en,Mitigation,#00ff00,#00ff00,3,0.20515659751872767
+'thunderstorm warning',en,Mitigation,#00ff00,#00ff00,3,0.2051565975187276
 'thunderstorm cell',en,Causes,#00ffff,#00ffff,1,0.1422035206284217
 'lightning and thunder',en,Hazard,#ff0000,#ff0000,3,0.1280747899510022
 'anvil clouds',en,Causes,#00ffff,#00ffff,1,0.1178220779068267
@@ -24,8 +24,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'thunderstorm lightning',en,Hazard,#a89216,#637939,2,0.08684454730666
 'hail crop damage',en,Impacts,#2980b9,#ff7f0e,1,0.0856754325449626
 'hail supercells',en,Causes,#8e44ad,#bdb76b,1,0.0836106432907546
-'hail impact resistant roofing',en,Mitigation,#2ecc71,#6b6ecf,1,0.0705521479315709
 'thunderstorm convection',en,Causes,#9e3215,#17becf,1,0.0661526388656242
+'hail impact resistant roofing',en,Mitigation,#2ecc71,#6b6ecf,1,0.06056938574183526
 'hail vehicle shelters',en,Mitigation,#2ecc71,#e377c2,1,0.0596045043130724
 'hail strong updrafts',en,Causes,#8e44ad,#bcbd22,1,0.0587897714320969
 'hail dented vehicles',en,Impacts,#2980b9,#843c39,1,0.0560714630002436
