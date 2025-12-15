@@ -5,7 +5,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'thunderstorm cell',en,Causes,#00ffff,#00ffff,1,0.1422035206284217
 'lightning and thunder',en,Hazard,#ff0000,#ff0000,3,0.1280747899510022
 'thunderstorm wind damage',en,Impacts,#4287f5,#8c6d31,1,0.1177349910301707
-'thunderstorm low pressure',en,Causes,#9e3215,#2ca02c,2,0.11241128573119162
+'thunderstorm low pressure',en,Causes,#9e3215,#2ca02c,2,0.1124112857311916
 'thunderstorm early warning',en,Mitigation,#33cc33,#3182bd,1,0.1111292183966875
 'thunderstorm flooding',en,Impacts,#4287f5,#9467bd,2,0.1106333936323289
 'hail freezing level',en,Causes,#8e44ad,#17a2b8,1,0.1065312094368246
@@ -21,9 +21,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'thunderstorm power outages',en,Impacts,#4287f5,#7b4173,1,0.0896693192055589
 'thunderstorm tornado',en,Hazard,#a89216,#393b79,1,0.0892032503693259
 'hail swath',en,Hazard,#e67e22,#ff6f61,1,0.0872204248425533
-'thunderstorm lightning',en,Hazard,#a89216,#637939,2,0.08684454730666
 'hail crop damage',en,Impacts,#2980b9,#ff7f0e,1,0.0856754325449626
 'hail supercells',en,Causes,#8e44ad,#bdb76b,1,0.0836106432907546
+'thunderstorm lightning',en,Hazard,#a89216,#637939,3,0.078168825210661
 'thunderstorm convection',en,Causes,#9e3215,#17becf,1,0.0661526388656242
 'hail impact resistant roofing',en,Mitigation,#2ecc71,#6b6ecf,1,0.0605693857418352
 'hail vehicle shelters',en,Mitigation,#2ecc71,#e377c2,1,0.0596045043130724
