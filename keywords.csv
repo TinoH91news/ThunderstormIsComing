@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'lightning rod',en,Adaptation,#0000ff,#0000ff,3,0.20358348331753895
+'lightning rod',en,Adaptation,#0000ff,#0000ff,3,0.2035834833175389
 'thunderstorm',en,Hazard,#ff0000,#ff0000,3,0.2028143986488668
-'thunderstorm warning',en,Mitigation,#00ff00,#00ff00,2,0.1743840828909184
+'thunderstorm warning',en,Mitigation,#00ff00,#00ff00,3,0.16727740045728062
 'thunderstorm cell',en,Causes,#00ffff,#00ffff,1,0.1422035206284217
 'lightning and thunder',en,Hazard,#ff0000,#ff0000,3,0.1280747899510022
 'thunderstorm wind damage',en,Impacts,#4287f5,#8c6d31,1,0.1177349910301707
