@@ -18,10 +18,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'thunderstorm flood barriers',en,Mitigation,#33cc33,#7f7f7f,1,0.0920331763449718
 'thunderstorm wind shear',en,Causes,#9e3215,#31a354,1,0.0907254612797225
 'hail insurance',en,Mitigation,#22cc44,#1f77b4,2,0.0905496848022077
-'thunderstorm power outages',en,Impacts,#4287f5,#7b4173,1,0.0896693192055589
 'thunderstorm tornado',en,Hazard,#a89216,#393b79,1,0.0892032503693259
 'hail supercells',en,Causes,#8e44ad,#bdb76b,1,0.0836106432907546
 'thunderstorm lightning',en,Hazard,#a89216,#637939,3,0.078168825210661
+'thunderstorm power outages',en,Impacts,#4287f5,#7b4173,1,0.07786911632472505
 'hail swath',en,Hazard,#e67e22,#ff6f61,1,0.0744374061161703
 'hail crop damage',en,Impacts,#2980b9,#ff7f0e,1,0.0732741626632182
 'thunderstorm convection',en,Causes,#9e3215,#17becf,1,0.0661526388656242
