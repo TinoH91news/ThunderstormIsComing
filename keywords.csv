@@ -3,10 +3,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'lightning rod',en,Adaptation,#0000ff,#0000ff,3,0.1727793871741945
 'thunderstorm warning',en,Mitigation,#00ff00,#00ff00,3,0.1374051744166871
 'thunderstorm cell',en,Causes,#00ffff,#00ffff,1,0.1275297551540346
-'thunderstorm wind damage',en,Impacts,#4287f5,#8c6d31,1,0.1177349910301707
 'thunderstorm early warning',en,Mitigation,#33cc33,#3182bd,1,0.1111292183966875
 'lightning and thunder',en,Hazard,#ff0000,#ff0000,3,0.1083872410577808
 'lightning fire',en,Impacts,#ffff00,#ffff00,3,0.1051131365903365
+'thunderstorm wind damage',en,Impacts,#4287f5,#8c6d31,1,0.10217496737564509
 'hail roof damage',en,Impacts,#2980b9,#e6550d,2,0.1018239304144174
 'thunderstorm flooding',en,Impacts,#4287f5,#9467bd,2,0.1013887595874795
 'large hail',en,Hazard,#e67e22,#d62728,3,0.0994416813180591
@@ -28,6 +28,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'thunderstorm convection',en,Causes,#9e3215,#17becf,1,0.0568298030357805
 'hail dented vehicles',en,Impacts,#2980b9,#843c39,1,0.0560714630002436
 'hail vehicle shelters',en,Mitigation,#2ecc71,#e377c2,1,0.0508138436661115
-'hail strong updrafts',en,Causes,#8e44ad,#bcbd22,1,0.05027133571728236
+'hail strong updrafts',en,Causes,#8e44ad,#bcbd22,1,0.0502713357172823
 'thunderstorm squall line',en,Hazard,#a89216,#636363,1,0.0400340946910914
 'thunderstorm building codes',en,Mitigation,#33cc33,#9c9ede,1,0.0304773628817514
