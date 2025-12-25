@@ -22,8 +22,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'hail freezing level',en,Causes,#8e44ad,#17a2b8,1,0.0772463265681057
 'hail swath',en,Hazard,#e67e22,#ff6f61,1,0.0744374061161703
 'hail crop damage',en,Impacts,#2980b9,#ff7f0e,1,0.0732741626632182
-'thunderstorm power outages',en,Impacts,#4287f5,#7b4173,1,0.0704889588760162
 'thunderstorm lightning',en,Hazard,#a89216,#637939,2,0.0664444614290618
+'thunderstorm power outages',en,Impacts,#4287f5,#7b4173,1,0.061565795044613764
 'hail impact resistant roofing',en,Mitigation,#2ecc71,#6b6ecf,1,0.0605693857418352
 'thunderstorm convection',en,Causes,#9e3215,#17becf,1,0.0568298030357805
 'hail dented vehicles',en,Impacts,#2980b9,#843c39,1,0.0560714630002436
