@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'thunderstorm',en,Hazard,#ff0000,#ff0000,3,0.1932542697606277
-'lightning rod',en,Adaptation,#0000ff,#0000ff,3,0.1727793871741945
+'lightning rod',en,Adaptation,#0000ff,#0000ff,1,0.1727793871741945
 'thunderstorm warning',en,Mitigation,#00ff00,#00ff00,3,0.1374051744166871
 'thunderstorm early warning',en,Mitigation,#33cc33,#3182bd,1,0.1111292183966875
 'thunderstorm cell',en,Causes,#00ffff,#00ffff,1,0.1093003818809294
@@ -28,6 +28,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'thunderstorm convection',en,Causes,#9e3215,#17becf,1,0.0568298030357805
 'hail vehicle shelters',en,Mitigation,#2ecc71,#e377c2,1,0.0508138436661115
 'hail strong updrafts',en,Causes,#8e44ad,#bcbd22,1,0.0502713357172823
-'hail dented vehicles',en,Impacts,#2980b9,#843c39,1,0.04766074355020706
+'hail dented vehicles',en,Impacts,#2980b9,#843c39,1,0.047660743550207
 'thunderstorm squall line',en,Hazard,#a89216,#636363,1,0.0344790254874276
 'thunderstorm building codes',en,Mitigation,#33cc33,#9c9ede,1,0.0259057584494886
