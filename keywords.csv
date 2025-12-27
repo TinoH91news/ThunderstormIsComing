@@ -4,7 +4,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'thunderstorm warning',en,Mitigation,#00ff00,#00ff00,3,0.1374051744166871
 'thunderstorm early warning',en,Mitigation,#33cc33,#3182bd,1,0.1111292183966875
 'thunderstorm cell',en,Causes,#00ffff,#00ffff,1,0.1093003818809294
-'lightning and thunder',en,Hazard,#ff0000,#ff0000,3,0.1083872410577808
+'lightning and thunder',en,Hazard,#ff0000,#ff0000,1,0.1083872410577808
 'lightning fire',en,Impacts,#ffff00,#ffff00,3,0.1051131365903365
 'thunderstorm wind damage',en,Impacts,#4287f5,#8c6d31,1,0.102174967375645
 'hail roof damage',en,Impacts,#2980b9,#e6550d,2,0.1018239304144174
