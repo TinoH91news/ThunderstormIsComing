@@ -14,7 +14,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'hail roof damage',en,Impacts,#2980b9,#e6550d,1,0.0865506858522547
 'thunderstorm low pressure',en,Causes,#9e3215,#2ca02c,1,0.0831674764407858
 'hail nets',en,Mitigation,#2ecc71,#8c564b,1,0.0823618265247086
-'thunderstorm cell',en,Causes,#00ffff,#00ffff,1,0.08035716465897143
+'thunderstorm cell',en,Causes,#00ffff,#00ffff,1,0.0803571646589714
 'hailstorm',en,Hazard,#e67e22,#756bb1,1,0.0798897286033708
 'hail freezing level',en,Causes,#8e44ad,#17a2b8,1,0.0772463265681057
 'hail swath',en,Hazard,#e67e22,#ff6f61,1,0.0744374061161703
@@ -30,4 +30,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'thunderstorm convection',en,Causes,#9e3215,#17becf,1,0.0487553775804134
 'hail dented vehicles',en,Impacts,#2980b9,#843c39,1,0.047660743550207
 'thunderstorm squall line',en,Hazard,#a89216,#636363,1,0.0299072316643134
-'thunderstorm building codes',en,Mitigation,#33cc33,#9c9ede,1,0.0220198946820653
+'thunderstorm building codes',en,Mitigation,#33cc33,#9c9ede,1,0.018716910479755506
