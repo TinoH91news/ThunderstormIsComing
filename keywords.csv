@@ -26,8 +26,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'thunderstorm flood barriers',en,Mitigation,#33cc33,#7f7f7f,1,0.0565198744228557
 'hail impact resistant roofing',en,Mitigation,#2ecc71,#6b6ecf,1,0.0517840078805599
 'hail vehicle shelters',en,Mitigation,#2ecc71,#e377c2,1,0.0508138436661115
-'hail strong updrafts',en,Causes,#8e44ad,#bcbd22,1,0.0502713357172823
 'thunderstorm convection',en,Causes,#9e3215,#17becf,1,0.0487553775804134
 'hail dented vehicles',en,Impacts,#2980b9,#843c39,1,0.047660743550207
+'hail strong updrafts',en,Causes,#8e44ad,#bcbd22,1,0.04288065035968996
 'thunderstorm squall line',en,Hazard,#a89216,#636363,1,0.0299072316643134
-'thunderstorm building codes',en,Mitigation,#33cc33,#9c9ede,1,0.018716910479755506
+'thunderstorm building codes',en,Mitigation,#33cc33,#9c9ede,1,0.0187169104797555
