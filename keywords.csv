@@ -3,14 +3,14 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'lightning rod',en,Adaptation,#0000ff,#0000ff,3,0.1122911938476517
 'lightning and thunder',en,Hazard,#ff0000,#ff0000,2,0.1061731839900227
 'thunderstorm warning',en,Mitigation,#00ff00,#00ff00,2,0.101750818592298
-'thunderstorm early warning',en,Mitigation,#33cc33,#3182bd,1,0.0959600006371843
 'thunderstorm flooding',en,Impacts,#4287f5,#9467bd,2,0.0952308806493575
 'hail insurance',en,Mitigation,#22cc44,#1f77b4,2,0.0892036813675908
 'thunderstorm tornado',en,Hazard,#a89216,#393b79,1,0.0892032503693259
 'thunderstorm wind damage',en,Impacts,#4287f5,#8c6d31,1,0.0880488422692982
+'thunderstorm early warning',en,Mitigation,#33cc33,#3182bd,1,0.08730708963251574
 'lightning fire',en,Impacts,#ffff00,#ffff00,3,0.0867233731865181
 'hail roof damage',en,Impacts,#2980b9,#e6550d,1,0.0865506858522547
-'large hail',en,Hazard,#e67e22,#d62728,3,0.08469420700229767
+'large hail',en,Hazard,#e67e22,#d62728,3,0.0846942070022976
 'thunderstorm low pressure',en,Causes,#9e3215,#2ca02c,1,0.0815300949746679
 'thunderstorm cell',en,Causes,#00ffff,#00ffff,1,0.0803571646589714
 'hail freezing level',en,Causes,#8e44ad,#17a2b8,1,0.0772463265681057
