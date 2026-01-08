@@ -31,3 +31,26 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'hail dented vehicles',en,Impacts,#2980b9,#843c39,1,0.0405116320176759
 'thunderstorm squall line',en,Hazard,#a89216,#636363,1,0.0227180858774663
 'thunderstorm building codes',en,Mitigation,#33cc33,#9c9ede,1,0.0187169104797555
+'Gewitter',de,Hazard,#ff0000,#ff0000,3,0.10
+'Hagel',de,Hazard,#e67e22,#e67e22,3,0.09
+'Hagelsturm',de,Hazard,#e67e22,#e67e22,2,0.07
+'Grosshagel',de,Hazard,#e67e22,#e67e22,2,0.06
+'Unwetter',de,Hazard,#ff0000,#ff0000,2,0.08
+'Gewitterwarnung',de,Mitigation,#00ff00,#00ff00,2,0.08
+'Hagelwarnung',de,Mitigation,#2ecc71,#2ecc71,2,0.06
+'Unwetterwarnung',de,Mitigation,#33cc33,#33cc33,2,0.07
+'Blitzschutz',de,Adaptation,#0000ff,#0000ff,2,0.05
+'Blitzableiter',de,Adaptation,#0000ff,#0000ff,2,0.05
+'Blitzeinschlag',de,Impacts,#ffff00,#ffff00,2,0.06
+'Brand durch Blitzeinschlag',de,Impacts,#ffff00,#ffff00,1,0.04
+'Hagelschaeden',de,Impacts,#2980b9,#2980b9,2,0.06
+'Dachschaden durch Hagel',de,Impacts,#2980b9,#2980b9,1,0.04
+'Hagelschaden am Auto',de,Impacts,#2980b9,#2980b9,1,0.04
+'Stromausfall',de,Impacts,#4287f5,#4287f5,1,0.03
+'Konvektion',de,Causes,#00ffff,#00ffff,1,0.04
+'Windscherung',de,Causes,#9e3215,#9e3215,1,0.03
+'Aufwind',de,Causes,#8e44ad,#8e44ad,1,0.03
+'Ambosswolke',de,Causes,#00ffff,#00ffff,1,0.02
+'Superzelle',de,Causes,#8e44ad,#8e44ad,1,0.03
+'Nullgradgrenze',de,Causes,#8e44ad,#8e44ad,1,0.02
+
