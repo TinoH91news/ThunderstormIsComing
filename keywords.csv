@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'thunderstorm',en,Hazard,#ff0000,#ff0000,3,0.1467452275691729
 'lightning rod',en,Adaptation,#0000ff,#0000ff,3,0.1122911938476517
-'lightning and thunder',en,Hazard,#ff0000,#ff0000,2,0.1061731839900227
+'lightning and thunder',en,Hazard,#ff0000,#ff0000,2,0.10817547639151928
 'thunderstorm warning',en,Mitigation,#00ff00,#00ff00,2,0.101750818592298
 'Gewitter',de,Hazard,#ff0000,#ff0000,3,0.1
 'Hagel',de,Hazard,#e67e22,#e67e22,3,0.09
@@ -31,7 +31,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hagelschaeden',de,Impacts,#2980b9,#2980b9,2,0.06
 'Hagelwarnung',de,Mitigation,#2ecc71,#2ecc71,2,0.06
 'hail impact resistant roofing',en,Mitigation,#2ecc71,#6b6ecf,1,0.0517840078805599
-'Blitzeinschlag',de,Impacts,#ffff00,#ffff00,1,0.051000119999999996
+'Blitzeinschlag',de,Impacts,#ffff00,#ffff00,1,0.0510001199999999
 'Grosshagel',de,Hazard,#e67e22,#e67e22,1,0.051
 'hail vehicle shelters',en,Mitigation,#2ecc71,#e377c2,1,0.0508138436661115
 'Blitzableiter',de,Adaptation,#0000ff,#0000ff,2,0.05
