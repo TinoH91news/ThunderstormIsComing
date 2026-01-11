@@ -5,10 +5,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'lightning rod',en,Adaptation,#0000ff,#0000ff,3,0.104490958861413
 'thunderstorm warning',en,Mitigation,#00ff00,#00ff00,2,0.101750818592298
 'Gewitter',de,Hazard,#ff0000,#ff0000,3,0.1
-'thunderstorm tornado',en,Hazard,#a89216,#393b79,1,0.0897456700866542
 'hail insurance',en,Mitigation,#22cc44,#1f77b4,2,0.0892036813675908
 'thunderstorm wind damage',en,Impacts,#4287f5,#8c6d31,1,0.0880488422692982
 'thunderstorm early warning',en,Mitigation,#33cc33,#3182bd,1,0.0873070896325157
+'thunderstorm tornado',en,Hazard,#a89216,#393b79,1,0.08712157457365607
 'lightning fire',en,Impacts,#ffff00,#ffff00,3,0.0867233731865181
 'hail roof damage',en,Impacts,#2980b9,#e6550d,1,0.0865506858522547
 'thunderstorm low pressure',en,Causes,#9e3215,#2ca02c,1,0.0815300949746679
