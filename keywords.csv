@@ -1,8 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'thunderstorm',en,Hazard,#ff0000,#ff0000,3,0.1467452275691729
 'Hagel',de,Hazard,#e67e22,#e67e22,3,0.1182697268181818
-'lightning rod',en,Adaptation,#0000ff,#0000ff,3,0.1122911938476517
 'lightning and thunder',en,Hazard,#ff0000,#ff0000,2,0.1119025299327913
+'lightning rod',en,Adaptation,#0000ff,#0000ff,3,0.10449095886141302
 'thunderstorm warning',en,Mitigation,#00ff00,#00ff00,2,0.101750818592298
 'Gewitter',de,Hazard,#ff0000,#ff0000,3,0.1
 'thunderstorm tornado',en,Hazard,#a89216,#393b79,1,0.0897456700866542
@@ -24,7 +24,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'hail supercells',en,Causes,#8e44ad,#bdb76b,1,0.0710690467971414
 'Hagelsturm',de,Hazard,#e67e22,#e67e22,2,0.07
 'Unwetterwarnung',de,Mitigation,#33cc33,#33cc33,2,0.07
-'thunderstorm cell',en,Causes,#00ffff,#00ffff,1,0.06920367996012569
+'thunderstorm cell',en,Causes,#00ffff,#00ffff,1,0.0692036799601256
 'thunderstorm lightning',en,Hazard,#a89216,#637939,2,0.0664444614290618
 'hail swath',en,Hazard,#e67e22,#ff6f61,1,0.0632717951987447
 'thunderstorm power outages',en,Impacts,#4287f5,#7b4173,1,0.0615657950446137
