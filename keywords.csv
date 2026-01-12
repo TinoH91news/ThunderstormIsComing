@@ -8,7 +8,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'hail insurance',en,Mitigation,#22cc44,#1f77b4,2,0.0892036813675908
 'thunderstorm wind damage',en,Impacts,#4287f5,#8c6d31,1,0.0880488422692982
 'thunderstorm early warning',en,Mitigation,#33cc33,#3182bd,1,0.0873070896325157
-'thunderstorm tornado',en,Hazard,#a89216,#393b79,1,0.08712157457365607
+'thunderstorm tornado',en,Hazard,#a89216,#393b79,1,0.087121574573656
 'lightning fire',en,Impacts,#ffff00,#ffff00,3,0.0867233731865181
 'hail roof damage',en,Impacts,#2980b9,#e6550d,1,0.0865506858522547
 'thunderstorm low pressure',en,Causes,#9e3215,#2ca02c,1,0.0815300949746679
@@ -41,10 +41,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'hail strong updrafts',en,Causes,#8e44ad,#bcbd22,1,0.0428806503596899
 'thunderstorm flood barriers',en,Mitigation,#33cc33,#7f7f7f,1,0.0408356092705132
 'hail dented vehicles',en,Impacts,#2980b9,#843c39,1,0.0405116320176759
-'Brand durch Blitzeinschlag',de,Impacts,#ffff00,#ffff00,1,0.04
 'Dachschaden durch Hagel',de,Impacts,#2980b9,#2980b9,1,0.04
 'Hagelschaden am Auto',de,Impacts,#2980b9,#2980b9,1,0.04
 'Konvektion',de,Causes,#00ffff,#00ffff,1,0.04
+'Brand durch Blitzeinschlag',de,Impacts,#ffff00,#ffff00,1,0.034150015000000006
 'Stromausfall',de,Impacts,#4287f5,#4287f5,1,0.03
 'Aufwind',de,Causes,#8e44ad,#8e44ad,1,0.03
 'Windscherung',de,Causes,#9e3215,#9e3215,1,0.0255
