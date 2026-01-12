@@ -5,8 +5,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'lightning and thunder',en,Hazard,#ff0000,#ff0000,2,0.1119025299327913
 'lightning rod',en,Adaptation,#0000ff,#0000ff,3,0.104490958861413
 'thunderstorm warning',en,Mitigation,#00ff00,#00ff00,2,0.101750818592298
+'thunderstorm wind damage',en,Impacts,#4287f5,#8c6d31,1,0.09509174092890346
 'hail insurance',en,Mitigation,#22cc44,#1f77b4,2,0.0892036813675908
-'thunderstorm wind damage',en,Impacts,#4287f5,#8c6d31,1,0.0880488422692982
 'thunderstorm early warning',en,Mitigation,#33cc33,#3182bd,1,0.0873070896325157
 'thunderstorm tornado',en,Hazard,#a89216,#393b79,1,0.087121574573656
 'lightning fire',en,Impacts,#ffff00,#ffff00,3,0.0867233731865181
