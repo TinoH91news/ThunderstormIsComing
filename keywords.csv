@@ -23,12 +23,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Unwetterwarnung',de,Mitigation,#33cc33,#33cc33,2,0.07
 'Hagelsturm',de,Hazard,#e67e22,#e67e22,2,0.07
 'Gewitterwarnung',de,Mitigation,#00ff00,#00ff00,1,0.068
-'thunderstorm lightning',en,Hazard,#a89216,#637939,2,0.0664444614290618
 'hail swath',en,Hazard,#e67e22,#ff6f61,1,0.0632717951987447
 'anvil clouds',en,Causes,#00ffff,#00ffff,1,0.0619819026047253
 'thunderstorm power outages',en,Impacts,#4287f5,#7b4173,1,0.0615657950446137
 'Blitzeinschlag',de,Impacts,#ffff00,#ffff00,1,0.0614252219999999
 'Hagelwarnung',de,Mitigation,#2ecc71,#2ecc71,2,0.06
+'thunderstorm lightning',en,Hazard,#a89216,#637939,3,0.05962861721470253
 'thunderstorm cell',en,Causes,#00ffff,#00ffff,1,0.0595732029661067
 'hail impact resistant roofing',en,Mitigation,#2ecc71,#6b6ecf,1,0.0517840078805599
 'Grosshagel',de,Hazard,#e67e22,#e67e22,1,0.051
@@ -36,7 +36,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Blitzableiter',de,Adaptation,#0000ff,#0000ff,2,0.05
 'thunderstorm convection',en,Causes,#9e3215,#17becf,1,0.0487553775804134
 'hail nets',en,Mitigation,#2ecc71,#8c564b,1,0.0437994563060636
-'Hagelschaeden',de,Impacts,#2980b9,#2980b9,1,0.04334999999999999
+'Hagelschaeden',de,Impacts,#2980b9,#2980b9,1,0.0433499999999999
 'Blitzschutz',de,Adaptation,#0000ff,#0000ff,2,0.04310006
 'hail strong updrafts',en,Causes,#8e44ad,#bcbd22,1,0.0428806503596899
 'thunderstorm flood barriers',en,Mitigation,#33cc33,#7f7f7f,1,0.0408356092705132
