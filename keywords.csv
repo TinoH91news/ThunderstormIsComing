@@ -4,7 +4,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hagel',de,Hazard,#e67e22,#e67e22,3,0.1265377156525974
 'lightning and thunder',en,Hazard,#ff0000,#ff0000,2,0.1064828454428726
 'thunderstorm wind damage',en,Impacts,#4287f5,#8c6d31,1,0.092571046932425
-'hail insurance',en,Mitigation,#22cc44,#1f77b4,2,0.0892036813675908
+'hail insurance',en,Mitigation,#22cc44,#1f77b4,2,0.0884498012314177
 'thunderstorm early warning',en,Mitigation,#33cc33,#3182bd,1,0.0873070896325157
 'thunderstorm tornado',en,Hazard,#a89216,#393b79,1,0.087121574573656
 'hail roof damage',en,Impacts,#2980b9,#e6550d,1,0.0865506858522547
