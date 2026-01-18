@@ -43,8 +43,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hagelschaden am Auto',de,Impacts,#2980b9,#2980b9,1,0.04
 'Dachschaden durch Hagel',de,Impacts,#2980b9,#2980b9,1,0.04
 'Blitzschutz',de,Adaptation,#0000ff,#0000ff,2,0.037235111
-'Konvektion',de,Causes,#00ffff,#00ffff,1,0.03520012
 'Brand durch Blitzeinschlag',de,Impacts,#ffff00,#ffff00,1,0.034150015
+'Konvektion',de,Causes,#00ffff,#00ffff,1,0.031120222
 'Stromausfall',de,Impacts,#4287f5,#4287f5,1,0.03
 'Aufwind',de,Causes,#8e44ad,#8e44ad,1,0.03
 'Windscherung',de,Causes,#9e3215,#9e3215,1,0.0255
