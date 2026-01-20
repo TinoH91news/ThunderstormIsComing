@@ -1,8 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'thunderstorm',en,Hazard,#ff0000,#ff0000,3,0.151160336982184
 'Gewitter',de,Hazard,#ff0000,#ff0000,3,0.1313200536590909
-'Hagel',de,Hazard,#e67e22,#e67e22,3,0.11858368305900156
-'lightning and thunder',en,Hazard,#ff0000,#ff0000,2,0.1064828454428726
+'Hagel',de,Hazard,#e67e22,#e67e22,3,0.1185836830590015
+'lightning and thunder',en,Hazard,#ff0000,#ff0000,3,0.09546346362644172
 'thunderstorm wind damage',en,Impacts,#4287f5,#8c6d31,1,0.092571046932425
 'hail insurance',en,Mitigation,#22cc44,#1f77b4,2,0.0884498012314177
 'thunderstorm tornado',en,Hazard,#a89216,#393b79,1,0.087121574573656
