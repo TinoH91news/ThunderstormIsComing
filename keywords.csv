@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'thunderstorm',en,Hazard,#ff0000,#ff0000,3,0.151160336982184
 'Gewitter',de,Hazard,#ff0000,#ff0000,3,0.1313200536590909
-'Hagel',de,Hazard,#e67e22,#e67e22,3,0.1288721046683441
+'Hagel',de,Hazard,#e67e22,#e67e22,3,0.11858368305900156
 'lightning and thunder',en,Hazard,#ff0000,#ff0000,2,0.1064828454428726
 'thunderstorm wind damage',en,Impacts,#4287f5,#8c6d31,1,0.092571046932425
 'hail insurance',en,Mitigation,#22cc44,#1f77b4,2,0.0884498012314177
@@ -11,7 +11,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'thunderstorm flooding',en,Impacts,#4287f5,#9467bd,1,0.0809466685519538
 'Unwetter',de,Hazard,#ff0000,#ff0000,2,0.08
 'large hail',en,Hazard,#e67e22,#d62728,3,0.0795454167584045
-'thunderstorm early warning',en,Mitigation,#33cc33,#3182bd,1,0.07942974724026991
+'thunderstorm early warning',en,Mitigation,#33cc33,#3182bd,1,0.0794297472402699
 'lightning fire',en,Impacts,#ffff00,#ffff00,3,0.0783704922085403
 'hail freezing level',en,Causes,#8e44ad,#17a2b8,1,0.0772463265681057
 'thunderstorm wind shear',en,Causes,#9e3215,#31a354,1,0.0771166420877641
