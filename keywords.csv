@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'thunderstorm',en,Hazard,#ff0000,#ff0000,3,0.13889333688940186
+'thunderstorm',en,Hazard,#ff0000,#ff0000,3,0.1388933368894018
 'Gewitter',de,Hazard,#ff0000,#ff0000,3,0.1313200536590909
 'Hagelsturm',de,Hazard,#e67e22,#e67e22,1,0.1186750855
 'Hagel',de,Hazard,#e67e22,#e67e22,3,0.1185836830590015
@@ -47,8 +47,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Konvektion',de,Causes,#00ffff,#00ffff,1,0.031120222
 'Stromausfall',de,Impacts,#4287f5,#4287f5,1,0.03
 'Aufwind',de,Causes,#8e44ad,#8e44ad,1,0.03
-'Windscherung',de,Causes,#9e3215,#9e3215,1,0.0255
 'Superzelle',de,Causes,#8e44ad,#8e44ad,1,0.0255
+'Windscherung',de,Causes,#9e3215,#9e3215,1,0.021825014999999996
 'thunderstorm squall line',en,Hazard,#a89216,#636363,1,0.0200604479958463
 'Ambosswolke',de,Causes,#00ffff,#00ffff,1,0.02
 'Nullgradgrenze',de,Causes,#8e44ad,#8e44ad,1,0.02
