@@ -4,7 +4,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hagelsturm',de,Hazard,#e67e22,#e67e22,1,0.1186750855
 'Hagel',de,Hazard,#e67e22,#e67e22,3,0.1185836830590015
 'lightning and thunder',en,Hazard,#ff0000,#ff0000,3,0.0954634636264417
-'thunderstorm wind damage',en,Impacts,#4287f5,#8c6d31,1,0.092571046932425
+'thunderstorm wind damage',en,Impacts,#4287f5,#8c6d31,1,0.08917682136314949
 'hail insurance',en,Mitigation,#22cc44,#1f77b4,2,0.0884498012314177
 'hail roof damage',en,Impacts,#2980b9,#e6550d,1,0.0865506858522547
 'thunderstorm tornado',en,Hazard,#a89216,#393b79,1,0.0842536233876076
@@ -48,7 +48,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Stromausfall',de,Impacts,#4287f5,#4287f5,1,0.03
 'Aufwind',de,Causes,#8e44ad,#8e44ad,1,0.03
 'Superzelle',de,Causes,#8e44ad,#8e44ad,1,0.0255
-'Windscherung',de,Causes,#9e3215,#9e3215,1,0.021825014999999996
+'Windscherung',de,Causes,#9e3215,#9e3215,1,0.0218250149999999
 'thunderstorm squall line',en,Hazard,#a89216,#636363,1,0.0200604479958463
 'Ambosswolke',de,Causes,#00ffff,#00ffff,1,0.02
 'Nullgradgrenze',de,Causes,#8e44ad,#8e44ad,1,0.02
