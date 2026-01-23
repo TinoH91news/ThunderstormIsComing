@@ -8,7 +8,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'lightning and thunder',en,Hazard,#ff0000,#ff0000,3,0.0872484819857012
 'hail roof damage',en,Impacts,#2980b9,#e6550d,1,0.0865506858522547
 'thunderstorm tornado',en,Hazard,#a89216,#393b79,1,0.0842536233876076
-'lightning rod',en,Adaptation,#0000ff,#0000ff,3,0.0842520957773708
 'thunderstorm flooding',en,Impacts,#4287f5,#9467bd,1,0.0809466685519538
 'Unwetter',de,Hazard,#ff0000,#ff0000,2,0.08
 'large hail',en,Hazard,#e67e22,#d62728,3,0.0795454167584045
@@ -16,6 +15,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'lightning fire',en,Impacts,#ffff00,#ffff00,3,0.0783704922085403
 'hail freezing level',en,Causes,#8e44ad,#17a2b8,1,0.0772463265681057
 'thunderstorm wind shear',en,Causes,#9e3215,#31a354,1,0.0771166420877641
+'lightning rod',en,Adaptation,#0000ff,#0000ff,3,0.07656690641076519
 'thunderstorm warning',en,Mitigation,#00ff00,#00ff00,2,0.0764491681829353
 'hail crop damage',en,Impacts,#2980b9,#ff7f0e,1,0.0732741626632182
 'hailstorm',en,Hazard,#e67e22,#756bb1,1,0.0731249753654967
