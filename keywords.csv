@@ -27,11 +27,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'anvil clouds',en,Causes,#00ffff,#00ffff,1,0.0619819026047253
 'thunderstorm power outages',en,Impacts,#4287f5,#7b4173,1,0.0615657950446137
 'Blitzeinschlag',de,Impacts,#ffff00,#ffff00,1,0.0614252219999999
-'Hagelwarnung',de,Mitigation,#2ecc71,#2ecc71,2,0.06
 'thunderstorm lightning',en,Hazard,#a89216,#637939,3,0.0597066832039257
 'thunderstorm cell',en,Causes,#00ffff,#00ffff,1,0.0595732029661067
 'Gewitterwarnung',de,Mitigation,#00ff00,#00ff00,1,0.0578
 'hail impact resistant roofing',en,Mitigation,#2ecc71,#6b6ecf,1,0.0517840078805599
+'Hagelwarnung',de,Mitigation,#2ecc71,#2ecc71,1,0.051
 'hail vehicle shelters',en,Mitigation,#2ecc71,#e377c2,1,0.0508138436661115
 'thunderstorm convection',en,Causes,#9e3215,#17becf,1,0.0487553775804134
 'hail nets',en,Mitigation,#2ecc71,#8c564b,1,0.0437994563060636
@@ -42,7 +42,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'hail dented vehicles',en,Impacts,#2980b9,#843c39,1,0.0405116320176759
 'Dachschaden durch Hagel',de,Impacts,#2980b9,#2980b9,1,0.04
 'Blitzschutz',de,Adaptation,#0000ff,#0000ff,2,0.037235111
-'Hagelschaden am Auto',de,Impacts,#2980b9,#2980b9,1,0.034150015000000006
+'Hagelschaden am Auto',de,Impacts,#2980b9,#2980b9,1,0.034150015
 'Brand durch Blitzeinschlag',de,Impacts,#ffff00,#ffff00,1,0.034150015
 'Konvektion',de,Causes,#00ffff,#00ffff,1,0.031120222
 'Stromausfall',de,Impacts,#4287f5,#4287f5,1,0.03
