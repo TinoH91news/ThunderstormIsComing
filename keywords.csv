@@ -47,8 +47,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Brand durch Blitzeinschlag',de,Impacts,#ffff00,#ffff00,1,0.034150015
 'Stromausfall',de,Impacts,#4287f5,#4287f5,1,0.03
 'Aufwind',de,Causes,#8e44ad,#8e44ad,1,0.03
-'Superzelle',de,Causes,#8e44ad,#8e44ad,1,0.0255
 'Windscherung',de,Causes,#9e3215,#9e3215,1,0.0218250149999999
+'Superzelle',de,Causes,#8e44ad,#8e44ad,1,0.021674999999999996
 'thunderstorm squall line',en,Hazard,#a89216,#636363,1,0.0200604479958463
 'Ambosswolke',de,Causes,#00ffff,#00ffff,1,0.02
 'Nullgradgrenze',de,Causes,#8e44ad,#8e44ad,1,0.02
