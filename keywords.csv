@@ -16,7 +16,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'thunderstorm wind shear',en,Causes,#9e3215,#31a354,1,0.0771166420877641
 'lightning rod',en,Adaptation,#0000ff,#0000ff,3,0.0765669064107651
 'thunderstorm warning',en,Mitigation,#00ff00,#00ff00,2,0.0764491681829353
-'thunderstorm flooding',en,Impacts,#4287f5,#9467bd,2,0.07435505826916074
+'thunderstorm flooding',en,Impacts,#4287f5,#9467bd,2,0.0743550582691607
 'hailstorm',en,Hazard,#e67e22,#756bb1,1,0.0731249753654967
 'thunderstorm low pressure',en,Causes,#9e3215,#2ca02c,2,0.0724508957284677
 'hail supercells',en,Causes,#8e44ad,#bdb76b,1,0.0710690467971414
@@ -38,12 +38,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hagelwarnung',de,Mitigation,#2ecc71,#2ecc71,1,0.0433499999999999
 'Grosshagel',de,Hazard,#e67e22,#e67e22,1,0.0433499999999999
 'hail strong updrafts',en,Causes,#8e44ad,#bcbd22,1,0.0428806503596899
-'thunderstorm flood barriers',en,Mitigation,#33cc33,#7f7f7f,1,0.0408356092705132
 'hail dented vehicles',en,Impacts,#2980b9,#843c39,1,0.0405116320176759
 'Dachschaden durch Hagel',de,Impacts,#2980b9,#2980b9,1,0.04
 'Konvektion',de,Causes,#00ffff,#00ffff,1,0.0395023687
 'Blitzschutz',de,Adaptation,#0000ff,#0000ff,2,0.037235111
 'Hagelschaeden',de,Impacts,#2980b9,#2980b9,1,0.0368474999999999
+'thunderstorm flood barriers',en,Mitigation,#33cc33,#7f7f7f,1,0.03471026787993622
 'Hagelschaden am Auto',de,Impacts,#2980b9,#2980b9,1,0.034150015
 'Brand durch Blitzeinschlag',de,Impacts,#ffff00,#ffff00,1,0.034150015
 'Stromausfall',de,Impacts,#4287f5,#4287f5,1,0.03
