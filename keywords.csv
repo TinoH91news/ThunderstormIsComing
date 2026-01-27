@@ -16,7 +16,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'thunderstorm wind shear',en,Causes,#9e3215,#31a354,1,0.0771166420877641
 'lightning rod',en,Adaptation,#0000ff,#0000ff,3,0.0765669064107651
 'thunderstorm warning',en,Mitigation,#00ff00,#00ff00,2,0.0764491681829353
-'Stromausfall',de,Impacts,#4287f5,#4287f5,2,0.07547524500000001
+'Stromausfall',de,Impacts,#4287f5,#4287f5,2,0.075475245
 'thunderstorm flooding',en,Impacts,#4287f5,#9467bd,2,0.0743550582691607
 'hailstorm',en,Hazard,#e67e22,#756bb1,1,0.0731249753654967
 'thunderstorm low pressure',en,Causes,#9e3215,#2ca02c,2,0.0724508957284677
@@ -30,10 +30,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Blitzeinschlag',de,Impacts,#ffff00,#ffff00,1,0.0614252219999999
 'thunderstorm lightning',en,Hazard,#a89216,#637939,3,0.0597066832039257
 'thunderstorm cell',en,Causes,#00ffff,#00ffff,1,0.0595732029661067
-'Gewitterwarnung',de,Mitigation,#00ff00,#00ff00,1,0.0578
 'Aufwind',de,Causes,#8e44ad,#8e44ad,2,0.051925798548387
 'hail impact resistant roofing',en,Mitigation,#2ecc71,#6b6ecf,1,0.0517840078805599
 'hail vehicle shelters',en,Mitigation,#2ecc71,#e377c2,1,0.0508138436661115
+'Gewitterwarnung',de,Mitigation,#00ff00,#00ff00,1,0.049280014999999996
 'thunderstorm convection',en,Causes,#9e3215,#17becf,1,0.0487553775804134
 'hail nets',en,Mitigation,#2ecc71,#8c564b,1,0.0437994563060636
 'Hagelwarnung',de,Mitigation,#2ecc71,#2ecc71,1,0.0433499999999999
