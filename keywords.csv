@@ -3,7 +3,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gewitter',de,Hazard,#ff0000,#ff0000,3,0.1206649797011363
 'Hagelsturm',de,Hazard,#e67e22,#e67e22,1,0.1186750855
 'Hagel',de,Hazard,#e67e22,#e67e22,3,0.1185836830590015
-'lightning and thunder',en,Hazard,#ff0000,#ff0000,3,0.0947818766233298
+'lightning and thunder',en,Hazard,#ff0000,#ff0000,3,0.10856753512983033
 'thunderstorm wind damage',en,Impacts,#4287f5,#8c6d31,1,0.0891768213631494
 'hail roof damage',en,Impacts,#2980b9,#e6550d,1,0.0891182629744165
 'thunderstorm tornado',en,Hazard,#a89216,#393b79,1,0.0842536233876076
@@ -29,7 +29,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Blitzeinschlag',de,Impacts,#ffff00,#ffff00,1,0.0614252219999999
 'thunderstorm lightning',en,Hazard,#a89216,#637939,3,0.0597066832039257
 'thunderstorm cell',en,Causes,#00ffff,#00ffff,1,0.0595732029661067
-'Blitzableiter',de,Adaptation,#0000ff,#0000ff,1,0.054272704750000005
+'Blitzableiter',de,Adaptation,#0000ff,#0000ff,1,0.05427270475
 'Aufwind',de,Causes,#8e44ad,#8e44ad,2,0.051925798548387
 'hail impact resistant roofing',en,Mitigation,#2ecc71,#6b6ecf,1,0.0517840078805599
 'hail vehicle shelters',en,Mitigation,#2ecc71,#e377c2,1,0.0508138436661115
