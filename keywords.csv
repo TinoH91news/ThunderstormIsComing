@@ -45,8 +45,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hagelschaeden',de,Impacts,#2980b9,#2980b9,1,0.0368474999999999
 'thunderstorm flood barriers',en,Mitigation,#33cc33,#7f7f7f,1,0.0347102678799362
 'hail dented vehicles',en,Impacts,#2980b9,#843c39,1,0.0344348872150245
-'Brand durch Blitzeinschlag',de,Impacts,#ffff00,#ffff00,1,0.034150015
-'Hagelschaden am Auto',de,Impacts,#2980b9,#2980b9,1,0.029177527749999998
+'Brand durch Blitzeinschlag',de,Impacts,#ffff00,#ffff00,1,0.029327542749999998
+'Hagelschaden am Auto',de,Impacts,#2980b9,#2980b9,1,0.0291775277499999
 'Windscherung',de,Causes,#9e3215,#9e3215,1,0.0218250149999999
 'Superzelle',de,Causes,#8e44ad,#8e44ad,1,0.0216749999999999
 'thunderstorm squall line',en,Hazard,#a89216,#636363,1,0.0200604479958463
