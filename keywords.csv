@@ -11,7 +11,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Unwetter',de,Hazard,#ff0000,#ff0000,2,0.08
 'large hail',en,Hazard,#e67e22,#d62728,3,0.0795454167584045
 'thunderstorm early warning',en,Mitigation,#33cc33,#3182bd,1,0.0794297472402699
-'lightning fire',en,Impacts,#ffff00,#ffff00,3,0.07901809723178145
+'lightning fire',en,Impacts,#ffff00,#ffff00,3,0.0790180972317814
 'hail roof damage',en,Impacts,#2980b9,#e6550d,1,0.077550703528254
 'hail freezing level',en,Causes,#8e44ad,#17a2b8,1,0.0772463265681057
 'lightning rod',en,Adaptation,#0000ff,#0000ff,3,0.0765669064107651
@@ -47,9 +47,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'hail dented vehicles',en,Impacts,#2980b9,#843c39,1,0.0344348872150245
 'Brand durch Blitzeinschlag',de,Impacts,#ffff00,#ffff00,1,0.0293275427499999
 'Hagelschaden am Auto',de,Impacts,#2980b9,#2980b9,1,0.0291775277499999
-'Windscherung',de,Causes,#9e3215,#9e3215,1,0.0218250149999999
 'Superzelle',de,Causes,#8e44ad,#8e44ad,1,0.0216749999999999
 'thunderstorm squall line',en,Hazard,#a89216,#636363,1,0.0200604479958463
 'Ambosswolke',de,Causes,#00ffff,#00ffff,1,0.02
 'thunderstorm building codes',en,Mitigation,#33cc33,#9c9ede,1,0.0187169104797555
+'Windscherung',de,Causes,#9e3215,#9e3215,1,0.018701277749999915
 'Nullgradgrenze',de,Causes,#8e44ad,#8e44ad,1,0.017150015
