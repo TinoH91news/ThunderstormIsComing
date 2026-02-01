@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Unwetterwarnung',de,Mitigation,#33cc33,#33cc33,3,0.158546309090909
 'thunderstorm',en,Hazard,#ff0000,#ff0000,3,0.1388933368894018
-'Hagel',de,Hazard,#e67e22,#e67e22,3,0.1343844442365149
+'Hagel',de,Hazard,#e67e22,#e67e22,3,0.13554255896467404
 'Gewitter',de,Hazard,#ff0000,#ff0000,3,0.1206649797011363
 'Hagelsturm',de,Hazard,#e67e22,#e67e22,1,0.1186750855
 'lightning and thunder',en,Hazard,#ff0000,#ff0000,3,0.1085675351298303
@@ -51,5 +51,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'thunderstorm squall line',en,Hazard,#a89216,#636363,1,0.0200604479958463
 'Ambosswolke',de,Causes,#00ffff,#00ffff,1,0.02
 'thunderstorm building codes',en,Mitigation,#33cc33,#9c9ede,1,0.0187169104797555
-'Windscherung',de,Causes,#9e3215,#9e3215,1,0.018701277749999915
+'Windscherung',de,Causes,#9e3215,#9e3215,1,0.0187012777499999
 'Nullgradgrenze',de,Causes,#8e44ad,#8e44ad,1,0.017150015
