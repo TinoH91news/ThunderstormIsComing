@@ -1,250 +1,340 @@
 ,phrase,label,sentiment,subjectivity,language,count
+Hier finden,Hier finden,PERSON,0.0,0.0,de,23.499999999999993
 PETALING JAYA,PETALING JAYA,PERSON,0.24794444444444438,0.5687222222222221,en,15.000000000000004
-Kate Hudson,Kate Hudson,PERSON,0.23822560015741828,0.529496261314443,en,7.700000000000001
+Lesen Sie jetzt,Lesen Sie jetzt,PERSON,0.0,0.0,de,12.700000000000003
+Der Deutsche Wetterdienst,Der Deutsche Wetterdienst,PERSON,0.0,0.0,de,10.000000000000002
+Zur Merkliste hinzufügen,Zur Merkliste hinzufügen,PERSON,0.0,0.0,de,9.100000000000001
+Manuel Hagel,Manuel Hagel,PERSON,0.0,0.0,de,8.200000000000001
 Hugh Jackman,Hugh Jackman,PERSON,0.22720631641086184,0.5071297389479207,en,7.700000000000001
+Kate Hudson,Kate Hudson,PERSON,0.23822560015741828,0.529496261314443,en,7.700000000000001
 Neil Diamond,Neil Diamond,PERSON,0.19131712606288875,0.45767277292701025,en,5.9
-Zur Merkliste hinzufügen,Zur Merkliste hinzufügen,PERSON,0.0,0.0,de,5.5
-Manuel Hagel,Manuel Hagel,PERSON,0.0,0.0,de,5.5
 Cyclone Montha,Cyclone Montha,PERSON,0.02551020408163265,0.6360544217687073,en,4.9
 Claire Sardina,Claire Sardina,PERSON,0.17507575757575755,0.48909090909090913,en,4.0
+Anthony Edwards,Anthony Edwards,PERSON,-0.013157894736842106,0.05701754385964913,en,3.8
 Jake Tapper,Jake Tapper,PERSON,-0.16996996996996996,0.4258258258258258,en,3.6999999999999997
+Jair Bolsonaro,Jair Bolsonaro,PERSON,0.0625,0.25,en,3.2
 Donald Trump,Donald Trump,PERSON,0.09900731452455587,1.7007140369209337,en,2.9
-Quentin Tarantino,Quentin Tarantino,PERSON,0.13528138528138528,0.8874458874458875,en,2.8
+Einer aus unseren Reihen,Einer aus unseren Reihen,PERSON,0.0,0.0,de,2.8
+Der US,Der US,PERSON,0.0,0.0,de,2.8
+Landeschef Manuel Hagel,Landeschef Manuel Hagel,PERSON,0.0,0.0,de,2.8
+Es geht,Es geht,PERSON,0.0,0.0,de,2.8
 mit Schäden,mit Schäden,PERSON,0.0,0.0,de,2.8
-Negeri Sembilan,Negeri Sembilan,PERSON,0.1512896825396825,0.6334325396825397,en,2.8
+Närrische Auszeichnung,Närrische Auszeichnung,PERSON,0.0,0.0,de,2.8
+Quentin Tarantino,Quentin Tarantino,PERSON,0.13528138528138528,0.8874458874458875,en,2.8
 Uttar Pradesh,Uttar Pradesh,PERSON,0.17857142857142858,0.35714285714285715,en,2.8
 Hagel bekommt Narrenschelle,Hagel bekommt Narrenschelle,PERSON,0.0,0.0,de,2.8
-Einer aus unseren Reihen,Einer aus unseren Reihen,PERSON,0.0,0.0,de,2.8
-Närrische Auszeichnung,Närrische Auszeichnung,PERSON,0.0,0.0,de,2.8
-Der US,Der US,PERSON,0.0,0.0,de,2.8
+Lesen Sie jetzt „,Lesen Sie jetzt „,PERSON,0.0,0.0,de,2.8
+Negeri Sembilan,Negeri Sembilan,PERSON,0.1512896825396825,0.6334325396825397,en,2.8
+Technische Probleme,Technische Probleme,PERSON,0.0,0.0,de,2.8
 Song Sung Blue,Song Sung Blue,PERSON,0.041718466718466726,0.5283475783475783,en,2.6
 Das Jahr,Das Jahr,PERSON,0.0,0.0,de,2.5
-Anthony Edwards,Anthony Edwards,PERSON,0.0,0.0,en,2.4
-Cem Özdemir,Cem Özdemir,PERSON,0.0,0.0,de,1.9
-Disney Skyliner,Disney Skyliner,PERSON,0.05068226120857698,0.6276803118908383,en,1.9
-Mike Johnson,Mike Johnson,PERSON,-0.2105263157894737,0.4210526315789474,en,1.9
-Fátima Bosch,Fátima Bosch,PERSON,0.050877192982456146,0.24210526315789474,en,1.9
-Bo Naylor,Bo Naylor,PERSON,0.0,0.0,en,1.9
-eingestellt worden,eingestellt worden,PERSON,0.0,0.0,de,1.9
-Port Pirie,Port Pirie,PERSON,-0.08187134502923979,0.152046783625731,en,1.9
-Milliarden Euro,Milliarden Euro,PERSON,0.0,0.0,de,1.9
-Schäden verursacht als,Schäden verursacht als,PERSON,0.0,0.0,de,1.9
+Gwalia Lightning,Gwalia Lightning,PERSON,0.0,0.0,en,2.4
+Heftige Unwetter,Heftige Unwetter,PERSON,0.0,0.0,de,1.9
+Aaron Rodgers,Aaron Rodgers,PERSON,0.0,0.0,en,1.9
+Mindestens zwei Menschen kamen,Mindestens zwei Menschen kamen,PERSON,0.0,0.0,de,1.9
+auch statistisch,auch statistisch,PERSON,0.0,0.0,de,1.9
+Wirtschaftspolitik der Bundesregierung,Wirtschaftspolitik der Bundesregierung,PERSON,0.0,0.0,de,1.9
+das Kraftfahrt-Bundesamt,das Kraftfahrt-Bundesamt,PERSON,0.0,0.0,de,1.9
+alternativen Antrieben,alternativen Antrieben,PERSON,0.0,0.0,de,1.9
+Berlin beurteilen sie regelmäßig,Berlin beurteilen sie regelmäßig,PERSON,0.0,0.0,de,1.9
+in­nen wollen einen Tarifvertrag durchsetzen,in­nen wollen einen Tarifvertrag durchsetzen,PERSON,0.0,0.0,de,1.9
 Manuel Hagel tritt,Manuel Hagel tritt,PERSON,0.0,0.0,de,1.9
 Ende erneut,Ende erneut,PERSON,0.0,0.0,de,1.9
-Regierung steht,Regierung steht,PERSON,0.0,0.0,de,1.9
-Aaron Rodgers,Aaron Rodgers,PERSON,0.0,0.0,en,1.9
-Hier finden,Hier finden,PERSON,0.0,0.0,de,1.9
-Lesen Sie jetzt,Lesen Sie jetzt,PERSON,0.0,0.0,de,1.9
-Mindestens zwei Menschen kamen,Mindestens zwei Menschen kamen,PERSON,0.0,0.0,de,1.9
-bekommt Manuel,bekommt Manuel,PERSON,0.0,0.0,de,1.9
-hohe Auszeichnung,hohe Auszeichnung,PERSON,0.0,0.0,de,1.9
-Heftige Unwetter,Heftige Unwetter,PERSON,0.0,0.0,de,1.9
 Bundesstaat Kalifornien,Bundesstaat Kalifornien,PERSON,0.0,0.0,de,1.9
+Heftige Regenfälle,Heftige Regenfälle,PERSON,0.0,0.0,de,1.9
+einen Arbeitskampf zu,einen Arbeitskampf zu,PERSON,0.0,0.0,de,1.9
+Die Mit­ar­bei­te­r,Die Mit­ar­bei­te­r,PERSON,0.0,0.0,de,1.9
+Regierung steht,Regierung steht,PERSON,0.0,0.0,de,1.9
+Ministerpräsident werden und,Ministerpräsident werden und,PERSON,0.0,0.0,de,1.9
+Cem Özdemir,Cem Özdemir,PERSON,0.0,0.0,de,1.9
+wohl nur,wohl nur,PERSON,0.0,0.0,de,1.9
+dass sich,dass sich,PERSON,0.0,0.0,de,1.9
+Diese zeigt,Diese zeigt,PERSON,0.0,0.0,de,1.9
+hohe Auszeichnung,hohe Auszeichnung,PERSON,0.0,0.0,de,1.9
+bekommt Manuel,bekommt Manuel,PERSON,0.0,0.0,de,1.9
+Umweltsenatorin ruft,Umweltsenatorin ruft,PERSON,0.0,0.0,de,1.9
+Deutsche Wetterdienst,Deutsche Wetterdienst,PERSON,0.0,0.0,de,1.9
 Jan Zimmermann,Jan Zimmermann,PERSON,0.0,0.0,de,1.9
-Milliarden-Schäden durch Unwetter,Milliarden-Schäden durch Unwetter,PERSON,0.0,0.0,de,1.9
 Während Winterwetter,Während Winterwetter,PERSON,0.0,0.0,de,1.9
 schweren Buschbränden und Unwettern,schweren Buschbränden und Unwettern,PERSON,0.0,0.0,de,1.9
-Sachschäden angerichtet,Sachschäden angerichtet,PERSON,0.0,0.0,de,1.9
-wohl nur,wohl nur,PERSON,0.0,0.0,de,1.9
-Warum Experten,Warum Experten,PERSON,0.0,0.0,de,1.9
 Liebe Leser,Liebe Leser,PERSON,0.0,0.0,de,1.9
-Ministerpräsident werden und,Ministerpräsident werden und,PERSON,0.0,0.0,de,1.9
-Todd Phillips,Todd Phillips,PERSON,0.10526315789473685,0.10526315789473685,en,1.9
-Wetterextreme wie Starkregen,Wetterextreme wie Starkregen,PERSON,0.0,0.0,de,1.9
-Joaquin Phoenix,Joaquin Phoenix,PERSON,0.10526315789473685,0.10526315789473685,en,1.9
-leichtem Aufwind,leichtem Aufwind,PERSON,0.0,0.0,de,1.9
-Diese zeigt,Diese zeigt,PERSON,0.0,0.0,de,1.9
-Schnee fällt,Schnee fällt,PERSON,0.0,0.0,de,1.9
-Sascha Pallenberg,Sascha Pallenberg,PERSON,0.0,0.0,de,1.9
+Nach Angaben des,Nach Angaben des,PERSON,0.0,0.0,de,1.9
+Thüringer Skigebiete,Thüringer Skigebiete,PERSON,0.0,0.0,de,1.9
+das Gewitter-Risiko,das Gewitter-Risiko,PERSON,0.0,0.0,de,1.9
 Wie beeinflussen,Wie beeinflussen,PERSON,0.0,0.0,de,1.9
+Schnee fällt,Schnee fällt,PERSON,0.0,0.0,de,1.9
+Demnach besteht,Demnach besteht,PERSON,0.0,0.0,de,1.9
+Lesen Sie jetzt „Unwetterwarnung,Lesen Sie jetzt „Unwetterwarnung,PERSON,0.0,0.0,de,1.9
+Gefährliche Straßen,Gefährliche Straßen,PERSON,0.0,0.0,de,1.9
+Orkanartige Böen erwartet - Unwetterwarnung,Orkanartige Böen erwartet - Unwetterwarnung,PERSON,0.0,0.0,de,1.9
+Sascha Pallenberg,Sascha Pallenberg,PERSON,0.0,0.0,de,1.9
 Deutschen Versicherungswirtschaft,Deutschen Versicherungswirtschaft,PERSON,0.0,0.0,de,1.9
 Der Gesamtverband,Der Gesamtverband,PERSON,0.0,0.0,de,1.9
-alternativen Antrieben,alternativen Antrieben,PERSON,0.0,0.0,de,1.9
-das Kraftfahrt-Bundesamt,das Kraftfahrt-Bundesamt,PERSON,0.0,0.0,de,1.9
-auch statistisch,auch statistisch,PERSON,0.0,0.0,de,1.9
-das Gewitter-Risiko,das Gewitter-Risiko,PERSON,0.0,0.0,de,1.9
-dass sich,dass sich,PERSON,0.0,0.0,de,1.9
+Wegen Glatteis-Warnung,Wegen Glatteis-Warnung,PERSON,0.0,0.0,de,1.9
+leichtem Aufwind,leichtem Aufwind,PERSON,0.0,0.0,de,1.9
+Milliarden Euro,Milliarden Euro,PERSON,0.0,0.0,de,1.9
+Schäden verursacht als,Schäden verursacht als,PERSON,0.0,0.0,de,1.9
+Warum Experten,Warum Experten,PERSON,0.0,0.0,de,1.9
+Sachschäden angerichtet,Sachschäden angerichtet,PERSON,0.0,0.0,de,1.9
+Milliarden-Schäden durch Unwetter,Milliarden-Schäden durch Unwetter,PERSON,0.0,0.0,de,1.9
+eingestellt worden,eingestellt worden,PERSON,0.0,0.0,de,1.9
+Ministerpräsident werden,Ministerpräsident werden,PERSON,0.0,0.0,de,1.9
+Wetterextreme wie Starkregen,Wetterextreme wie Starkregen,PERSON,0.0,0.0,de,1.9
+Senat warnt,Senat warnt,PERSON,0.0,0.0,de,1.9
+Menschen einen Antrag auf Erstattung ihrer Hotelkosten gestellt,Menschen einen Antrag auf Erstattung ihrer Hotelkosten gestellt,PERSON,0.0,0.0,de,1.9
+Disney Skyliner,Disney Skyliner,PERSON,0.05068226120857698,0.6276803118908383,en,1.9
+Todd Phillips,Todd Phillips,PERSON,0.10526315789473685,0.10526315789473685,en,1.9
+Betroffene jetzt hingehen können,Betroffene jetzt hingehen können,PERSON,0.0,0.0,de,1.9
+Port Pirie,Port Pirie,PERSON,-0.08187134502923979,0.152046783625731,en,1.9
+Das sagte,Das sagte,PERSON,0.0,0.0,de,1.9
+Fátima Bosch,Fátima Bosch,PERSON,0.050877192982456146,0.24210526315789474,en,1.9
+Mike Johnson,Mike Johnson,PERSON,-0.2105263157894737,0.4210526315789474,en,1.9
+Bo Naylor,Bo Naylor,PERSON,0.0,0.0,en,1.9
+Plötzliche Glätte,Plötzliche Glätte,PERSON,0.0,0.0,de,1.9
+stellvertretende Bezirksbürgermeister von Steglitz,stellvertretende Bezirksbürgermeister von Steglitz,PERSON,0.0,0.0,de,1.9
+Joaquin Phoenix,Joaquin Phoenix,PERSON,0.10526315789473685,0.10526315789473685,en,1.9
 Sinar Harian,Sinar Harian,PERSON,-0.06944444444444446,0.1527777777777778,en,1.8
 ALOR SETAR,ALOR SETAR,PERSON,0.19444444444444442,0.3055555555555556,en,1.8
-Jamie Rogers,Jamie Rogers,PERSON,0.07352941176470588,0.14705882352941177,en,1.7
 Cardiff Arms Park,Cardiff Arms Park,PERSON,0.0,0.0,en,1.7
-Gwalia Lightning,Gwalia Lightning,PERSON,0.0,0.0,en,1.7
+Jamie Rogers,Jamie Rogers,PERSON,0.07352941176470588,0.14705882352941177,en,1.7
 große Reformen,große Reformen,PERSON,0.0,0.0,de,1.6
 Friedrich Merz,Friedrich Merz,PERSON,0.0,0.0,de,1.5
 Stephen Thandi,Stephen Thandi,PERSON,0.027056277056277073,0.7548701298701298,en,1.4
-Olde Style Weatherwood,Olde Style Weatherwood,PERSON,0.6223776223776223,1.3566433566433564,en,1.3000000000000003
 Edmund Fitzgerald,Edmund Fitzgerald,PERSON,0.0,0.0,en,1.3000000000000003
 Terrence Tysall,Terrence Tysall,PERSON,0.49999999999999983,0.6923076923076922,en,1.3000000000000003
-Alex Wickham,Alex Wickham,PERSON,0.0,0.0,en,1.3
-hochtrabenden Erwartungen,hochtrabenden Erwartungen,PERSON,0.0,0.0,de,1.3
-fallende Exporteinnahmen,fallende Exporteinnahmen,PERSON,0.0,0.0,de,1.3
-Auch innenpolitisch,Auch innenpolitisch,PERSON,0.0,0.0,de,1.3
-häufen sich,häufen sich,PERSON,0.0,0.0,de,1.3
-immer höhere,immer höhere,PERSON,0.0,0.0,de,1.3
-Noch immer,Noch immer,PERSON,0.0,0.0,de,1.3
-kein Spiel gewonnen,kein Spiel gewonnen,PERSON,0.0,0.0,de,1.3
-Das geht aus einer,Das geht aus einer,PERSON,0.0,0.0,de,1.3
-Die Baisse steht diametral zu den,Die Baisse steht diametral zu den,PERSON,0.0,0.0,de,1.3
-Waymo Robotaxis Stall,Waymo Robotaxis Stall,PERSON,0.13636363636363635,1.1365967365967364,en,1.3
-vielschichtiger Natur,vielschichtiger Natur,PERSON,0.0,0.0,de,1.3
-Todd McClay,Todd McClay,PERSON,0.0,0.07692307692307693,en,1.3
-Fünf Wahlen,Fünf Wahlen,PERSON,0.0,0.0,de,1.3
+Olde Style Weatherwood,Olde Style Weatherwood,PERSON,0.6223776223776223,1.3566433566433564,en,1.3000000000000003
 Piyush Goyal,Piyush Goyal,PERSON,0.0,0.07692307692307693,en,1.3
-Die Probleme,Die Probleme,PERSON,0.0,0.0,de,1.3
+vielschichtiger Natur,vielschichtiger Natur,PERSON,0.0,0.0,de,1.3
+Fünf Wahlen,Fünf Wahlen,PERSON,0.0,0.0,de,1.3
 Die Kälte,Die Kälte,PERSON,0.0,0.0,de,1.3
 zum Opfer,zum Opfer,PERSON,0.0,0.0,de,1.3
+Todd McClay,Todd McClay,PERSON,0.0,0.07692307692307693,en,1.3
+Alex Wickham,Alex Wickham,PERSON,0.0,0.0,en,1.3
+Die Baisse steht diametral zu den,Die Baisse steht diametral zu den,PERSON,0.0,0.0,de,1.3
+Die Probleme,Die Probleme,PERSON,0.0,0.0,de,1.3
+immer höhere,immer höhere,PERSON,0.0,0.0,de,1.3
+Auch innenpolitisch,Auch innenpolitisch,PERSON,0.0,0.0,de,1.3
+Waymo Robotaxis Stall,Waymo Robotaxis Stall,PERSON,0.13636363636363635,1.1365967365967364,en,1.3
+häufen sich,häufen sich,PERSON,0.0,0.0,de,1.3
+Noch immer,Noch immer,PERSON,0.0,0.0,de,1.3
+kein Spiel gewonnen,kein Spiel gewonnen,PERSON,0.0,0.0,de,1.3
+hochtrabenden Erwartungen,hochtrabenden Erwartungen,PERSON,0.0,0.0,de,1.3
+fallende Exporteinnahmen,fallende Exporteinnahmen,PERSON,0.0,0.0,de,1.3
+Das geht aus einer,Das geht aus einer,PERSON,0.0,0.0,de,1.3
 Letitia James,Letitia James,PERSON,0.08049242424242423,0.26136363636363635,en,1.2000000000000002
 Geschichte eingehen,Geschichte eingehen,PERSON,0.0,0.0,de,1.2
 aussenpolitischer Kanzler,aussenpolitischer Kanzler,PERSON,0.0,0.0,de,1.2
-Wang et al,Wang et al,PERSON,0.1313131313131313,0.601010101010101,en,1.1
-Paul Johnson,Paul Johnson,PERSON,0.39999999999999997,0.5174242424242423,en,1.1
-Boyd Varty,Boyd Varty,PERSON,0.37373737373737376,0.7979797979797979,en,1.1
-Jayden Daniels,Jayden Daniels,PERSON,0.0,0.0,en,1.1
-Jackery Offloads,Jackery Offloads,PERSON,1.3409090909090908,1.515151515151515,en,1.1
-Karol Nawrocki,Karol Nawrocki,PERSON,0.3896103896103896,0.7792207792207791,en,1.1
-Thoothukudi waterlogged,Thoothukudi waterlogged,PERSON,-0.3181818181818182,0.7272727272727273,en,1.1
 Geshuang Chen,Geshuang Chen,PERSON,0.0,0.0,en,1.1
+Paul Johnson,Paul Johnson,PERSON,0.39999999999999997,0.5174242424242423,en,1.1
+Karol Nawrocki,Karol Nawrocki,PERSON,0.3896103896103896,0.7792207792207791,en,1.1
+Boyd Varty,Boyd Varty,PERSON,0.37373737373737376,0.7979797979797979,en,1.1
+Wang et al,Wang et al,PERSON,0.1313131313131313,0.601010101010101,en,1.1
+Jackery Offloads,Jackery Offloads,PERSON,1.3409090909090908,1.515151515151515,en,1.1
+Thoothukudi waterlogged,Thoothukudi waterlogged,PERSON,-0.3181818181818182,0.7272727272727273,en,1.1
+Jayden Daniels,Jayden Daniels,PERSON,0.0,0.0,en,1.1
 Ric Mixter,Ric Mixter,PERSON,-0.36363636363636365,0.09090909090909091,en,1.1
-Spitzenwert gab es,Spitzenwert gab es,PERSON,0.0,0.0,de,1.0
-Königswinter Die Nachricht,Königswinter Die Nachricht,PERSON,0.0,0.0,de,1.0
-Tod von Jan Zimmermann,Tod von Jan Zimmermann,PERSON,0.0,0.0,de,1.0
-Craig Brewer,Craig Brewer,PERSON,0.103125,0.475,en,1.0
-sind möglich,sind möglich,PERSON,0.0,0.0,de,1.0
-Auch Schneeschauer,Auch Schneeschauer,PERSON,0.0,0.0,de,1.0
-Meistens zu trocken,Meistens zu trocken,PERSON,0.0,0.0,de,1.0
-Tourette erkrankte,Tourette erkrankte,PERSON,0.0,0.0,de,1.0
-Merz tauscht Büroleiter aus - und,Merz tauscht Büroleiter aus - und,PERSON,0.0,0.0,de,1.0
-Linnemann den stärksten Mann,Linnemann den stärksten Mann,PERSON,0.0,0.0,de,1.0
-Der Deutsche Wetterdienst warnt,Der Deutsche Wetterdienst warnt,PERSON,0.0,0.0,de,1.0
-Heftige Böen,Heftige Böen,PERSON,0.0,0.0,de,1.0
-Von den ext,Von den ext,PERSON,0.0,0.0,de,1.0
-knickt immer ein,knickt immer ein,PERSON,0.0,0.0,de,1.0
-Acht Monate nach seinem Amtsantritt,Acht Monate nach seinem Amtsantritt,PERSON,0.0,0.0,de,1.0
-Bundeskanzler Friedrich Merz,Bundeskanzler Friedrich Merz,PERSON,0.0,0.0,de,1.0
-überraschend seinen Büroleiter ausgetauscht,überraschend seinen Büroleiter ausgetauscht,PERSON,0.0,0.0,de,1.0
-Béla Anda,Béla Anda,PERSON,0.0,0.0,de,1.0
-Spitznamen Taco,Spitznamen Taco,PERSON,0.0,0.0,de,1.0
-Blitze zucken,Blitze zucken,PERSON,0.0,0.0,de,1.0
-Der Blick zum Himm,Der Blick zum Himm,PERSON,0.0,0.0,de,1.0
-Tim Lehmann äußert sich,Tim Lehmann äußert sich,PERSON,0.0,0.0,de,1.0
-Freund Tim meldet sich zurück,Freund Tim meldet sich zurück,PERSON,0.0,0.0,de,1.0
-viele wie,viele wie,PERSON,0.0,0.0,de,1.0
-Ungewöhnlich wenig Blitze,Ungewöhnlich wenig Blitze,PERSON,0.0,0.0,de,1.0
-Der Sommer,Der Sommer,PERSON,0.0,0.0,de,1.0
-ziemlich trocken,ziemlich trocken,PERSON,0.0,0.0,de,1.0
-haben Erklärungen,haben Erklärungen,PERSON,0.0,0.0,de,1.0
-Die Meteorologen,Die Meteorologen,PERSON,0.0,0.0,de,1.0
-Erdblitze zählte,Erdblitze zählte,PERSON,0.0,0.0,de,1.0
-Das fällt auch bei der Blitz,Das fällt auch bei der Blitz,PERSON,0.0,0.0,de,1.0
-extrem blitzarm,extrem blitzarm,PERSON,0.0,0.0,de,1.0
-Nicht einmal,Nicht einmal,PERSON,0.0,0.0,de,1.0
-selten geblitzt,selten geblitzt,PERSON,0.0,0.0,de,1.0
-viel seltener geblitzt als,viel seltener geblitzt als,PERSON,0.0,0.0,de,1.0
-Oft fehlten wichtige Zutaten,Oft fehlten wichtige Zutaten,PERSON,0.0,0.0,de,1.0
-deutschlandweit gezählt,deutschlandweit gezählt,PERSON,0.0,0.0,de,1.0
-Mehr als,Mehr als,PERSON,0.0,0.0,de,1.0
-Ungewöhnlich wenig Blitzeinschläge,Ungewöhnlich wenig Blitzeinschläge,PERSON,0.0,0.0,de,1.0
-Der Blick zum Himmel,Der Blick zum Himmel,PERSON,0.0,0.0,de,1.0
-Die Meteorologen haben,Die Meteorologen haben,PERSON,0.0,0.0,de,1.0
-Neues Jahr,Neues Jahr,PERSON,0.0,0.0,de,1.0
-Das dachte sich,Das dachte sich,PERSON,0.0,0.0,de,1.0
-wohl auch,wohl auch,PERSON,0.0,0.0,de,1.0
-Damit reiht sich,Damit reiht sich,PERSON,0.0,0.0,de,1.0
-das Regionalmedium,das Regionalmedium,PERSON,0.0,0.0,de,1.0
-Nach Angaben des,Nach Angaben des,PERSON,0.0,0.0,de,1.0
-roten Teppich ausrollen,roten Teppich ausrollen,PERSON,0.0,0.0,de,1.0
-Das Kanzleramt,Das Kanzleramt,PERSON,0.0,0.0,de,1.0
-Sicherheitsuntersuchungsstelle wurde danach vorgeworfen,Sicherheitsuntersuchungsstelle wurde danach vorgeworfen,PERSON,0.0,0.0,de,1.0
+das Erge,das Erge,PERSON,0.0,0.0,de,1.0
+Trotz Unwetterwarnungen vor Schnee und Glätte,Trotz Unwetterwarnungen vor Schnee und Glätte,PERSON,0.0,0.0,de,1.0
+Trotz Unwetterwarnung nur wenige Unfälle,Trotz Unwetterwarnung nur wenige Unfälle,PERSON,0.0,0.0,de,1.0
+wenige Unfälle,wenige Unfälle,PERSON,0.0,0.0,de,1.0
+Trotz Unwetterwarnung,Trotz Unwetterwarnung,PERSON,0.0,0.0,de,1.0
+der Nacht zu vergleichsweise wenigen Unfällen gekommen,der Nacht zu vergleichsweise wenigen Unfällen gekommen,PERSON,0.0,0.0,de,1.0
+verheerenden Folgen,verheerenden Folgen,PERSON,0.0,0.0,de,1.0
+Weiter Unwetterwarnung,Weiter Unwetterwarnung,PERSON,0.0,0.0,de,1.0
+Die amtliche Unwetterwarnung,Die amtliche Unwetterwarnung,PERSON,0.0,0.0,de,1.0
+durch starke Schneeverwehungen,durch starke Schneeverwehungen,PERSON,0.0,0.0,de,1.0
+das Sturmtief «,das Sturmtief «,PERSON,0.0,0.0,de,1.0
+denen sich,denen sich,PERSON,0.0,0.0,de,1.0
+jedoch regulär bis,jedoch regulär bis,PERSON,0.0,0.0,de,1.0
+Landkreis Hildburghausen,Landkreis Hildburghausen,PERSON,0.0,0.0,de,1.0
+Skiarea Heubach,Skiarea Heubach,PERSON,0.0,0.0,de,1.0
+wegen Unwetterwarnung zu - eins offen,wegen Unwetterwarnung zu - eins offen,PERSON,0.0,0.0,de,1.0
+Patientenschützer fordern,Patientenschützer fordern,PERSON,0.0,0.0,de,1.0
+Dabei wurden,Dabei wurden,PERSON,0.0,0.0,de,1.0
+zur Vorsicht,zur Vorsicht,PERSON,0.0,0.0,de,1.0
+"Tief ""Gunda","Tief ""Gunda",PERSON,0.0,0.0,de,1.0
+Mehr Produktion,Mehr Produktion,PERSON,0.0,0.0,de,1.0
+Die Berliner,Die Berliner,PERSON,0.0,0.0,de,1.0
+frühen Abend,frühen Abend,PERSON,0.0,0.0,de,1.0
+Ministerpräsidentin Manuela Schwesig,Ministerpräsidentin Manuela Schwesig,PERSON,0.0,0.0,de,1.0
+Glatteisgefahr hält,Glatteisgefahr hält,PERSON,0.0,0.0,de,1.0
+Schwesig hält trotz Unwetterwarnung,Schwesig hält trotz Unwetterwarnung,PERSON,0.0,0.0,de,1.0
+Wegen Glatteises,Wegen Glatteises,PERSON,0.0,0.0,de,1.0
+Westen von MV“,Westen von MV“,PERSON,0.0,0.0,de,1.0
+Lesen Sie jetzt „Glatteis - Unwetterwarnung,Lesen Sie jetzt „Glatteis - Unwetterwarnung,PERSON,0.0,0.0,de,1.0
+den Stromausfall,den Stromausfall,PERSON,0.0,0.0,de,1.0
+Immer wieder sind,Immer wieder sind,PERSON,0.0,0.0,de,1.0
+Lesen Sie jetzt „Unwetterwarnung vor Glätte - viele,Lesen Sie jetzt „Unwetterwarnung vor Glätte - viele,PERSON,0.0,0.0,de,1.0
+Medikamente nur schwer lieferbar,Medikamente nur schwer lieferbar,PERSON,0.0,0.0,de,1.0
+Kosten übernehmen - wie ist er,Kosten übernehmen - wie ist er,PERSON,0.0,0.0,de,1.0
+Das ist,Das ist,PERSON,0.0,0.0,de,1.0
+Michael Liniger,Michael Liniger,PERSON,0.0,0.0,de,1.0
+erfolgsverwöhnten EV,erfolgsverwöhnten EV,PERSON,0.0,0.0,de,1.0
+Ein schwieriger,Ein schwieriger,PERSON,0.0,0.0,de,1.0
+Deutschlands soll es am Montag durch gefrierenden Regen,Deutschlands soll es am Montag durch gefrierenden Regen,PERSON,0.0,0.0,de,1.0
+Deutschen Gesellschaft,Deutschen Gesellschaft,PERSON,0.0,0.0,de,1.0
+einigen Bundesländern,einigen Bundesländern,PERSON,0.0,0.0,de,1.0
+Als Teil de,Als Teil de,PERSON,0.0,0.0,de,1.0
+Andrea Lindwurm-Spaeth,Andrea Lindwurm-Spaeth,PERSON,0.0,0.0,de,1.0
+Die Ärztin,Die Ärztin,PERSON,0.0,0.0,de,1.0
+Wegen der Unwetterwarnung des Deutschen Wetterdienstes,Wegen der Unwetterwarnung des Deutschen Wetterdienstes,PERSON,0.0,0.0,de,1.0
+Unwetterwarnung - Das bedeuten,Unwetterwarnung - Das bedeuten,PERSON,0.0,0.0,de,1.0
+sie bedeuten,sie bedeuten,PERSON,0.0,0.0,de,1.0
+Darüber informiert,Darüber informiert,PERSON,0.0,0.0,de,1.0
+unterschiedliche Wetterwarnungen,unterschiedliche Wetterwarnungen,PERSON,0.0,0.0,de,1.0
+Der Senat,Der Senat,PERSON,0.0,0.0,de,1.0
+Unwetterwarnungen für Berlin,Unwetterwarnungen für Berlin,PERSON,0.0,0.0,de,1.0
+Lesen Sie jetzt „Unwetterwarnungen,Lesen Sie jetzt „Unwetterwarnungen,PERSON,0.0,0.0,de,1.0
+Landkreis Harburg,Landkreis Harburg,PERSON,0.0,0.0,de,1.0
+Derzeit lägen keine,Derzeit lägen keine,PERSON,0.0,0.0,de,1.0
+Hotelkostenerstattung nach Stromausfall,Hotelkostenerstattung nach Stromausfall,PERSON,0.0,0.0,de,1.0
+Angesichts einer Unwetterwarnung des Deutschen Wetterdienstes,Angesichts einer Unwetterwarnung des Deutschen Wetterdienstes,PERSON,0.0,0.0,de,1.0
+Tierpark bleibt,Tierpark bleibt,PERSON,0.0,0.0,de,1.0
+Tierpark bleibt wegen Unwetterwarnung geschlossen,Tierpark bleibt wegen Unwetterwarnung geschlossen,PERSON,0.0,0.0,de,1.0
+Zentimeter Neuschnee,Zentimeter Neuschnee,PERSON,0.0,0.0,de,1.0
+Bei prognostizierten bis zu 15,Bei prognostizierten bis zu 15,PERSON,0.0,0.0,de,1.0
+Zeit ohne,Zeit ohne,PERSON,0.0,0.0,de,1.0
+zu bleiben,zu bleiben,PERSON,0.0,0.0,de,1.0
+zu Hause,zu Hause,PERSON,0.0,0.0,de,1.0
+erwarteten Extremwetterlage,erwarteten Extremwetterlage,PERSON,0.0,0.0,de,1.0
+Freien vermeiden,Freien vermeiden,PERSON,0.0,0.0,de,1.0
+Die Stiftung Patientenschutz,Die Stiftung Patientenschutz,PERSON,0.0,0.0,de,1.0
+Umweltsenatorin Katharina,Umweltsenatorin Katharina,PERSON,0.0,0.0,de,1.0
+strengere Auflagen,strengere Auflagen,PERSON,0.0,0.0,de,1.0
+Die Deutsche,Die Deutsche,PERSON,0.0,0.0,de,1.0
+Gerard Butler,Gerard Butler,PERSON,-0.5,0.5,en,1.0
+Nur fühlig oder schon empfindlich,Nur fühlig oder schon empfindlich,PERSON,0.0,0.0,de,1.0
+bloß lästig,bloß lästig,PERSON,0.0,0.0,de,1.0
+wenn sich,wenn sich,PERSON,0.0,0.0,de,1.0
+Manche Menschen spüren,Manche Menschen spüren,PERSON,0.0,0.0,de,1.0
+Der große Stromausfall,Der große Stromausfall,PERSON,0.0,0.0,de,1.0
+Bränden und Hitzewelle,Bränden und Hitzewelle,PERSON,0.0,0.0,de,1.0
+Bahnsprecher Achim Stauß,Bahnsprecher Achim Stauß,PERSON,0.0,0.0,de,1.0
+Eine generelle Reisewarnung gebe es derzeit nicht,Eine generelle Reisewarnung gebe es derzeit nicht,PERSON,0.0,0.0,de,1.0
+Das Liveblog,Das Liveblog,PERSON,0.0,0.0,de,1.0
+Hamburgerinnen und Hamburger aufgefordert,Hamburgerinnen und Hamburger aufgefordert,PERSON,0.0,0.0,de,1.0
+Brandenburgs aufgehoben,Brandenburgs aufgehoben,PERSON,0.0,0.0,de,1.0
+Sturmtief Elli,Sturmtief Elli,PERSON,0.0,0.0,de,1.0
+traf auch Pflegeheime,traf auch Pflegeheime,PERSON,0.0,0.0,de,1.0
+Donnerstagabend gab,Donnerstagabend gab,PERSON,0.0,0.0,de,1.0
+Teil von Mecklenburg-Vorpommern,Teil von Mecklenburg-Vorpommern,PERSON,0.0,0.0,de,1.0
+Griff - Unwetterwarnung,Griff - Unwetterwarnung,PERSON,0.0,0.0,de,1.0
+Griff - Unwetterwarnung für Südwesten,Griff - Unwetterwarnung für Südwesten,PERSON,0.0,0.0,de,1.0
+m Nordosten,m Nordosten,PERSON,0.0,0.0,de,1.0
+Schneemassen mitanzupac,Schneemassen mitanzupac,PERSON,0.0,0.0,de,1.0
+Wie das Bildungsministerium mitteilte,Wie das Bildungsministerium mitteilte,PERSON,0.0,0.0,de,1.0
+Stromausfall zu Jahresbeginn,Stromausfall zu Jahresbeginn,PERSON,0.0,0.0,de,1.0
+Linkspartei erlebt einen Dämpfer,Linkspartei erlebt einen Dämpfer,PERSON,0.0,0.0,de,1.0
+Ermittlungen teilweise eingestellt,Ermittlungen teilweise eingestellt,PERSON,0.0,0.0,de,1.0
+spricht Klartext,spricht Klartext,PERSON,0.0,0.0,de,1.0
+Bundeskanzler Merz fordert ein selbstbewusstes Europa,Bundeskanzler Merz fordert ein selbstbewusstes Europa,PERSON,0.0,0.0,de,1.0
+Interessanterweise klumpten,Interessanterweise klumpten,PERSON,0.0,0.0,de,1.0
+diesen Modellen spontan zusammen,diesen Modellen spontan zusammen,PERSON,0.0,0.0,de,1.0
+üblichen Faktoren enthielten,üblichen Faktoren enthielten,PERSON,0.0,0.0,de,1.0
+Wolken normalerweise zusammenführen,Wolken normalerweise zusammenführen,PERSON,0.0,0.0,de,1.0
+Plötzlich dunkel,Plötzlich dunkel,PERSON,0.0,0.0,de,1.0
+Nicht zuletzt,Nicht zuletzt,PERSON,0.0,0.0,de,1.0
+Nach Stromausfall,Nach Stromausfall,PERSON,0.0,0.0,de,1.0
 Rund fünf,Rund fünf,PERSON,0.0,0.0,de,1.0
 Neue Studie,Neue Studie,PERSON,0.0,0.0,de,1.0
+Hagel mus,Hagel mus,PERSON,0.0,0.0,de,1.0
+Plötzlich gingen,Plötzlich gingen,PERSON,0.0,0.0,de,1.0
+Wahlkämpfe sind immer auch ein Spiel mit Symbolen,Wahlkämpfe sind immer auch ein Spiel mit Symbolen,PERSON,0.0,0.0,de,1.0
 Michael Jordans,Michael Jordans,PERSON,0.0,0.0,en,1.0
 Neun Ermittlerinnen und,Neun Ermittlerinnen und,PERSON,0.0,0.0,de,1.0
 Donnerstag einen Kurier-Bericht,Donnerstag einen Kurier-Bericht,PERSON,0.0,0.0,de,1.0
 Untersuchungen zugunsten,Untersuchungen zugunsten,PERSON,0.0,0.0,de,1.0
+Sicherheitsuntersuchungsstelle wurde danach vorgeworfen,Sicherheitsuntersuchungsstelle wurde danach vorgeworfen,PERSON,0.0,0.0,de,1.0
 Neun Personen,Neun Personen,PERSON,0.0,0.0,de,1.0
-Das Ergebnis,Das Ergebnis,PERSON,0.0,0.0,de,1.0
 Hagel schwer beschädigt,Hagel schwer beschädigt,PERSON,0.0,0.0,de,1.0
-Ein AUA-Flieger,Ein AUA-Flieger,PERSON,0.0,0.0,de,1.0
-Ermittlungen teilweise eingestellt,Ermittlungen teilweise eingestellt,PERSON,0.0,0.0,de,1.0
-Von einer neuen Entwicklung rund,Von einer neuen Entwicklung rund,PERSON,0.0,0.0,de,1.0
-Slyne Head,Slyne Head,PERSON,-0.25,0.4,en,1.0
-Cyclone Koji,Cyclone Koji,PERSON,-0.1,0.4,en,1.0
-Nicht zuletzt,Nicht zuletzt,PERSON,0.0,0.0,de,1.0
-Insgesamt lagen,Insgesamt lagen,PERSON,0.0,0.0,de,1.0
-lange Lernkurven,lange Lernkurven,PERSON,0.0,0.0,de,1.0
-Hinweise darauf,Hinweise darauf,PERSON,0.0,0.0,de,1.0
-keine Berge,keine Berge,PERSON,0.0,0.0,de,1.0
-Wolken normalerweise zusammenführen,Wolken normalerweise zusammenführen,PERSON,0.0,0.0,de,1.0
-üblichen Faktoren enthielten,üblichen Faktoren enthielten,PERSON,0.0,0.0,de,1.0
-diesen Modellen spontan zusammen,diesen Modellen spontan zusammen,PERSON,0.0,0.0,de,1.0
-Interessanterweise klumpten,Interessanterweise klumpten,PERSON,0.0,0.0,de,1.0
-das liegt,das liegt,PERSON,0.0,0.0,de,1.0
+Hagel beschwört,Hagel beschwört,PERSON,0.0,0.0,de,1.0
+Hagel besch,Hagel besch,PERSON,0.0,0.0,de,1.0
+m Südwesten,m Südwesten,PERSON,0.0,0.0,de,1.0
 Forschungsergebnisse geben,Forschungsergebnisse geben,PERSON,0.0,0.0,de,1.0
-Die Mittelmeerinsel,Die Mittelmeerinsel,PERSON,0.0,0.0,de,1.0
-verheerenden Folgen,verheerenden Folgen,PERSON,0.0,0.0,de,1.0
-Thermodynamik vorhersagt,Thermodynamik vorhersagt,PERSON,0.0,0.0,de,1.0
 entladen weit mehr Niederschläge,entladen weit mehr Niederschläge,PERSON,0.0,0.0,de,1.0
 Manche Unwetter,Manche Unwetter,PERSON,0.0,0.0,de,1.0
 Wolken erklären Starkregen-Rätsel,Wolken erklären Starkregen-Rätsel,PERSON,0.0,0.0,de,1.0
+zeigt nur noch wenige Prozent,zeigt nur noch wenige Prozent,PERSON,0.2,0.6,de,1.0
 seltene Winterextreme,seltene Winterextreme,PERSON,0.0,0.0,de,1.0
+Die Mittelmeerinsel,Die Mittelmeerinsel,PERSON,0.0,0.0,de,1.0
+Insgesamt lagen,Insgesamt lagen,PERSON,0.0,0.0,de,1.0
+Das Ergebnis,Das Ergebnis,PERSON,0.0,0.0,de,1.0
+beraten lassen,beraten lassen,PERSON,0.0,0.0,de,1.0
+Hinweise darauf,Hinweise darauf,PERSON,0.0,0.0,de,1.0
+Merz berichtet über ein Telefonat,Merz berichtet über ein Telefonat,PERSON,0.0,0.0,de,1.0
+wieder über P,wieder über P,PERSON,0.0,0.0,de,1.0
+Windstille positiv,Windstille positiv,PERSON,0.0,0.0,de,1.0
+das liegt,das liegt,PERSON,0.0,0.0,de,1.0
+März nicht hoffen,März nicht hoffen,PERSON,0.0,0.0,de,1.0
+Auf Rückenwind aus Berlin kann,Auf Rückenwind aus Berlin kann,PERSON,0.0,0.0,de,1.0
+Lesen Sie jetzt „Stromausfall,Lesen Sie jetzt „Stromausfall,PERSON,0.0,0.0,de,1.0
+holt der Kanzler,holt der Kanzler,PERSON,-0.6999999999999998,0.6666666666666666,de,1.0
+Manuel Hagel zu unterstützen,Manuel Hagel zu unterstützen,PERSON,-0.6999999999999998,0.6666666666666666,de,1.0
+Der Landtagswahlkampf,Der Landtagswahlkampf,PERSON,0.0,0.0,de,1.0
+Ein AUA-Flieger,Ein AUA-Flieger,PERSON,0.0,0.0,de,1.0
+Von einer neuen Entwicklung rund,Von einer neuen Entwicklung rund,PERSON,0.0,0.0,de,1.0
+Auch der Aufschwung,Auch der Aufschwung,PERSON,0.0,0.0,de,1.0
+Patientenschützer fordert,Patientenschützer fordert,PERSON,0.0,0.0,de,1.0
+Straßen und,Straßen und,PERSON,0.0,0.0,de,1.0
+Früh Vorsicht geboten,Früh Vorsicht geboten,PERSON,0.0,0.0,de,1.0
+Regen und Hitze,Regen und Hitze,PERSON,0.0,0.0,de,1.0
+Der Laptop-Akku,Der Laptop-Akku,PERSON,0.2,0.6,de,1.0
+wenn eine Notfall-Vorsorge außerdem einen,wenn eine Notfall-Vorsorge außerdem einen,PERSON,0.0,0.0,de,1.0
+Die Tallpower,Die Tallpower,PERSON,0.0,0.0,de,1.0
+Montagabend galten,Montagabend galten,PERSON,0.0,0.0,de,1.0
+Vorsicht geboten,Vorsicht geboten,PERSON,0.0,0.0,de,1.0
+Lesen Sie jetzt „Eis-Unwetterwarnung,Lesen Sie jetzt „Eis-Unwetterwarnung,PERSON,0.0,0.0,de,1.0
+westlichen Landesteil,westlichen Landesteil,PERSON,0.0,0.0,de,1.0
+Zuvor bestand diese nur,Zuvor bestand diese nur,PERSON,0.0,0.0,de,1.0
+dass es,dass es,PERSON,0.0,0.0,de,1.0
+Günstige Powerstation mit Solarpanel,Günstige Powerstation mit Solarpanel,PERSON,0.0,0.0,de,1.0
+Brango Mag,Brango Mag,PERSON,0.0,0.0,en,1.0
+Dienstag nicht,Dienstag nicht,PERSON,0.0,0.0,de,1.0
+Wahlumfrage zur Berliner Abgeordnetenhauswahl,Wahlumfrage zur Berliner Abgeordnetenhauswahl,PERSON,0.0,0.0,de,1.0
+teils keine Schule“,teils keine Schule“,PERSON,0.0,0.0,de,1.0
+Lesen Sie jetzt „Glatteis-Warnung,Lesen Sie jetzt „Glatteis-Warnung,PERSON,0.0,0.0,de,1.0
+teils keine Schule,teils keine Schule,PERSON,0.0,0.0,de,1.0
+Thermodynamik vorhersagt,Thermodynamik vorhersagt,PERSON,0.0,0.0,de,1.0
+seit der vergangenen Wahl,seit der vergangenen Wahl,PERSON,0.0,0.0,de,1.0
+Gehwege können tü,Gehwege können tü,PERSON,0.0,0.0,de,1.0
+Lesen Sie jetzt „Unwetterwarnung wegen Glätte,Lesen Sie jetzt „Unwetterwarnung wegen Glätte,PERSON,0.0,0.0,de,1.0
+Morgen vor Glätte,Morgen vor Glätte,PERSON,0.0,0.0,de,1.0
+Massiver Regen,Massiver Regen,PERSON,0.0,0.0,de,1.0
+neuen Wahlkampf,neuen Wahlkampf,PERSON,0.0,0.0,de,1.0
+Hagel als Kumpel von nebenan,Hagel als Kumpel von nebenan,PERSON,0.0,0.0,de,1.0
+neuen Wahlkampfregeln,neuen Wahlkampfregeln,PERSON,0.0,0.0,de,1.0
+Hagel als Kumpel von nebenan inszeniert,Hagel als Kumpel von nebenan inszeniert,PERSON,0.0,0.0,de,1.0
+Bauhelm und türkises,Bauhelm und türkises,PERSON,0.0,0.0,de,1.0
+Hagel als Mann aus der Mitte,Hagel als Mann aus der Mitte,PERSON,0.15,0.6499999999999999,de,1.0
+Slyne Head,Slyne Head,PERSON,-0.25,0.4,en,1.0
+keine Berge,keine Berge,PERSON,0.0,0.0,de,1.0
+Cyclone Koji,Cyclone Koji,PERSON,-0.1,0.4,en,1.0
+Brad Martz,Brad Martz,PERSON,0.0,0.0,en,1.0
+Westteil Mecklenburg-Vorpommerns aufgehoben,Westteil Mecklenburg-Vorpommerns aufgehoben,PERSON,0.0,0.0,de,1.0
 zwölf Monaten sanken,zwölf Monaten sanken,PERSON,0.0,0.0,de,1.0
 zumindest einen klaren Aufwärtstrend vorweisen,zumindest einen klaren Aufwärtstrend vorweisen,PERSON,0.0,0.0,de,1.0
+Pflegeheime gefordert,Pflegeheime gefordert,PERSON,0.0,0.0,de,1.0
+Niedriglohn bei Schnee,Niedriglohn bei Schnee,PERSON,0.0,0.0,de,1.0
 kann zum Jahresende,kann zum Jahresende,PERSON,0.0,0.0,de,1.0
-Seit vielen Jahren,Seit vielen Jahren,PERSON,0.0,0.0,de,1.0
-Eigentlich wollte,Eigentlich wollte,PERSON,0.0,0.0,de,1.0
-Kälte abgesagt,Kälte abgesagt,PERSON,0.0,0.0,de,1.0
-Wichtiger Merz-Termin,Wichtiger Merz-Termin,PERSON,0.0,0.0,de,1.0
-Dent Vanish Atlanta,Dent Vanish Atlanta,PERSON,0.0,0.0,en,1.0
-Mike Wickham,Mike Wickham,PERSON,0.0,0.0,en,1.0
-Joshua Dahya,Joshua Dahya,PERSON,0.0,0.0,en,1.0
-bereits Anfang,bereits Anfang,PERSON,0.0,0.0,de,1.0
-Gerard Butler,Gerard Butler,PERSON,-0.5,0.5,en,1.0
-Landeschef Manuel Hagel,Landeschef Manuel Hagel,PERSON,0.0,0.0,de,1.0
-Ministerpräsident werden,Ministerpräsident werden,PERSON,0.0,0.0,de,1.0
-Hagel setzt,Hagel setzt,PERSON,0.0,0.0,de,1.0
-im Kanzleramt,im Kanzleramt,PERSON,0.0,0.0,de,1.0
-Nationaler Sicherheitsberater,Nationaler Sicherheitsberater,PERSON,0.0,0.0,de,1.0
-Jacob Schrot,Jacob Schrot,PERSON,0.0,0.0,de,1.0
-heimlicher Helfer,heimlicher Helfer,PERSON,0.0,0.0,de,1.0
-Hagel als starken,Hagel als starken,PERSON,0.0,0.0,de,1.0
-zur Klausur,zur Klausur,PERSON,0.0,0.0,de,1.0
-Spitzenmann Manuel Hagel,Spitzenmann Manuel Hagel,PERSON,0.0,0.0,de,1.0
-Hagel mus,Hagel mus,PERSON,0.0,0.0,de,1.0
-Bränden und Hitzewelle,Bränden und Hitzewelle,PERSON,0.0,0.0,de,1.0
-Manche Menschen spüren,Manche Menschen spüren,PERSON,0.0,0.0,de,1.0
-wenn sich,wenn sich,PERSON,0.0,0.0,de,1.0
-bloß lästig,bloß lästig,PERSON,0.0,0.0,de,1.0
-Nur fühlig oder schon empfindlich,Nur fühlig oder schon empfindlich,PERSON,0.0,0.0,de,1.0
-Andrea Lindwurm-Spaeth,Andrea Lindwurm-Spaeth,PERSON,0.0,0.0,de,1.0
-Die Ärztin,Die Ärztin,PERSON,0.0,0.0,de,1.0
-Deutschen Gesellschaft,Deutschen Gesellschaft,PERSON,0.0,0.0,de,1.0
-Als Teil de,Als Teil de,PERSON,0.0,0.0,de,1.0
-Ein schwieriger,Ein schwieriger,PERSON,0.0,0.0,de,1.0
-erfolgsverwöhnten EV,erfolgsverwöhnten EV,PERSON,0.0,0.0,de,1.0
-Michael Liniger,Michael Liniger,PERSON,0.0,0.0,de,1.0
-Klimaschutz bekommt Aufwind,Klimaschutz bekommt Aufwind,PERSON,0.0,0.0,de,1.0
+"Es sei ""unverständlich","Es sei ""unverständlich",PERSON,0.0,0.0,de,1.0
+Bundesgesundheitsministerin keine Initiative zeigt,Bundesgesundheitsministerin keine Initiative zeigt,PERSON,0.0,0.0,de,1.0
+Pflegeheimbewohner zu s,Pflegeheimbewohner zu s,PERSON,0.0,0.0,de,1.0
+nur noch eine amtliche Warnung vor,nur noch eine amtliche Warnung vor,PERSON,0.0,0.0,de,1.0
+sein Generalsekretär,sein Generalsekretär,PERSON,0.0,0.0,de,1.0
 Shi M,Shi M,PERSON,0.0,0.0,en,1.0
-Nun greift sie verstärkt,Nun greift sie verstärkt,PERSON,0.0,0.0,de,1.0
-Es geht,Es geht,PERSON,0.0,0.0,de,1.0
-Brian DunningDecember,Brian DunningDecember,PERSON,0.0,0.0,en,1.0
-Schäden aus Naturkatastrophen,Schäden aus Naturkatastrophen,PERSON,0.0,0.0,de,1.0
-Pixabay Die,Pixabay Die,PERSON,0.0,0.0,de,1.0
-Symbolbild Waldbrand,Symbolbild Waldbrand,PERSON,0.0,0.0,de,1.0
-Als Hauptgründe,Als Hauptgründe,PERSON,0.0,0.0,de,1.0
-Die versicherten Schäden aus Naturkatastrophen übersteigen,Die versicherten Schäden aus Naturkatastrophen übersteigen,PERSON,0.0,0.0,de,1.0
-Versicherte Schäden,Versicherte Schäden,PERSON,0.0,0.0,de,1.0
-Kuala Lu,Kuala Lu,PERSON,0.21333333333333332,0.6533333333333333,en,1.0
-Jeanne Richard,Jeanne Richard,PERSON,0.0,0.0,de,1.0
-Julia Simon,Julia Simon,PERSON,0.0,0.0,de,1.0
-Die Kreditkartenaffäre rund um,Die Kreditkartenaffäre rund um,PERSON,0.0,0.0,de,1.0
-Für Kapriolen i,Für Kapriolen i,PERSON,0.0,0.0,de,1.0
-Verband hüllt sich,Verband hüllt sich,PERSON,0.0,0.0,de,1.0
-RJ Sca,RJ Sca,PERSON,0.0,1.0,en,1.0
-Donald Trump’s,Donald Trump’s,PERSON,-0.2,0.4,en,1.0
-Das schwarz-grüne Duell,Das schwarz-grüne Duell,PERSON,0.0,0.0,de,1.0
-Es ge,Es ge,PERSON,0.0,0.0,de,1.0
+roten Teppich ausrollen,roten Teppich ausrollen,PERSON,0.0,0.0,de,1.0
+Wovon das abhängt,Wovon das abhängt,PERSON,0.0,0.0,de,1.0
+entwurzelt Bäume,entwurzelt Bäume,PERSON,0.0,0.0,de,1.0
+Zudem fegt ein Wintersturm,Zudem fegt ein Wintersturm,PERSON,0.0,0.0,de,1.0
+Kalifornien Überschwemmungen und Schlammlawinen aus,Kalifornien Überschwemmungen und Schlammlawinen aus,PERSON,0.0,0.0,de,1.0
+Wintersturm und Überflutungen,Wintersturm und Überflutungen,PERSON,0.0,0.0,de,1.0
+zu Überschw,zu Überschw,PERSON,0.0,0.0,de,1.0
+Mindestens drei,Mindestens drei,PERSON,0.0,0.0,de,1.0
+noch de,noch de,PERSON,0.0,0.0,de,1.0
+Menschenleben gefordert,Menschenleben gefordert,PERSON,0.0,0.0,de,1.0
+nan Heftige Unwetter haben,nan Heftige Unwetter haben,PERSON,0.0,0.0,de,1.0
 Mindestens drei Tote bei Unwettern,Mindestens drei Tote bei Unwettern,PERSON,0.0,0.0,de,1.0
-Dubai Crown Prince,Dubai Crown Prince,PERSON,-0.4333333333333333,0.6,en,1.0
+Greg Kohs,Greg Kohs,PERSON,0.0,0.075,en,1.0
 Alana Burrows,Alana Burrows,PERSON,-0.1,0.4,en,1.0
 ‘Song Sung Blue’ Review,‘Song Sung Blue’ Review,PERSON,0.425,0.55,en,1.0
 DER ANDERE BLICK - Merz,DER ANDERE BLICK - Merz,PERSON,0.0,0.0,de,1.0
@@ -259,15 +349,51 @@ Erdal Ayverdi muss,Erdal Ayverdi muss,PERSON,0.0,0.0,de,1.0
 Anthony Albanese,Anthony Albanese,PERSON,0.1875,0.21666666666666667,en,1.0
 Burj Khali,Burj Khali,PERSON,0.24761904761904763,0.6619047619047619,en,1.0
 Hamdan bin Mohammed Bin Rashid Al Maktoum,Hamdan bin Mohammed Bin Rashid Al Maktoum,PERSON,0.5,1.0,en,1.0
+Nach Medienberichten gab es bereits mehrere Tote,Nach Medienberichten gab es bereits mehrere Tote,PERSON,0.0,0.0,de,1.0
+Kalifornien durch umstü,Kalifornien durch umstü,PERSON,0.0,0.0,de,1.0
+durch umstürzende Bäume,durch umstürzende Bäume,PERSON,0.0,0.0,de,1.0
+nicht Merkel,nicht Merkel,PERSON,0.0,0.0,de,1.0
+Mal bleibt er liegen,Mal bleibt er liegen,PERSON,0.0,0.0,de,1.0
+mal nass und pappig,mal nass und pappig,PERSON,0.0,0.0,de,1.0
+Kann Manuel Hagel,Kann Manuel Hagel,PERSON,0.0,0.0,de,1.0
+Besonders spannend,Besonders spannend,PERSON,0.0,0.0,de,1.0
+kräftig durcheinanderwirbeln,kräftig durcheinanderwirbeln,PERSON,0.0,0.0,de,1.0
+Das Super-Wahljahr,Das Super-Wahljahr,PERSON,0.0,0.0,de,1.0
+Muss Merz zittern,Muss Merz zittern,PERSON,0.0,0.0,de,1.0
+jüngste Ministerpräsident,jüngste Ministerpräsident,PERSON,0.0,0.0,de,1.0
+Konservativen ist,Konservativen ist,PERSON,0.2,0.3,de,1.0
+Manuel Hagel erklärt,Manuel Hagel erklärt,PERSON,0.2,0.3,de,1.0
+es ist Adenauer,es ist Adenauer,PERSON,0.0,0.0,de,1.0
+Der wahre Feind,Der wahre Feind,PERSON,0.0,0.0,de,1.0
+Pittsburgh Steelers,Pittsburgh Steelers,PERSON,0.0,0.0,en,1.0
+hatte sie mehr als,hatte sie mehr als,PERSON,0.0,0.0,de,1.0
+Tag der,Tag der,PERSON,0.0,0.0,de,1.0
+Die Ausgangslage,Die Ausgangslage,PERSON,0.0,0.0,de,1.0
+Aaron Burden,Aaron Burden,PERSON,0.0,0.0,de,1.0
+Johannes Plenio und,Johannes Plenio und,PERSON,0.0,0.0,de,1.0
+Physikalisch hängen,Physikalisch hängen,PERSON,0.0,0.0,de,1.0
+unterschieden wie Tag und Nacht,unterschieden wie Tag und Nacht,PERSON,0.0,0.0,de,1.0
+Blitze und,Blitze und,PERSON,0.0,0.0,de,1.0
+Wie entsteht,Wie entsteht,PERSON,0.0,0.0,de,1.0
+Wassereis Gewitterwolken regelrecht zum Kochen,Wassereis Gewitterwolken regelrecht zum Kochen,PERSON,0.0,0.0,de,1.0
+Mechanismus hinter Blitzen,Mechanismus hinter Blitzen,PERSON,0.0,0.0,de,1.0
 Dubai Crown,Dubai Crown,PERSON,0.5,1.0,en,1.0
-Ystrad Mynach,Ystrad Mynach,PERSON,-0.125,0.375,en,1.0
-Nikos Karasavvas,Nikos Karasavvas,PERSON,0.1886904761904762,0.4916666666666667,en,1.0
-Ben Creek,Ben Creek,PERSON,0.0,0.0,en,1.0
-Conor Pope,Conor Pope,PERSON,0.0,0.0,en,1.0
+Dubai Crown Prince,Dubai Crown Prince,PERSON,-0.4333333333333333,0.6,en,1.0
+Es ge,Es ge,PERSON,0.0,0.0,de,1.0
+Nelson Chenault-Imagn,Nelson Chenault-Imagn,PERSON,-0.4,0.4,en,1.0
+Alice Springs,Alice Springs,PERSON,0.0,0.0,en,1.0
+Manendra Kopparthi,Manendra Kopparthi,PERSON,-0.1,0.4,en,1.0
+Jordan Baxter,Jordan Baxter,PERSON,0.0,0.0,en,1.0
+Shuchang Dong,Shuchang Dong,PERSON,0.0,0.0,en,1.0
+Bengal rain,Bengal rain,PERSON,-0.1,0.75,en,1.0
+Tab Shingles,Tab Shingles,PERSON,0.0,0.0,en,1.0
+Gary Logan,Gary Logan,PERSON,0.0,0.0,en,1.0
+Colton Honeycutt,Colton Honeycutt,PERSON,-0.2,0.4,en,1.0
+Boyd Varty(@boyd_varty,Boyd Varty(@boyd_varty,PERSON,-0.033333333333333326,0.3333333333333333,en,1.0
 Bret Saalwaechter,Bret Saalwaechter,PERSON,-0.1,0.4875,en,1.0
 Bhubaneswar Directo,Bhubaneswar Directo,PERSON,0.0,0.0,en,1.0
-Nelson Chenault-Imagn,Nelson Chenault-Imagn,PERSON,-0.4,0.4,en,1.0
 Franz Kafka,Franz Kafka,PERSON,0.5,0.5,en,1.0
+Doug Bostrom,Doug Bostrom,PERSON,0.0,0.25,en,1.0
 Kim Jeffrey,Kim Jeffrey,PERSON,0.125,0.33125,en,1.0
 Karen Bass,Karen Bass,PERSON,0.08333333333333333,0.43333333333333335,en,1.0
 HALLIE GOLDEN,HALLIE GOLDEN,PERSON,0.3,0.7,en,1.0
@@ -279,47 +405,137 @@ Wakayama ume,Wakayama ume,PERSON,0.13636363636363635,0.45454545454545453,en,1.0
 Liu Y,Liu Y,PERSON,0.0,0.0,en,1.0
 Wang J,Wang J,PERSON,0.0,0.0,en,1.0
 Li Q,Li Q,PERSON,0.0,0.0,en,1.0
-Boyd Varty(@boyd_varty,Boyd Varty(@boyd_varty,PERSON,-0.033333333333333326,0.3333333333333333,en,1.0
-Colton Honeycutt,Colton Honeycutt,PERSON,-0.2,0.4,en,1.0
-Gary Logan,Gary Logan,PERSON,0.0,0.0,en,1.0
+Kallianos - Near,Kallianos - Near,PERSON,-0.11666666666666665,0.5611111111111111,en,1.0
 Isaiah Joe,Isaiah Joe,PERSON,-0.03333333333333333,0.45555555555555555,en,1.0
+Das schwarz-grüne Duell,Das schwarz-grüne Duell,PERSON,0.0,0.0,de,1.0
+Für Kapriolen i,Für Kapriolen i,PERSON,0.0,0.0,de,1.0
+Brian DunningDecember,Brian DunningDecember,PERSON,0.0,0.0,en,1.0
+Schäden aus Naturkatastrophen,Schäden aus Naturkatastrophen,PERSON,0.0,0.0,de,1.0
+Pixabay Die,Pixabay Die,PERSON,0.0,0.0,de,1.0
+Symbolbild Waldbrand,Symbolbild Waldbrand,PERSON,0.0,0.0,de,1.0
+Als Hauptgründe,Als Hauptgründe,PERSON,0.0,0.0,de,1.0
+Die versicherten Schäden aus Naturkatastrophen übersteigen,Die versicherten Schäden aus Naturkatastrophen übersteigen,PERSON,0.0,0.0,de,1.0
+Versicherte Schäden,Versicherte Schäden,PERSON,0.0,0.0,de,1.0
+Kuala Lu,Kuala Lu,PERSON,0.21333333333333332,0.6533333333333333,en,1.0
+Jeanne Richard,Jeanne Richard,PERSON,0.0,0.0,de,1.0
+Julia Simon,Julia Simon,PERSON,0.0,0.0,de,1.0
+Die Kreditkartenaffäre rund um,Die Kreditkartenaffäre rund um,PERSON,0.0,0.0,de,1.0
+Verband hüllt sich,Verband hüllt sich,PERSON,0.0,0.0,de,1.0
+Denny Dahl,Denny Dahl,PERSON,0.1,0.4,en,1.0
+RJ Sca,RJ Sca,PERSON,0.0,1.0,en,1.0
+Donald Trump’s,Donald Trump’s,PERSON,-0.2,0.4,en,1.0
+Ystrad Mynach,Ystrad Mynach,PERSON,-0.125,0.375,en,1.0
+Nikos Karasavvas,Nikos Karasavvas,PERSON,0.1886904761904762,0.4916666666666667,en,1.0
+Ben Creek,Ben Creek,PERSON,0.0,0.0,en,1.0
+Conor Pope,Conor Pope,PERSON,0.0,0.0,en,1.0
 KHOO JIAN TENG,KHOO JIAN TENG,PERSON,0.07499999999999998,0.275,en,1.0
 Hawkes Bay,Hawkes Bay,PERSON,0.0,0.0,en,1.0
 Stage III,Stage III,PERSON,0.1,0.1,en,1.0
 Alessandro Cantarelli,Alessandro Cantarelli,PERSON,0.0,0.0,en,1.0
 Alex Wides,Alex Wides,PERSON,0.0,0.0,en,1.0
-Denny Dahl,Denny Dahl,PERSON,0.1,0.4,en,1.0
-Doug Bostrom,Doug Bostrom,PERSON,0.0,0.25,en,1.0
-Tab Shingles,Tab Shingles,PERSON,0.0,0.0,en,1.0
-Kallianos - Near,Kallianos - Near,PERSON,-0.11666666666666665,0.5611111111111111,en,1.0
-Alice Springs,Alice Springs,PERSON,0.0,0.0,en,1.0
-Manendra Kopparthi,Manendra Kopparthi,PERSON,-0.1,0.4,en,1.0
-Jordan Baxter,Jordan Baxter,PERSON,0.0,0.0,en,1.0
-Shuchang Dong,Shuchang Dong,PERSON,0.0,0.0,en,1.0
-Bengal rain,Bengal rain,PERSON,-0.1,0.75,en,1.0
-Greg Kohs,Greg Kohs,PERSON,0.0,0.075,en,1.0
-nan Heftige Unwetter haben,nan Heftige Unwetter haben,PERSON,0.0,0.0,de,1.0
-Umfragen klar vorn,Umfragen klar vorn,PERSON,0.0,0.0,de,1.0
+wieder sofort,wieder sofort,PERSON,0.0,0.0,de,1.0
+wie Schnee überhaupt entsteht,wie Schnee überhaupt entsteht,PERSON,0.0,0.0,de,1.0
+zur Klausur,zur Klausur,PERSON,0.0,0.0,de,1.0
+Weißröckchen frischer,Weißröckchen frischer,PERSON,0.0,0.0,de,1.0
+Damit reiht sich,Damit reiht sich,PERSON,0.0,0.0,de,1.0
+wohl auch,wohl auch,PERSON,0.0,0.0,de,1.0
+Das dachte sich,Das dachte sich,PERSON,0.0,0.0,de,1.0
+Neues Jahr,Neues Jahr,PERSON,0.0,0.0,de,1.0
+Der Blick zum Himm,Der Blick zum Himm,PERSON,0.0,0.0,de,1.0
+Der Blick zum Himmel,Der Blick zum Himmel,PERSON,0.0,0.0,de,1.0
+Tao H,Tao H,PERSON,0.0,0.0,en,1.0
+viel seltener geblitzt als,viel seltener geblitzt als,PERSON,0.0,0.0,de,1.0
+Das fällt auch bei der Blitz,Das fällt auch bei der Blitz,PERSON,0.0,0.0,de,1.0
+ziemlich trocken,ziemlich trocken,PERSON,0.0,0.0,de,1.0
+Der Sommer,Der Sommer,PERSON,0.0,0.0,de,1.0
+Ungewöhnlich wenig Blitze,Ungewöhnlich wenig Blitze,PERSON,0.0,0.0,de,1.0
+viele wie,viele wie,PERSON,0.0,0.0,de,1.0
+Erdblitze zählte,Erdblitze zählte,PERSON,0.0,0.0,de,1.0
+selten geblitzt,selten geblitzt,PERSON,0.0,0.0,de,1.0
+Oft fehlten wichtige Zutaten,Oft fehlten wichtige Zutaten,PERSON,0.0,0.0,de,1.0
+deutschlandweit gezählt,deutschlandweit gezählt,PERSON,0.0,0.0,de,1.0
+Nicht einmal,Nicht einmal,PERSON,0.0,0.0,de,1.0
+extrem blitzarm,extrem blitzarm,PERSON,0.0,0.0,de,1.0
+Meistens zu trocken,Meistens zu trocken,PERSON,0.0,0.0,de,1.0
+Die Meteorologen haben,Die Meteorologen haben,PERSON,0.0,0.0,de,1.0
+haben Erklärungen,haben Erklärungen,PERSON,0.0,0.0,de,1.0
+Die Meteorologen,Die Meteorologen,PERSON,0.0,0.0,de,1.0
+Mehr als,Mehr als,PERSON,0.0,0.0,de,1.0
+Ungewöhnlich wenig Blitzeinschläge,Ungewöhnlich wenig Blitzeinschläge,PERSON,0.0,0.0,de,1.0
+das Regionalmedium,das Regionalmedium,PERSON,0.0,0.0,de,1.0
+Freund Tim meldet sich zurück,Freund Tim meldet sich zurück,PERSON,0.0,0.0,de,1.0
+Tim Lehmann äußert sich,Tim Lehmann äußert sich,PERSON,0.0,0.0,de,1.0
+im Kanzleramt,im Kanzleramt,PERSON,0.0,0.0,de,1.0
+Hagel als starken,Hagel als starken,PERSON,0.0,0.0,de,1.0
+heimlicher Helfer,heimlicher Helfer,PERSON,0.0,0.0,de,1.0
+Eigentlich wollte,Eigentlich wollte,PERSON,0.0,0.0,de,1.0
+Kälte abgesagt,Kälte abgesagt,PERSON,0.0,0.0,de,1.0
+Wichtiger Merz-Termin,Wichtiger Merz-Termin,PERSON,0.0,0.0,de,1.0
+Dent Vanish Atlanta,Dent Vanish Atlanta,PERSON,0.0,0.0,en,1.0
+Mike Wickham,Mike Wickham,PERSON,0.0,0.0,en,1.0
+Joshua Dahya,Joshua Dahya,PERSON,0.0,0.0,en,1.0
+bereits Anfang,bereits Anfang,PERSON,0.0,0.0,de,1.0
+Seit vielen Jahren,Seit vielen Jahren,PERSON,0.0,0.0,de,1.0
+Hagel setzt,Hagel setzt,PERSON,0.0,0.0,de,1.0
+Nationaler Sicherheitsberater,Nationaler Sicherheitsberater,PERSON,0.0,0.0,de,1.0
+Tod von Jan Zimmermann,Tod von Jan Zimmermann,PERSON,0.0,0.0,de,1.0
+Jacob Schrot,Jacob Schrot,PERSON,0.0,0.0,de,1.0
+lange Lernkurven,lange Lernkurven,PERSON,0.0,0.0,de,1.0
+Das Kanzleramt,Das Kanzleramt,PERSON,0.0,0.0,de,1.0
+Béla Anda,Béla Anda,PERSON,0.0,0.0,de,1.0
+überraschend seinen Büroleiter ausgetauscht,überraschend seinen Büroleiter ausgetauscht,PERSON,0.0,0.0,de,1.0
+Bundeskanzler Friedrich Merz,Bundeskanzler Friedrich Merz,PERSON,0.0,0.0,de,1.0
+Acht Monate nach seinem Amtsantritt,Acht Monate nach seinem Amtsantritt,PERSON,0.0,0.0,de,1.0
+Linnemann den stärksten Mann,Linnemann den stärksten Mann,PERSON,0.0,0.0,de,1.0
+Merz tauscht Büroleiter aus - und,Merz tauscht Büroleiter aus - und,PERSON,0.0,0.0,de,1.0
+Tourette erkrankte,Tourette erkrankte,PERSON,0.0,0.0,de,1.0
+Königswinter Die Nachricht,Königswinter Die Nachricht,PERSON,0.0,0.0,de,1.0
+Spitzenwert gab es,Spitzenwert gab es,PERSON,0.0,0.0,de,1.0
+Mustafa Bel,Mustafa Bel,PERSON,0.3,0.3,en,1.0
+Craig Brewer,Craig Brewer,PERSON,0.103125,0.475,en,1.0
+Einsatz erschien zuerst auf,Einsatz erschien zuerst auf,PERSON,0.0,0.0,de,1.0
+Weniger Unwetterschäden,Weniger Unwetterschäden,PERSON,0.0,0.0,de,1.0
+fällt glücklicherwe,fällt glücklicherwe,PERSON,0.0,0.0,de,1.0
+Versicherer dann,Versicherer dann,PERSON,0.0,0.0,de,1.0
 nochmal greifbarer geworden,nochmal greifbarer geworden,PERSON,0.0,0.0,de,1.0
+deutlich geringer als im Vorjahr,deutlich geringer als im Vorjahr,PERSON,0.0,0.0,de,1.0
 damit fertig zu,damit fertig zu,PERSON,0.0,0.0,de,1.0
 Druck auf Putin,Druck auf Putin,PERSON,0.0,0.0,de,1.0
 Krieg jetzt zu beenden,Krieg jetzt zu beenden,PERSON,0.0,0.0,de,1.0
 Interesse Russlands,Interesse Russlands,PERSON,0.0,0.0,de,1.0
 längsten bestehende,längsten bestehende,PERSON,0.0,0.0,de,1.0
 Ibiza HEUTE,Ibiza HEUTE,PERSON,0.0,0.0,de,1.0
-Einsatz erschien zuerst auf,Einsatz erschien zuerst auf,PERSON,0.0,0.0,de,1.0
 Der Beitrag Ibizas,Der Beitrag Ibizas,PERSON,0.0,0.0,de,1.0
-Tao H,Tao H,PERSON,0.0,0.0,en,1.0
+Zum Jahresabschluss gibt es noch einmal etwas auf,Zum Jahresabschluss gibt es noch einmal etwas auf,PERSON,0.0,0.0,de,1.0
+Kein Blitzeinschlag,Kein Blitzeinschlag,PERSON,0.0,0.0,de,1.0
 Aktuell werde,Aktuell werde,PERSON,0.0,0.0,de,1.0
 weniger Schäden durch Wetterextreme,weniger Schäden durch Wetterextreme,PERSON,0.0,0.0,de,1.0
 Es werde aktuell mit Sch,Es werde aktuell mit Sch,PERSON,0.0,0.0,de,1.0
 hohe Schäden,hohe Schäden,PERSON,0.0,0.0,de,1.0
 Jahr zuvor,Jahr zuvor,PERSON,0.0,0.0,de,1.0
 Arbeit braucht,Arbeit braucht,PERSON,0.0,0.0,de,1.0
-deutlich geringer als im Vorjahr,deutlich geringer als im Vorjahr,PERSON,0.0,0.0,de,1.0
-Versicherer dann,Versicherer dann,PERSON,0.0,0.0,de,1.0
-Menschenleben gefordert,Menschenleben gefordert,PERSON,0.0,0.0,de,1.0
-fällt glücklicherwe,fällt glücklicherwe,PERSON,0.0,0.0,de,1.0
+dadurch vielleicht länger für den Weg zur,dadurch vielleicht länger für den Weg zur,PERSON,0.0,0.0,de,1.0
+Auch wenn,Auch wenn,PERSON,0.0,0.0,de,1.0
+lautlos über Nacht gefallen,lautlos über Nacht gefallen,PERSON,0.0,0.0,de,1.0
+unberührter Schnee,unberührter Schnee,PERSON,0.0,0.0,de,1.0
+Hagel und,Hagel und,PERSON,0.0,0.0,de,1.0
+zu besprechen,zu besprechen,PERSON,0.0,0.0,de,1.0
+Ben Affleck,Ben Affleck,PERSON,0.06818181818181818,0.22727272727272727,en,1.0
+Spitzenmann Manuel Hagel,Spitzenmann Manuel Hagel,PERSON,0.0,0.0,de,1.0
+Matt Damon,Matt Damon,PERSON,0.06818181818181818,0.22727272727272727,en,1.0
+Nia DeCosta,Nia DeCosta,PERSON,0.06818181818181818,0.22727272727272727,en,1.0
+sind möglich,sind möglich,PERSON,0.0,0.0,de,1.0
+Auch Schneeschauer,Auch Schneeschauer,PERSON,0.0,0.0,de,1.0
+Der Deutsche Wetterdienst warnt,Der Deutsche Wetterdienst warnt,PERSON,0.0,0.0,de,1.0
+Heftige Böen,Heftige Böen,PERSON,0.0,0.0,de,1.0
+Blitze zucken,Blitze zucken,PERSON,0.0,0.0,de,1.0
+Von den ext,Von den ext,PERSON,0.0,0.0,de,1.0
+knickt immer ein,knickt immer ein,PERSON,0.0,0.0,de,1.0
+Spitznamen Taco,Spitznamen Taco,PERSON,0.0,0.0,de,1.0
+Klimaschutz bekommt Aufwind,Klimaschutz bekommt Aufwind,PERSON,0.0,0.0,de,1.0
+Nun greift sie verstärkt,Nun greift sie verstärkt,PERSON,0.0,0.0,de,1.0
+Zum Jahresabschluss gibt es,Zum Jahresabschluss gibt es,PERSON,0.0,0.0,de,1.0
+Umfragen klar vorn,Umfragen klar vorn,PERSON,0.0,0.0,de,1.0
 Vor der Landtagswahl,Vor der Landtagswahl,PERSON,0.0,0.0,de,1.0
 nichts vorzuweisen,nichts vorzuweisen,PERSON,0.0,0.0,de,1.0
 Gescheiterter Ampelminister,Gescheiterter Ampelminister,PERSON,0.0,0.0,de,1.0
@@ -330,46 +546,4 @@ berichtet der GDV,berichtet der GDV,PERSON,0.0,0.0,de,1.0
 jedoch nach oben,jedoch nach oben,PERSON,0.0,0.0,de,1.0
 Der längerfristige,Der längerfristige,PERSON,0.0,0.0,de,1.0
 MSI CES,MSI CES,PERSON,0.0,0.0,en,1.0
-Zum Jahresabschluss gibt es,Zum Jahresabschluss gibt es,PERSON,0.0,0.0,de,1.0
-zu besprechen,zu besprechen,PERSON,0.0,0.0,de,1.0
-Zum Jahresabschluss gibt es noch einmal etwas auf,Zum Jahresabschluss gibt es noch einmal etwas auf,PERSON,0.0,0.0,de,1.0
-Hagel und,Hagel und,PERSON,0.0,0.0,de,1.0
-Weniger Unwetterschäden,Weniger Unwetterschäden,PERSON,0.0,0.0,de,1.0
-dadurch vielleicht länger für den Weg zur,dadurch vielleicht länger für den Weg zur,PERSON,0.0,0.0,de,1.0
-Auch wenn,Auch wenn,PERSON,0.0,0.0,de,1.0
-lautlos über Nacht gefallen,lautlos über Nacht gefallen,PERSON,0.0,0.0,de,1.0
-unberührter Schnee,unberührter Schnee,PERSON,0.0,0.0,de,1.0
-Blitze und,Blitze und,PERSON,0.0,0.0,de,1.0
-Wie entsteht,Wie entsteht,PERSON,0.0,0.0,de,1.0
-Wassereis Gewitterwolken regelrecht zum Kochen,Wassereis Gewitterwolken regelrecht zum Kochen,PERSON,0.0,0.0,de,1.0
-Mechanismus hinter Blitzen,Mechanismus hinter Blitzen,PERSON,0.0,0.0,de,1.0
-Pittsburgh Steelers,Pittsburgh Steelers,PERSON,0.0,0.0,en,1.0
-durch umstürzende Bäume,durch umstürzende Bäume,PERSON,0.0,0.0,de,1.0
-Kalifornien durch umstü,Kalifornien durch umstü,PERSON,0.0,0.0,de,1.0
-Nach Medienberichten gab es bereits mehrere Tote,Nach Medienberichten gab es bereits mehrere Tote,PERSON,0.0,0.0,de,1.0
-entwurzelt Bäume,entwurzelt Bäume,PERSON,0.0,0.0,de,1.0
-Zudem fegt ein Wintersturm,Zudem fegt ein Wintersturm,PERSON,0.0,0.0,de,1.0
-Kalifornien Überschwemmungen und Schlammlawinen aus,Kalifornien Überschwemmungen und Schlammlawinen aus,PERSON,0.0,0.0,de,1.0
-Wintersturm und Überflutungen,Wintersturm und Überflutungen,PERSON,0.0,0.0,de,1.0
-zu Überschw,zu Überschw,PERSON,0.0,0.0,de,1.0
-Mindestens drei,Mindestens drei,PERSON,0.0,0.0,de,1.0
-noch de,noch de,PERSON,0.0,0.0,de,1.0
-unterschieden wie Tag und Nacht,unterschieden wie Tag und Nacht,PERSON,0.0,0.0,de,1.0
-Physikalisch hängen,Physikalisch hängen,PERSON,0.0,0.0,de,1.0
-Johannes Plenio und,Johannes Plenio und,PERSON,0.0,0.0,de,1.0
-Kann Manuel Hagel,Kann Manuel Hagel,PERSON,0.0,0.0,de,1.0
-Weißröckchen frischer,Weißröckchen frischer,PERSON,0.0,0.0,de,1.0
-wie Schnee überhaupt entsteht,wie Schnee überhaupt entsteht,PERSON,0.0,0.0,de,1.0
-Wovon das abhängt,Wovon das abhängt,PERSON,0.0,0.0,de,1.0
-wieder sofort,wieder sofort,PERSON,0.0,0.0,de,1.0
-Mal bleibt er liegen,Mal bleibt er liegen,PERSON,0.0,0.0,de,1.0
-mal nass und pappig,mal nass und pappig,PERSON,0.0,0.0,de,1.0
-Besonders spannend,Besonders spannend,PERSON,0.0,0.0,de,1.0
-Aaron Burden,Aaron Burden,PERSON,0.0,0.0,de,1.0
-kräftig durcheinanderwirbeln,kräftig durcheinanderwirbeln,PERSON,0.0,0.0,de,1.0
-Das Super-Wahljahr,Das Super-Wahljahr,PERSON,0.0,0.0,de,1.0
-Muss Merz zittern,Muss Merz zittern,PERSON,0.0,0.0,de,1.0
-hatte sie mehr als,hatte sie mehr als,PERSON,0.0,0.0,de,1.0
-Tag der,Tag der,PERSON,0.0,0.0,de,1.0
-Die Ausgangslage,Die Ausgangslage,PERSON,0.0,0.0,de,1.0
-Kein Blitzeinschlag,Kein Blitzeinschlag,PERSON,0.0,0.0,de,1.0
+Stephen Bullock,Stephen Bullock,PERSON,-0.3333333333333333,0.6666666666666666,en,1.0
