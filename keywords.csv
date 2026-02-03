@@ -10,7 +10,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Unwetter',de,Hazard,#ff0000,#ff0000,2,0.08
 'large hail',en,Hazard,#e67e22,#d62728,3,0.0795454167584045
 'thunderstorm early warning',en,Mitigation,#33cc33,#3182bd,1,0.0794297472402699
-'lightning fire',en,Impacts,#ffff00,#ffff00,3,0.0790180972317814
 'thunderstorm wind damage',en,Impacts,#4287f5,#8c6d31,1,0.0780505231586769
 'hail roof damage',en,Impacts,#2980b9,#e6550d,1,0.077550703528254
 'hail freezing level',en,Causes,#8e44ad,#17a2b8,1,0.0772463265681057
@@ -20,6 +19,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'thunderstorm flooding',en,Impacts,#4287f5,#9467bd,2,0.0743550582691607
 'hailstorm',en,Hazard,#e67e22,#756bb1,1,0.0731249753654967
 'thunderstorm low pressure',en,Causes,#9e3215,#2ca02c,2,0.0724508957284677
+'lightning fire',en,Impacts,#ffff00,#ffff00,3,0.07167060264701419
 'hail supercells',en,Causes,#8e44ad,#bdb76b,1,0.0710690467971414
 'thunderstorm wind shear',en,Causes,#9e3215,#31a354,1,0.0637569404084095
 'hail swath',en,Hazard,#e67e22,#ff6f61,1,0.0632717951987447
@@ -40,7 +40,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gewitterwarnung',de,Mitigation,#00ff00,#00ff00,1,0.0420380277499999
 'Dachschaden durch Hagel',de,Impacts,#2980b9,#2980b9,1,0.04
 'Konvektion',de,Causes,#00ffff,#00ffff,1,0.0395023687
-'Hagelwarnung',de,Mitigation,#2ecc71,#2ecc71,1,0.036847499999999915
+'Hagelwarnung',de,Mitigation,#2ecc71,#2ecc71,1,0.0368474999999999
 'Hagelschaeden',de,Impacts,#2980b9,#2980b9,1,0.0368474999999999
 'thunderstorm flood barriers',en,Mitigation,#33cc33,#7f7f7f,1,0.0347102678799362
 'hail dented vehicles',en,Impacts,#2980b9,#843c39,1,0.0344348872150245
