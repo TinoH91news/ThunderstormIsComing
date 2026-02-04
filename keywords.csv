@@ -4,7 +4,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hagel',de,Hazard,#e67e22,#e67e22,3,0.135542558964674
 'Gewitter',de,Hazard,#ff0000,#ff0000,3,0.1206649797011363
 'Hagelsturm',de,Hazard,#e67e22,#e67e22,1,0.1186750855
-'lightning and thunder',en,Hazard,#ff0000,#ff0000,3,0.1085675351298303
+'lightning and thunder',en,Hazard,#ff0000,#ff0000,3,0.09678486486035576
 'hail insurance',en,Mitigation,#22cc44,#1f77b4,2,0.0841881484604981
 'Unwetter',de,Hazard,#ff0000,#ff0000,2,0.08
 'large hail',en,Hazard,#e67e22,#d62728,3,0.0795454167584045
@@ -22,7 +22,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'hail supercells',en,Causes,#8e44ad,#bdb76b,1,0.0710690467971414
 'thunderstorm wind shear',en,Causes,#9e3215,#31a354,1,0.0637569404084095
 'hail swath',en,Hazard,#e67e22,#ff6f61,1,0.0632717951987447
-'thunderstorm flooding',en,Impacts,#4287f5,#9467bd,1,0.06320205452878659
+'thunderstorm flooding',en,Impacts,#4287f5,#9467bd,1,0.0632020545287865
 'hail crop damage',en,Impacts,#2980b9,#ff7f0e,1,0.0624330532637354
 'anvil clouds',en,Causes,#00ffff,#00ffff,1,0.0619819026047253
 'thunderstorm power outages',en,Impacts,#4287f5,#7b4173,1,0.0615657950446137
