@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Unwetterwarnung',de,Mitigation,#33cc33,#33cc33,3,0.17653797454545447
+'Unwetterwarnung',de,Mitigation,#33cc33,#33cc33,3,0.1765379745454544
 'thunderstorm',en,Hazard,#ff0000,#ff0000,3,0.1658108949025927
 'Hagel',de,Hazard,#e67e22,#e67e22,3,0.135542558964674
 'Gewitter',de,Hazard,#ff0000,#ff0000,3,0.1206649797011363
@@ -22,13 +22,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'hail supercells',en,Causes,#8e44ad,#bdb76b,1,0.0710690467971414
 'thunderstorm wind shear',en,Causes,#9e3215,#31a354,1,0.0637569404084095
 'hail swath',en,Hazard,#e67e22,#ff6f61,1,0.0632717951987447
-'thunderstorm flooding',en,Impacts,#4287f5,#9467bd,1,0.0632020545287865
 'hail crop damage',en,Impacts,#2980b9,#ff7f0e,1,0.0624330532637354
 'anvil clouds',en,Causes,#00ffff,#00ffff,1,0.0619819026047253
 'thunderstorm power outages',en,Impacts,#4287f5,#7b4173,1,0.0615657950446137
 'Blitzeinschlag',de,Impacts,#ffff00,#ffff00,1,0.0614252219999999
 'thunderstorm lightning',en,Hazard,#a89216,#637939,3,0.0597066832039257
 'thunderstorm cell',en,Causes,#00ffff,#00ffff,1,0.0595732029661067
+'thunderstorm flooding',en,Impacts,#4287f5,#9467bd,1,0.056121986349468515
 'Blitzableiter',de,Adaptation,#0000ff,#0000ff,1,0.05427270475
 'Aufwind',de,Causes,#8e44ad,#8e44ad,2,0.051925798548387
 'hail impact resistant roofing',en,Mitigation,#2ecc71,#6b6ecf,1,0.0517840078805599
@@ -40,8 +40,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gewitterwarnung',de,Mitigation,#00ff00,#00ff00,1,0.0420380277499999
 'Dachschaden durch Hagel',de,Impacts,#2980b9,#2980b9,1,0.04
 'Konvektion',de,Causes,#00ffff,#00ffff,1,0.0395023687
-'Hagelwarnung',de,Mitigation,#2ecc71,#2ecc71,1,0.0368474999999999
 'Hagelschaeden',de,Impacts,#2980b9,#2980b9,1,0.0368474999999999
+'Hagelwarnung',de,Mitigation,#2ecc71,#2ecc71,1,0.0368474999999999
 'thunderstorm flood barriers',en,Mitigation,#33cc33,#7f7f7f,1,0.0347102678799362
 'hail dented vehicles',en,Impacts,#2980b9,#843c39,1,0.0344348872150245
 'Blitzschutz',de,Adaptation,#0000ff,#0000ff,2,0.03194987435
