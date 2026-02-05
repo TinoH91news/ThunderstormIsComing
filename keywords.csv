@@ -9,7 +9,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Unwetter',de,Hazard,#ff0000,#ff0000,2,0.08
 'large hail',en,Hazard,#e67e22,#d62728,3,0.0795454167584045
 'thunderstorm early warning',en,Mitigation,#33cc33,#3182bd,1,0.0794297472402699
-'thunderstorm wind damage',en,Impacts,#4287f5,#8c6d31,1,0.0780505231586769
 'hail roof damage',en,Impacts,#2980b9,#e6550d,1,0.077550703528254
 'hail freezing level',en,Causes,#8e44ad,#17a2b8,1,0.0772463265681057
 'thunderstorm tornado',en,Hazard,#a89216,#393b79,1,0.0770273133410049
@@ -19,6 +18,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'hailstorm',en,Hazard,#e67e22,#756bb1,1,0.0731249753654967
 'lightning fire',en,Impacts,#ffff00,#ffff00,3,0.0716706026470141
 'hail supercells',en,Causes,#8e44ad,#bdb76b,1,0.0710690467971414
+'thunderstorm wind damage',en,Impacts,#4287f5,#8c6d31,1,0.06874318468487536
 'thunderstorm wind shear',en,Causes,#9e3215,#31a354,1,0.0637569404084095
 'hail swath',en,Hazard,#e67e22,#ff6f61,1,0.0632717951987447
 'hail crop damage',en,Impacts,#2980b9,#ff7f0e,1,0.0624330532637354
@@ -46,7 +46,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'hail dented vehicles',en,Impacts,#2980b9,#843c39,1,0.0344348872150245
 'Brand durch Blitzeinschlag',de,Impacts,#ffff00,#ffff00,1,0.0293275427499999
 'Hagelschaden am Auto',de,Impacts,#2980b9,#2980b9,1,0.0291775277499999
-'Blitzschutz',de,Adaptation,#0000ff,#0000ff,1,0.027157393197499997
+'Blitzschutz',de,Adaptation,#0000ff,#0000ff,1,0.0271573931974999
 'Superzelle',de,Causes,#8e44ad,#8e44ad,1,0.0216749999999999
 'thunderstorm squall line',en,Hazard,#a89216,#636363,1,0.0200604479958463
 'Ambosswolke',de,Causes,#00ffff,#00ffff,1,0.02
