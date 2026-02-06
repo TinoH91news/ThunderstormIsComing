@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Unwetterwarnung',de,Mitigation,#33cc33,#33cc33,3,0.1765379745454544
+'Unwetterwarnung',de,Mitigation,#33cc33,#33cc33,3,0.1672863956363635
 'thunderstorm',en,Hazard,#ff0000,#ff0000,3,0.1658108949025927
 'Hagel',de,Hazard,#e67e22,#e67e22,3,0.135542558964674
 'Gewitter',de,Hazard,#ff0000,#ff0000,3,0.1206649797011363
@@ -29,7 +29,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'thunderstorm cell',en,Causes,#00ffff,#00ffff,1,0.0595732029661067
 'thunderstorm flooding',en,Impacts,#4287f5,#9467bd,1,0.0561219863494685
 'Blitzableiter',de,Adaptation,#0000ff,#0000ff,1,0.05427270475
-'thunderstorm power outages',en,Impacts,#4287f5,#7b4173,1,0.05278097078792165
+'thunderstorm power outages',en,Impacts,#4287f5,#7b4173,1,0.0527809707879216
 'Aufwind',de,Causes,#8e44ad,#8e44ad,2,0.051925798548387
 'hail impact resistant roofing',en,Mitigation,#2ecc71,#6b6ecf,1,0.0517840078805599
 'hail vehicle shelters',en,Mitigation,#2ecc71,#e377c2,1,0.0508138436661115
