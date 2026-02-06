@@ -9,7 +9,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Unwetter',de,Hazard,#ff0000,#ff0000,2,0.08
 'large hail',en,Hazard,#e67e22,#d62728,3,0.0795454167584045
 'thunderstorm early warning',en,Mitigation,#33cc33,#3182bd,1,0.0794297472402699
-'hail roof damage',en,Impacts,#2980b9,#e6550d,1,0.077550703528254
+'hail roof damage',en,Impacts,#2980b9,#e6550d,1,0.0794182479990159
 'hail freezing level',en,Causes,#8e44ad,#17a2b8,1,0.0772463265681057
 'thunderstorm tornado',en,Hazard,#a89216,#393b79,1,0.0770273133410049
 'lightning rod',en,Adaptation,#0000ff,#0000ff,3,0.0765669064107651
