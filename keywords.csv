@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Unwetterwarnung',de,Mitigation,#33cc33,#33cc33,3,0.2400788511427271
+'Unwetterwarnung',de,Mitigation,#33cc33,#33cc33,3,0.20902186847131804
 'thunderstorm',en,Hazard,#ff0000,#ff0000,3,0.1658108949025927
 'Blitzeinschlag',de,Impacts,#ffff00,#ffff00,2,0.1603830772714284
 'Stromausfall',de,Impacts,#4287f5,#4287f5,3,0.1447479528834677
@@ -51,5 +51,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'thunderstorm squall line',en,Hazard,#a89216,#636363,1,0.0200604479958463
 'Ambosswolke',de,Causes,#00ffff,#00ffff,1,0.02
 'thunderstorm building codes',en,Mitigation,#33cc33,#9c9ede,1,0.0187169104797555
-'Windscherung',de,Causes,#9e3215,#9e3215,1,0.016046101087499917
+'Windscherung',de,Causes,#9e3215,#9e3215,1,0.0160461010874999
 'Nullgradgrenze',de,Causes,#8e44ad,#8e44ad,1,0.01472752775
