@@ -4,7 +4,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Blitzeinschlag',de,Impacts,#ffff00,#ffff00,2,0.1603830772714284
 'Stromausfall',de,Impacts,#4287f5,#4287f5,3,0.1402685672236748
 'Hagel',de,Hazard,#e67e22,#e67e22,3,0.135542558964674
-'Gewitter',de,Hazard,#ff0000,#ff0000,3,0.1206649797011363
+'Gewitter',de,Hazard,#ff0000,#ff0000,3,0.1279706932005113
 'Hagelsturm',de,Hazard,#e67e22,#e67e22,1,0.1186750855
 'lightning and thunder',en,Hazard,#ff0000,#ff0000,3,0.0967848648603557
 'Unwetter',de,Hazard,#ff0000,#ff0000,2,0.08
