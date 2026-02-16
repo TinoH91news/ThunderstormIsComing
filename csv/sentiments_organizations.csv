@@ -1,10 +1,10 @@
 ,phrase,label,sentiment,subjectivity,language,count
 MetMalaysia,MetMalaysia,ORG,0.19331472620946316,0.5483785220627331,en,41.79999999999996
+DWD,DWD,ORG,0.0,0.0,de,40.599999999999966
 IMD,IMD,ORG,0.06709997747696167,0.5837249956099166,en,37.79999999999997
 The Malaysian Meteorological Department,The Malaysian Meteorological Department,ORG,0.2408439490445861,0.6065552016985142,en,31.399999999999977
-DWD,DWD,ORG,0.0,0.0,de,18.1
+Kopiere den aktuellen,Kopiere den aktuellen,ORG,0.0,0.0,de,23.499999999999993
 KUALA LUMPUR,KUALA LUMPUR,ORG,0.2445526695526695,0.6275613275613274,en,15.400000000000004
-Kopiere den aktuellen,Kopiere den aktuellen,ORG,0.0,0.0,de,14.500000000000004
 CDU,CDU,ORG,0.010344827586206893,0.04482758620689654,de,14.500000000000004
 the India Meteorological Department,the India Meteorological Department,ORG,0.0886501589973812,0.5350418537224092,en,10.800000000000002
 MetService,MetService,ORG,0.06097560975609755,0.3516260162601625,en,8.200000000000001
@@ -15,218 +15,354 @@ Stadt,Stadt,ORG,0.0,0.0,de,4.6
 Wir haben aktuell eine Störung,Wir haben aktuell eine Störung,ORG,0.0,0.0,de,4.6
 WA,WA,ORG,0.09090909090909091,0.1818181818181818,en,4.4
 AP,AP,ORG,0.17625,0.7170833333333333,en,4.0
-NSW,NSW,ORG,0.0671921921921922,0.24324324324324326,en,3.6999999999999997
-Notfallanlaufstelle,Notfallanlaufstelle,ORG,0.0,0.0,de,3.6999999999999997
+Ein Blitz,Ein Blitz,ORG,0.0,0.0,de,3.6999999999999997
 Delta Air Lines,Delta Air Lines,ORG,0.2522522522522523,0.1801801801801802,en,3.6999999999999997
-Gurugram,Gurugram,ORG,0.10810810810810813,0.21621621621621626,en,3.6999999999999997
+Teilen,Teilen,ORG,0.0,0.0,de,3.6999999999999997
+NSW,NSW,ORG,0.0671921921921922,0.24324324324324326,en,3.6999999999999997
+Dutzende Verletzte nach Blitzeinschlag,Dutzende Verletzte nach Blitzeinschlag,ORG,0.0,0.0,de,3.6999999999999997
+Mehr als,Mehr als,ORG,0.0,0.0,de,3.6999999999999997
+Notfallanlaufstelle,Notfallanlaufstelle,ORG,0.0,0.0,de,3.6999999999999997
 Uhr zahlreiche Haushalte,Uhr zahlreiche Haushalte,ORG,0.0,0.0,de,3.6999999999999997
+Unwetterwarnung für Berlin,Unwetterwarnung für Berlin,ORG,0.0,0.0,de,3.6999999999999997
+Gurugram,Gurugram,ORG,0.10810810810810813,0.21621621621621626,en,3.6999999999999997
 KUALA LUMPUR:,KUALA LUMPUR:,ORG,0.20580808080808083,0.4671717171717171,en,3.3
 MSI,MSI,ORG,0.08064516129032259,0.11290322580645162,en,3.0999999999999996
 The Bureau of Meteorology,The Bureau of Meteorology,ORG,-0.35082848186296467,0.8157934020002986,en,2.9
-den Stadtteilen Neu-Schmellwitz,den Stadtteilen Neu-Schmellwitz,ORG,0.0,0.0,de,2.8
-Walt Disney World,Walt Disney World,ORG,0.08035714285714286,0.4285714285714286,en,2.8
+Freilassung des inhaftierten Ex-Präsidenten Bolsonaro,Freilassung des inhaftierten Ex-Präsidenten Bolsonaro,ORG,0.0,0.0,de,2.8
+Dutzende Menschen bei einer Demonstration,Dutzende Menschen bei einer Demonstration,ORG,0.0,0.0,de,2.8
+the Federal Territory of Labuan,the Federal Territory of Labuan,ORG,0.4880952380952381,0.5267857142857143,en,2.8
+Quelle,Quelle,ORG,0.0,0.0,de,2.8
+Brandenburg und Vorpommern,Brandenburg und Vorpommern,ORG,0.0,0.0,de,2.8
+auf,auf,ORG,0.0,0.0,de,2.8
 Schaltfehler eines,Schaltfehler eines,ORG,0.0,0.0,de,2.8
+Neujahrsempfang,Neujahrsempfang,ORG,0.0,0.0,de,2.8
+Kundgebung von Anhängern des früheren,Kundgebung von Anhängern des früheren,ORG,0.0,0.0,de,2.8
+Keine Unwetterwarnung vor Glatteis für Brandenburg mehr,Keine Unwetterwarnung vor Glatteis für Brandenburg mehr,ORG,0.0,0.0,de,2.8
 NFL,NFL,ORG,0.0,0.0,en,2.8
 Höhenlagen,Höhenlagen,ORG,0.0,0.0,de,2.8
-Neujahrsempfang,Neujahrsempfang,ORG,0.0,0.0,de,2.8
-Teilen,Teilen,ORG,0.0,0.0,de,2.8
-the Federal Territory of Labuan,the Federal Territory of Labuan,ORG,0.4880952380952381,0.5267857142857143,en,2.8
+den Stadtteilen Neu-Schmellwitz,den Stadtteilen Neu-Schmellwitz,ORG,0.0,0.0,de,2.8
+Glätte-Warnung,Glätte-Warnung,ORG,0.0,0.0,de,2.8
+Unwetterwarnung vor Glätte,Unwetterwarnung vor Glätte,ORG,0.0,0.0,de,2.8
+Walt Disney World,Walt Disney World,ORG,0.08035714285714286,0.4285714285714286,en,2.8
+BZ,BZ,ORG,0.0,0.0,de,2.8
+"Straßen,","Straßen,",ORG,0.0,0.0,de,2.8
 UAE,UAE,ORG,-0.004676870748299304,0.8983843537414968,en,2.7999999999999994
 Trump,Trump,ORG,-0.6466049382716048,0.5061728395061729,en,2.7
-the Malaysian Meteorological Department,the Malaysian Meteorological Department,ORG,0.06886574074074073,0.4542824074074074,en,2.4
 Groupama,Groupama,ORG,0.20833333333333334,0.2777777777777778,en,2.4
+the Malaysian Meteorological Department,the Malaysian Meteorological Department,ORG,0.06886574074074073,0.4542824074074074,en,2.4
 The National Weather Service (NWS,The National Weather Service (NWS,ORG,-0.14015151515151514,0.37499999999999994,en,2.2
 Disney,Disney,ORG,0.17596801346801347,0.5507575757575758,en,2.0
-Frage,Frage,ORG,0.0,0.0,de,1.9
-Uhr,Uhr,ORG,0.0,0.0,de,1.9
 Wirtschaft,Wirtschaft,ORG,0.0,0.0,de,1.9
-ProtoThema,ProtoThema,ORG,0.06652046783625731,0.15570175438596492,en,1.9
-Das Verfahren,Das Verfahren,ORG,0.0,0.0,de,1.9
-NRW-Schulministerin,NRW-Schulministerin,ORG,0.0,0.0,de,1.9
-Spitzenkandidaten,Spitzenkandidaten,ORG,0.0,0.0,de,1.9
-Unwetterwarnung für mehrere Regionen,Unwetterwarnung für mehrere Regionen,ORG,0.0,0.0,de,1.9
+Social Media,Social Media,ORG,-0.38187134502923975,0.24210526315789474,en,1.9
 CNN,CNN,ORG,0.050877192982456146,0.24210526315789474,en,1.9
-Cork,Cork,ORG,0.0,0.0,en,1.9
-Carlow,Carlow,ORG,0.0,0.0,en,1.9
-Sikkim,Sikkim,ORG,-0.10256892230576443,0.2543859649122807,en,1.9
-EPCOT,EPCOT,ORG,0.05068226120857698,0.31384015594541914,en,1.9
-kämpft Australien,kämpft Australien,ORG,0.0,0.0,de,1.9
-Reservoir Dogs,Reservoir Dogs,ORG,0.0,0.5263157894736842,en,1.9
-Ghaziabad,Ghaziabad,ORG,-0.026315789473684206,0.0,en,1.9
-Schwarz gegen Grün,Schwarz gegen Grün,ORG,0.0,0.0,de,1.9
-neben unserer privaten Laberei,neben unserer privaten Laberei,ORG,0.0,0.0,de,1.9
-neun Ermittlerinnen und Ermittler des Verkehrsministeriums,neun Ermittlerinnen und Ermittler des Verkehrsministeriums,ORG,0.0,0.0,de,1.9
-the Federal Territory of Kuala Lumpur,the Federal Territory of Kuala Lumpur,ORG,0.5657894736842105,0.3552631578947369,en,1.9
-Malaysian Meteorological Department,Malaysian Meteorological Department,ORG,0.16374269005847952,0.3128654970760234,en,1.9
-Sollte,Sollte,ORG,0.0,0.0,de,1.9
-Ryanair,Ryanair,ORG,-0.011278195488721806,0.11466165413533834,en,1.9
+Status Yellow,Status Yellow,ORG,0.0,0.0,en,1.9
+Spitzenkandidaten,Spitzenkandidaten,ORG,0.0,0.0,de,1.9
+Tausende Menschen sind,Tausende Menschen sind,ORG,0.0,0.0,de,1.9
+Strom-Panne legt E,Strom-Panne legt E,ORG,0.0,0.0,de,1.9
+Polizei meldet Unfälle,Polizei meldet Unfälle,ORG,0.0,0.0,de,1.9
+Baden-Württemberg,Baden-Württemberg,ORG,0.0,0.0,de,1.9
+geht nach,geht nach,ORG,0.0,0.0,de,1.9
+Stuttgart nicht einmal,Stuttgart nicht einmal,ORG,0.0,0.0,de,1.9
+Narren-Vereinigung,Narren-Vereinigung,ORG,0.0,0.0,de,1.9
+selbst jedes Jahr bei der Fasnet dabei,selbst jedes Jahr bei der Fasnet dabei,ORG,0.0,0.0,de,1.9
 Aer Lingus,Aer Lingus,ORG,-0.011278195488721806,0.11466165413533834,en,1.9
-Eastern,Eastern,ORG,-0.06578947368421052,0.3298245614035088,en,1.9
-Ende der Woche,Ende der Woche,ORG,0.0,0.0,de,1.9
-Noida,Noida,ORG,0.07894736842105264,0.3552631578947369,en,1.9
+Ryanair,Ryanair,ORG,-0.011278195488721806,0.11466165413533834,en,1.9
+Reservoir Dogs,Reservoir Dogs,ORG,0.0,0.5263157894736842,en,1.9
+Für Niedersachsen,Für Niedersachsen,ORG,0.0,0.0,de,1.9
+Morgen für,Morgen für,ORG,0.0,0.0,de,1.9
 Panthers,Panthers,ORG,-0.2105263157894737,0.2105263157894737,en,1.9
 TotalEnergies,TotalEnergies,ORG,0.24641148325358853,0.32894736842105265,en,1.9
-Erfahrungen,Erfahrungen,ORG,0.0,0.0,de,1.9
-Wirtschaftslage,Wirtschaftslage,ORG,0.0,0.0,de,1.9
-thunde,thunde,ORG,0.0,0.0,en,1.9
-GDV,GDV,ORG,0.0,0.0,de,1.9
-Nordrhein-Westfalen,Nordrhein-Westfalen,ORG,0.0,0.0,de,1.9
-Tisch,Tisch,ORG,0.0,0.0,de,1.9
-Bilanz,Bilanz,ORG,0.0,0.0,de,1.9
-Quelle,Quelle,ORG,0.0,0.0,de,1.9
-Ausgabe des Neuland-Podcasts zusammengefunden,Ausgabe des Neuland-Podcasts zusammengefunden,ORG,0.0,0.0,de,1.9
-Social Media,Social Media,ORG,-0.38187134502923975,0.24210526315789474,en,1.9
-anderen,anderen,ORG,0.0,0.0,de,1.9
-den vergangenen Jahren,den vergangenen Jahren,ORG,0.0,0.0,de,1.9
-Delta,Delta,ORG,0.0,0.0,en,1.9
-geht nach,geht nach,ORG,0.0,0.0,de,1.9
-Der CDU-Landes-,Der CDU-Landes-,ORG,0.0,0.0,de,1.9
-Mitarbeiters,Mitarbeiters,ORG,0.0,0.0,de,1.9
-Gewitter,Gewitter,ORG,0.0,0.0,de,1.9
-auf Ibiza,auf Ibiza,ORG,0.0,0.0,de,1.9
-Strom-Panne legt E,Strom-Panne legt E,ORG,0.0,0.0,de,1.9
-Audi beendet schwieriges,Audi beendet schwieriges,ORG,0.0,0.0,de,1.9
-Morgen für,Morgen für,ORG,0.0,0.0,de,1.9
-The Madadeni Emergency Medical Services,The Madadeni Emergency Medical Services,ORG,-0.34210526315789475,0.2631578947368421,en,1.9
-noch den ganzen,noch den ganzen,ORG,0.0,0.0,de,1.9
-the NWS Los Angeles/Oxnard CA,the NWS Los Angeles/Oxnard CA,ORG,0.5263157894736842,0.31578947368421056,en,1.9
-Stuttgart nicht einmal,Stuttgart nicht einmal,ORG,0.0,0.0,de,1.9
-Baden-Württemberg,Baden-Württemberg,ORG,0.0,0.0,de,1.9
 DWD-Unwetterwarnung aufgehoben - Glätte bis abends möglich,DWD-Unwetterwarnung aufgehoben - Glätte bis abends möglich,ORG,0.0,0.0,de,1.9
-Status Yellow,Status Yellow,ORG,0.0,0.0,en,1.9
-KTAB/KRBC,KTAB/KRBC,ORG,0.08771929824561402,0.1754385964912281,en,1.9
-Sturmböen fegen durchs Land,Sturmböen fegen durchs Land,ORG,0.0,0.0,de,1.9
-Tausende Menschen sind,Tausende Menschen sind,ORG,0.0,0.0,de,1.9
-selbst jedes Jahr bei der Fasnet dabei,selbst jedes Jahr bei der Fasnet dabei,ORG,0.0,0.0,de,1.9
-IndiGo,IndiGo,ORG,-0.07894736842105263,0.31140350877192985,en,1.9
-the Niemeyer Memorial Hospital,the Niemeyer Memorial Hospital,ORG,-0.34210526315789475,0.2631578947368421,en,1.9
-the Big Country,the Big Country,ORG,0.08771929824561402,0.1754385964912281,en,1.9
-Narren-Vereinigung,Narren-Vereinigung,ORG,0.0,0.0,de,1.9
-Polizei meldet Unfälle,Polizei meldet Unfälle,ORG,0.0,0.0,de,1.9
-Für Niedersachsen,Für Niedersachsen,ORG,0.0,0.0,de,1.9
+sind auch einige Ampeln,sind auch einige Ampeln,ORG,0.0,0.0,de,1.9
 Hessen,Hessen,ORG,0.0,0.0,de,1.9
+Das Verfahren,Das Verfahren,ORG,0.0,0.0,de,1.9
+Sturmböen fegen durchs Land,Sturmböen fegen durchs Land,ORG,0.0,0.0,de,1.9
+neun Ermittlerinnen und Ermittler des Verkehrsministeriums,neun Ermittlerinnen und Ermittler des Verkehrsministeriums,ORG,0.0,0.0,de,1.9
+the Niemeyer Memorial Hospital,the Niemeyer Memorial Hospital,ORG,-0.34210526315789475,0.2631578947368421,en,1.9
+Bilanz,Bilanz,ORG,0.0,0.0,de,1.9
+the NWS Los Angeles/Oxnard CA,the NWS Los Angeles/Oxnard CA,ORG,0.5263157894736842,0.31578947368421056,en,1.9
+Tisch,Tisch,ORG,0.0,0.0,de,1.9
+noch den ganzen,noch den ganzen,ORG,0.0,0.0,de,1.9
+Erfahrungen,Erfahrungen,ORG,0.0,0.0,de,1.9
+Mehr zum Video,Mehr zum Video,ORG,0.0,0.0,de,1.9
+The Madadeni Emergency Medical Services,The Madadeni Emergency Medical Services,ORG,-0.34210526315789475,0.2631578947368421,en,1.9
+Wirtschaftslage,Wirtschaftslage,ORG,0.0,0.0,de,1.9
+Personen seien,Personen seien,ORG,0.0,0.0,de,1.9
+Sollte,Sollte,ORG,0.0,0.0,de,1.9
+GDV,GDV,ORG,0.0,0.0,de,1.9
+Rheinland-Pfalz klingen,Rheinland-Pfalz klingen,ORG,0.2105263157894737,0.3157894736842105,de,1.9
+Leute zurück auf,Leute zurück auf,ORG,0.0,0.0,de,1.9
+Eastern,Eastern,ORG,-0.06578947368421052,0.3298245614035088,en,1.9
+Ausgabe des Neuland-Podcasts zusammengefunden,Ausgabe des Neuland-Podcasts zusammengefunden,ORG,0.0,0.0,de,1.9
+neben unserer privaten Laberei,neben unserer privaten Laberei,ORG,0.0,0.0,de,1.9
+Brasilien bei einer,Brasilien bei einer,ORG,0.0,0.0,de,1.9
+wie Medien des südamerikanischen Landes,wie Medien des südamerikanischen Landes,ORG,0.0,0.0,de,1.9
+Ghaziabad,Ghaziabad,ORG,-0.026315789473684206,0.0,en,1.9
+IndiGo,IndiGo,ORG,-0.07894736842105263,0.31140350877192985,en,1.9
+EPCOT,EPCOT,ORG,0.05068226120857698,0.31384015594541914,en,1.9
+auf Ibiza,auf Ibiza,ORG,0.0,0.0,de,1.9
+Putschversuchs wird der ultrarechte Ex,Putschversuchs wird der ultrarechte Ex,ORG,0.0,0.0,de,1.9
+the Federal Territory of Kuala Lumpur,the Federal Territory of Kuala Lumpur,ORG,0.5657894736842105,0.3552631578947369,en,1.9
+Schwarz gegen Grün,Schwarz gegen Grün,ORG,0.0,0.0,de,1.9
+Frage,Frage,ORG,0.0,0.0,de,1.9
+Verletzte nach Blitzeinschlag bei Bolsonaro-Demo,Verletzte nach Blitzeinschlag bei Bolsonaro-Demo,ORG,0.0,0.0,de,1.9
+den vergangenen Jahren,den vergangenen Jahren,ORG,0.0,0.0,de,1.9
+Unwetterwarnung für mehrere Regionen,Unwetterwarnung für mehrere Regionen,ORG,0.0,0.0,de,1.9
+Freilassung des Ex-Präsidenten,Freilassung des Ex-Präsidenten,ORG,0.0,0.0,de,1.9
+thunde,thunde,ORG,0.0,0.0,en,1.9
+Gewitter,Gewitter,ORG,0.0,0.0,de,1.9
+Der CDU-Landes-,Der CDU-Landes-,ORG,0.0,0.0,de,1.9
+Bei einer Demonstration,Bei einer Demonstration,ORG,0.0,0.0,de,1.9
+Verletzte,Verletzte,ORG,0.0,0.0,de,1.9
+Bei einem Blitzeinschlag,Bei einem Blitzeinschlag,ORG,0.0,0.0,de,1.9
+Mitarbeiters,Mitarbeiters,ORG,0.0,0.0,de,1.9
+Malaysian Meteorological Department,Malaysian Meteorological Department,ORG,0.16374269005847952,0.3128654970760234,en,1.9
+Audi beendet schwieriges,Audi beendet schwieriges,ORG,0.0,0.0,de,1.9
+ProtoThema,ProtoThema,ORG,0.06652046783625731,0.15570175438596492,en,1.9
+Carlow,Carlow,ORG,0.0,0.0,en,1.9
+Sikkim,Sikkim,ORG,-0.10256892230576443,0.2543859649122807,en,1.9
+Auch am Freitag,Auch am Freitag,ORG,0.0,0.0,de,1.9
+Blitzeis legt den,Blitzeis legt den,ORG,0.0,0.0,de,1.9
+the Big Country,the Big Country,ORG,0.08771929824561402,0.1754385964912281,en,1.9
+KTAB/KRBC,KTAB/KRBC,ORG,0.08771929824561402,0.1754385964912281,en,1.9
 Dutzende Unfälle bei Glätte,Dutzende Unfälle bei Glätte,ORG,0.0,0.0,de,1.9
+Der DWD meldet für,Der DWD meldet für,ORG,0.0,0.0,de,1.9
+betroffen sind,betroffen sind,ORG,0.0,0.0,de,1.9
+Es bestehe Gefahr,Es bestehe Gefahr,ORG,0.0,0.0,de,1.9
+Der DWD,Der DWD,ORG,0.0,0.0,de,1.9
+Auch zum Ende,Auch zum Ende,ORG,0.0,0.0,de,1.9
+Woche lässt das ungemütliche,Woche lässt das ungemütliche,ORG,0.0,0.0,de,1.9
+Verbindung mit Werten,Verbindung mit Werten,ORG,0.0,0.0,de,1.9
+Schnee,Schnee,ORG,0.0,0.0,de,1.9
+Ende der Woche,Ende der Woche,ORG,0.0,0.0,de,1.9
+kämpft Australien,kämpft Australien,ORG,0.0,0.0,de,1.9
+anderen,anderen,ORG,0.0,0.0,de,1.9
+dennoch ist,dennoch ist,ORG,0.0,0.0,de,1.9
+NRW-Schulministerin,NRW-Schulministerin,ORG,0.0,0.0,de,1.9
+Uhr,Uhr,ORG,0.0,0.0,de,1.9
+Nordrhein-Westfalen,Nordrhein-Westfalen,ORG,0.0,0.0,de,1.9
+Delta,Delta,ORG,0.0,0.0,en,1.9
+Cork,Cork,ORG,0.0,0.0,en,1.9
+Noida,Noida,ORG,0.07894736842105264,0.3552631578947369,en,1.9
+Meteorologen nochmals richtig,Meteorologen nochmals richtig,ORG,0.0,0.0,de,1.9
+weiten Teilen von Mecklenburg-Vorpommern,weiten Teilen von Mecklenburg-Vorpommern,ORG,0.0,0.0,de,1.9
+Westen,Westen,ORG,0.0,0.0,de,1.9
+Wetterdienst auch für den,Wetterdienst auch für den,ORG,0.0,0.0,de,1.9
+Glatt bleibt es trotzdem,Glatt bleibt es trotzdem,ORG,0.0,0.0,de,1.9
+Unwetterwarnung vor Glätte für weite Teile von MV,Unwetterwarnung vor Glätte für weite Teile von MV,ORG,0.0,0.0,de,1.9
+Dort war bis zum,Dort war bis zum,ORG,0.0,0.0,de,1.9
 State,State,ORG,0.09018759018759019,0.0,en,1.8
 SOS,SOS,ORG,0.19444444444444442,0.3055555555555556,en,1.8
 the Insurance Institute for Business and Home Safety,the Insurance Institute for Business and Home Safety,ORG,0.17708333333333331,0.3379629629629629,en,1.8
-Timberwolves,Timberwolves,ORG,0.0,0.0,en,1.7
 GeForce RTX,GeForce RTX,ORG,0.0,0.0196078431372549,en,1.7
-The Minnesota Timberwolves,The Minnesota Timberwolves,ORG,-0.05882352941176471,0.12745098039215688,en,1.7
+Rotorua,Rotorua,ORG,0.0,0.0,en,1.7
 "Pexels/Reddit
 ","Pexels/Reddit
 ",ORG,-0.05882352941176469,0.14705882352941177,en,1.7
-Hamas,Hamas,ORG,-0.30492424242424243,0.625,en,1.6
-Ford,Ford,ORG,-0.19791666666666666,0.5208333333333334,en,1.6
-Koalition kräftig durchzuschütteln,Koalition kräftig durchzuschütteln,ORG,0.0,0.0,de,1.6
+The Minnesota Timberwolves,The Minnesota Timberwolves,ORG,-0.05882352941176471,0.12745098039215688,en,1.7
+Timberwolves,Timberwolves,ORG,0.0,0.0,en,1.7
 Iguacu,Iguacu,ORG,0.08522727272727272,0.29166666666666663,en,1.6
+Ford,Ford,ORG,-0.19791666666666666,0.5208333333333334,en,1.6
+Hamas,Hamas,ORG,-0.30492424242424243,0.625,en,1.6
+Koalition kräftig durchzuschütteln,Koalition kräftig durchzuschütteln,ORG,0.0,0.0,de,1.6
 IKO,IKO,ORG,0.8969696969696965,1.442424242424242,en,1.5000000000000004
 Honda,Honda,ORG,-0.024427952999381566,0.5483920841063696,en,1.4000000000000004
 No Reserve,No Reserve,ORG,0.0,0.0,en,1.4000000000000001
+the Turkish State Meteorological Service,the Turkish State Meteorological Service,ORG,0.14285714285714285,0.4761904761904762,en,1.4
 the National Weather Service,the National Weather Service,ORG,0.2142857142857143,0.2142857142857143,en,1.4
 Banana Shire,Banana Shire,ORG,0.28571428571428575,0.7142857142857143,en,1.4
-the Turkish State Meteorological Service,the Turkish State Meteorological Service,ORG,0.14285714285714285,0.4761904761904762,en,1.4
-Raven Black 1989,Raven Black 1989,ORG,-0.24358974358974356,0.32051282051282054,en,1.3
+Avatar,Avatar,ORG,0.4895104895104895,0.34965034965034963,en,1.3
+zum sechsten Mal,zum sechsten Mal,ORG,0.0,0.0,de,1.3
+The State Emergency Service,The State Emergency Service,ORG,0.3846153846153846,0.3846153846153846,en,1.3
+TSLL,TSLL,ORG,0.08173076923076923,0.3846153846153846,en,1.3
+Wahljahr 2026,Wahljahr 2026,ORG,0.0,0.0,de,1.3
 Schwarz-Rot vor einem Schicksalsjahr,Schwarz-Rot vor einem Schicksalsjahr,ORG,0.0,0.0,de,1.3
 Halifax,Halifax,ORG,-0.3589743589743589,0.3653846153846153,en,1.3
-Auf Russland,Auf Russland,ORG,0.0,0.0,de,1.3
-Wahljahr 2026,Wahljahr 2026,ORG,0.0,0.0,de,1.3
-Rezession,Rezession,ORG,0.0,0.0,de,1.3
-APOD,APOD,ORG,0.0,0.0,en,1.3
-der Klub,der Klub,ORG,0.0,0.0,de,1.3
-The State Emergency Service,The State Emergency Service,ORG,0.3846153846153846,0.3846153846153846,en,1.3
-HelloNation,HelloNation,ORG,0.0,0.0,en,1.3
-Avatar,Avatar,ORG,0.4895104895104895,0.34965034965034963,en,1.3
-TSLL,TSLL,ORG,0.08173076923076923,0.3846153846153846,en,1.3
 dem,dem,ORG,0.0,0.0,de,1.3
+Auf Russland,Auf Russland,ORG,0.0,0.0,de,1.3
 American Coastal Insurance,American Coastal Insurance,ORG,0.0,0.0,en,1.3
-zum sechsten Mal,zum sechsten Mal,ORG,0.0,0.0,de,1.3
+Rezession,Rezession,ORG,0.0,0.0,de,1.3
+der Klub,der Klub,ORG,0.0,0.0,de,1.3
+HelloNation,HelloNation,ORG,0.0,0.0,en,1.3
+Raven Black 1989,Raven Black 1989,ORG,-0.24358974358974356,0.32051282051282054,en,1.3
+APOD,APOD,ORG,0.0,0.0,en,1.3
 Odisha,Odisha,ORG,0.125,0.7499999999999998,en,1.2000000000000002
 Mercedes-Benz E350,Mercedes-Benz E350,ORG,-0.041666666666666664,0.16666666666666666,en,1.2000000000000002
 Doch ohne innenpolitische Bodenhaftung und Durchsetzungskraft,Doch ohne innenpolitische Bodenhaftung und Durchsetzungskraft,ORG,0.0,0.0,de,1.2
 inDrive,inDrive,ORG,0.5000000000000001,0.4166666666666667,en,1.2
-Navy,Navy,ORG,0.39999999999999997,0.2739177489177489,en,1.1
-IKO Expands Performance Shingle Collection,IKO Expands Performance Shingle Collection,ORG,0.0,0.0,en,1.1
-Londolozi Game Reserve,Londolozi Game Reserve,ORG,-0.3939393939393939,0.36363636363636365,en,1.1
-Truthout,Truthout,ORG,0.09090909090909091,0.22727272727272727,en,1.1
-Track Your Life,Track Your Life,ORG,0.3333333333333333,0.303030303030303,en,1.1
-fe,fe,ORG,0.5909090909090908,0.40909090909090906,en,1.1
-Almond Beige MB-Tex,Almond Beige MB-Tex,ORG,-0.045454545454545456,0.09090909090909091,en,1.1
-Capri Blue Metallic,Capri Blue Metallic,ORG,-0.045454545454545456,0.09090909090909091,en,1.1
 Cypress Green Pearl,Cypress Green Pearl,ORG,-0.2424242424242424,0.2727272727272727,en,1.1
 LSU,LSU,ORG,0.0,0.0,en,1.1
+IKO Expands Performance Shingle Collection,IKO Expands Performance Shingle Collection,ORG,0.0,0.0,en,1.1
+Truthout,Truthout,ORG,0.09090909090909091,0.22727272727272727,en,1.1
 Yahoo Local,Yahoo Local,ORG,0.4848484848484848,0.303030303030303,en,1.1
-ganz MV - Schulbusse sollen rollen,ganz MV - Schulbusse sollen rollen,ORG,0.0,0.0,de,1.0
-Glatteis-Warnung,Glatteis-Warnung,ORG,0.0,0.0,de,1.0
-Trotz einer amtlichen Unwetterwarnung des Deutschen Wetterdienstes,Trotz einer amtlichen Unwetterwarnung des Deutschen Wetterdienstes,ORG,0.0,0.0,de,1.0
-SPD,SPD,ORG,0.0,0.0,de,1.0
-m Westen des Landes ab,m Westen des Landes ab,ORG,0.0,0.0,de,1.0
-Schneefall,Schneefall,ORG,0.0,0.0,de,1.0
+Navy,Navy,ORG,0.39999999999999997,0.2739177489177489,en,1.1
+Almond Beige MB-Tex,Almond Beige MB-Tex,ORG,-0.045454545454545456,0.09090909090909091,en,1.1
+Londolozi Game Reserve,Londolozi Game Reserve,ORG,-0.3939393939393939,0.36363636363636365,en,1.1
+Capri Blue Metallic,Capri Blue Metallic,ORG,-0.045454545454545456,0.09090909090909091,en,1.1
+fe,fe,ORG,0.5909090909090908,0.40909090909090906,en,1.1
+Track Your Life,Track Your Life,ORG,0.3333333333333333,0.303030303030303,en,1.1
 ganz MV - Schulbusse,ganz MV - Schulbusse,ORG,0.0,0.0,de,1.0
-Unwetter-Warnung nur noch für Sauerland und Ostwestfalen,Unwetter-Warnung nur noch für Sauerland und Ostwestfalen,ORG,0.0,0.0,de,1.0
-Vorsicht,Vorsicht,ORG,0.0,0.0,de,1.0
-Glatteis - Unwetterwarnung,Glatteis - Unwetterwarnung,ORG,0.0,0.0,de,1.0
-Glatteis-Gefahr,Glatteis-Gefahr,ORG,0.0,0.0,de,1.0
-Unwetter-Warnung nur noch,Unwetter-Warnung nur noch,ORG,0.0,0.0,de,1.0
-DWD weitet Unwetterwarnung wegen Glatteis auf ganz MV aus,DWD weitet Unwetterwarnung wegen Glatteis auf ganz MV aus,ORG,0.0,0.0,de,1.0
-Glatteis auf ganz MV aus,Glatteis auf ganz MV aus,ORG,0.0,0.0,de,1.0
-überfrierende Nässe,überfrierende Nässe,ORG,0.0,0.0,de,1.0
-Bergischen Land,Bergischen Land,ORG,0.0,0.0,de,1.0
-Kritik verteidigt,Kritik verteidigt,ORG,0.0,0.0,de,1.0
-Bahn stellt Fernverkehr,Bahn stellt Fernverkehr,ORG,0.0,0.0,de,1.0
-Viele Schulen und Unis,Viele Schulen und Unis,ORG,0.0,0.0,de,1.0
-Der DWD,Der DWD,ORG,0.0,0.0,de,1.0
-Wetterdienst gibt Entwarnung für Berlin und Brandenburg,Wetterdienst gibt Entwarnung für Berlin und Brandenburg,ORG,0.0,0.0,de,1.0
-Polizei,Polizei,ORG,0.0,0.0,de,1.0
-Polizei mehrfach,Polizei mehrfach,ORG,0.0,0.0,de,1.0
-Die angekündigte Schneefront,Die angekündigte Schneefront,ORG,0.0,0.0,de,1.0
-Reeperbahn am,Reeperbahn am,ORG,0.0,0.0,de,1.0
-wegen des erwarteten,wegen des erwarteten,ORG,0.0,0.0,de,1.0
-Norden und verspricht am,Norden und verspricht am,ORG,0.0,0.0,de,1.0
-Baden-Württembergs,Baden-Württembergs,ORG,0.0,0.0,de,1.0
-Bayern,Bayern,ORG,0.0,0.0,de,1.0
-m CSU-Kloster Seeon,m CSU-Kloster Seeon,ORG,0.0,0.0,de,1.0
-Süd-Kooperation und gegen,Süd-Kooperation und gegen,ORG,0.0,0.0,de,1.0
-Söder,Söder,ORG,0.0,0.0,de,1.0
-heute nach seiner Stippvisite bei der CSU-Klausur,heute nach seiner Stippvisite bei der CSU-Klausur,ORG,0.0,0.0,de,1.0
-CDU-Vorstandsklausur,CDU-Vorstandsklausur,ORG,0.0,0.0,de,1.0
-Kennesaw Clarify Insurance Repair Rights,Kennesaw Clarify Insurance Repair Rights,ORG,0.0,0.0,en,1.0
-Paintless Dent Repair Experts,Paintless Dent Repair Experts,ORG,0.0,0.0,en,1.0
-the Federal Territ,the Federal Territ,ORG,0.11666666666666664,0.0,en,1.0
-the Western Conference’s,the Western Conference’s,ORG,0.0,0.0,en,1.0
-Jahren,Jahren,ORG,0.0,0.0,de,1.0
-ZDF-Morgen,ZDF-Morgen,ORG,0.0,0.0,de,1.0
-Australien kämpft,Australien kämpft,ORG,0.0,0.0,de,1.0
-NRW-Schulministerin Dorothee Feller,NRW-Schulministerin Dorothee Feller,ORG,0.0,0.0,de,1.0
-das Wetter ändert,das Wetter ändert,ORG,0.0,0.0,de,1.0
-Gefahr für,Gefahr für,ORG,0.0,0.0,de,1.0
 Gefahr für Leib und Leben auf,Gefahr für Leib und Leben auf,ORG,0.0,0.0,de,1.0
-Unwetterwarnung vor Glätte,Unwetterwarnung vor Glätte,ORG,0.0,0.0,de,1.0
+Gefahr für,Gefahr für,ORG,0.0,0.0,de,1.0
+Vorsicht,Vorsicht,ORG,0.0,0.0,de,1.0
+überfrierende Nässe,überfrierende Nässe,ORG,0.0,0.0,de,1.0
+NRW-Schulministerin Dorothee Feller,NRW-Schulministerin Dorothee Feller,ORG,0.0,0.0,de,1.0
+the Insurance Linked Securities (ILS,the Insurance Linked Securities (ILS,ORG,0.25,0.0,en,1.0
+Deutsche Games-Branche,Deutsche Games-Branche,ORG,0.0,0.0,de,1.0
+Kritik verteidigt,Kritik verteidigt,ORG,0.0,0.0,de,1.0
+obwohl die,obwohl die,ORG,0.0,0.0,de,1.0
+ganz MV - Schulbusse sollen rollen,ganz MV - Schulbusse sollen rollen,ORG,0.0,0.0,de,1.0
+Ermittlungen zum AUA-Hagelflug,Ermittlungen zum AUA-Hagelflug,ORG,0.0,0.0,de,1.0
+Unwetter-Warnung nur noch,Unwetter-Warnung nur noch,ORG,0.0,0.0,de,1.0
+Unwetter-Warnung nur noch für Sauerland und Ostwestfalen,Unwetter-Warnung nur noch für Sauerland und Ostwestfalen,ORG,0.0,0.0,de,1.0
+Wegen der Glatteis-Warnungen des Deutschen Wetterdienstes,Wegen der Glatteis-Warnungen des Deutschen Wetterdienstes,ORG,0.0,0.0,de,1.0
+rover,rover,ORG,0.125,0.0,en,1.0
+mit,mit,ORG,0.0,0.0,de,1.0
+CDU-Wahlkampagne,CDU-Wahlkampagne,ORG,0.15,0.0,de,1.0
+Unwetterwarnung wegen Glätte,Unwetterwarnung wegen Glätte,ORG,0.0,0.0,de,1.0
+NASA,NASA,ORG,0.0,0.0,en,1.0
+DWD kann es vor allem,DWD kann es vor allem,ORG,0.0,0.0,de,1.0
+Mizen Head,Mizen Head,ORG,-0.25,0.0,en,1.0
+JPL-Caltech/Univ,JPL-Caltech/Univ,ORG,0.0,0.0,en,1.0
+Folgen auch,Folgen auch,ORG,0.0,0.0,de,1.0
 Kritik,Kritik,ORG,0.0,0.0,de,1.0
 ADAC,ADAC,ORG,0.0,0.0,de,1.0
+Unwetterwarnung für Westen des Landes,Unwetterwarnung für Westen des Landes,ORG,0.0,0.0,de,1.0
 Unwetterwarnung vor Glätte - viele Schulen geschlossen,Unwetterwarnung vor Glätte - viele Schulen geschlossen,ORG,0.0,0.0,de,1.0
-This Dark Gray Metallic,This Dark Gray Metallic,ORG,-0.15833333333333333,0.0,en,1.0
-"MELBOURNE
-","MELBOURNE
-",ORG,0.325,0.0,en,1.0
-The Carolina Panthers,The Carolina Panthers,ORG,0.0,0.0,en,1.0
-the Carolina Panthers,the Carolina Panthers,ORG,-0.43333333333333335,0.0,en,1.0
-Weather Team,Weather Team,ORG,0.0,0.0,en,1.0
-Bahn fährt,Bahn fährt,ORG,0.0,0.0,de,1.0
-Unwetterwarnung wegen Glätte,Unwetterwarnung wegen Glätte,ORG,0.0,0.0,de,1.0
-bis Samstag,bis Samstag,ORG,0.0,0.0,de,1.0
-Teilen Norddeutschlands,Teilen Norddeutschlands,ORG,0.0,0.0,de,1.0
-Weiter Unwetterwarnung für,Weiter Unwetterwarnung für,ORG,0.0,0.0,de,1.0
-Gebiete,Gebiete,ORG,0.0,0.0,de,1.0
-Das Wetter bringt,Das Wetter bringt,ORG,0.0,0.0,de,1.0
-DEGAM,DEGAM,ORG,0.0,0.0,de,1.0
-Diese Erfahrung teilt,Diese Erfahrung teilt,ORG,0.0,0.0,de,1.0
-bei anderen leidet,bei anderen leidet,ORG,0.0,0.0,de,1.0
-Wegen der Glatteis-Warnungen des Deutschen Wetterdienstes,Wegen der Glatteis-Warnungen des Deutschen Wetterdienstes,ORG,0.0,0.0,de,1.0
+ILS,ILS,ORG,0.0,0.0,en,1.0
+AmRiscs,AmRiscs,ORG,0.0,0.0,en,1.0
+American Coastal,American Coastal,ORG,0.0,0.0,en,1.0
+Und das,Und das,ORG,0.0,0.0,de,1.0
+"Hagelsturm, Schnee","Hagelsturm, Schnee",ORG,0.0,0.0,de,1.0
+Beide Parteien ziehen mit gegensätzlichen Konzepten,Beide Parteien ziehen mit gegensätzlichen Konzepten,ORG,0.0,0.0,de,1.0
+CFO Lana Castle,CFO Lana Castle,ORG,0.0,0.0,en,1.0
+DWD weitet Unwetterwarnung wegen Glatteis auf ganz MV aus,DWD weitet Unwetterwarnung wegen Glatteis auf ganz MV aus,ORG,0.0,0.0,de,1.0
+Trotz einer amtlichen Unwetterwarnung des Deutschen Wetterdienstes,Trotz einer amtlichen Unwetterwarnung des Deutschen Wetterdienstes,ORG,0.0,0.0,de,1.0
+Glatteis auf ganz MV aus,Glatteis auf ganz MV aus,ORG,0.0,0.0,de,1.0
+Jordan Brands,Jordan Brands,ORG,0.13333333333333333,0.0,en,1.0
 Klartext,Klartext,ORG,0.0,0.0,de,1.0
-DWD kann es vor allem,DWD kann es vor allem,ORG,0.0,0.0,de,1.0
+Cat Bond,Cat Bond,ORG,0.0,0.0,en,1.0
+SPD,SPD,ORG,0.0,0.0,de,1.0
+The Jordan Spiz'ike,The Jordan Spiz'ike,ORG,0.13333333333333333,0.0,en,1.0
+Schneefall,Schneefall,ORG,0.0,0.0,de,1.0
+Gemeinsam mit dem,Gemeinsam mit dem,ORG,0.0,0.0,de,1.0
+Glatteis-Warnung,Glatteis-Warnung,ORG,0.0,0.0,de,1.0
+bei der Wahl,bei der Wahl,ORG,0.0,0.0,de,1.0
+American Coastal Insurance Unveils,American Coastal Insurance Unveils,ORG,0.0,0.0,en,1.0
+State Farm,State Farm,ORG,0.0,0.0,en,1.0
+Lightning Lifestyle Series,Lightning Lifestyle Series,ORG,0.13333333333333333,0.0,en,1.0
+m Westen des Landes ab,m Westen des Landes ab,ORG,0.0,0.0,de,1.0
+auf dem Weg nach Wien,auf dem Weg nach Wien,ORG,0.0,0.0,de,1.0
+Jordan Brand’s,Jordan Brand’s,ORG,0.2,0.0,en,1.0
+ACES,ACES,ORG,0.0,0.0,en,1.0
+Audi,Audi,ORG,0.0,0.0,de,1.0
+Wetterextrem - Eis-Fluten auf Malta,Wetterextrem - Eis-Fluten auf Malta,ORG,0.0,0.0,de,1.0
+Narrabeen,Narrabeen,ORG,0.13636363636363635,0.0,en,1.0
+Lufthansa,Lufthansa,ORG,0.0,0.0,de,1.0
+Staatsanwaltschaft Wien,Staatsanwaltschaft Wien,ORG,0.0,0.0,de,1.0
+Glatteis-Gefahr,Glatteis-Gefahr,ORG,0.0,0.0,de,1.0
+Glatteis - Unwetterwarnung,Glatteis - Unwetterwarnung,ORG,0.0,0.0,de,1.0
+Bad Rappenau,Bad Rappenau,ORG,-0.6999999999999998,0.0,de,1.0
+Fahrt auf,Fahrt auf,ORG,0.0,0.0,de,1.0
+Gemeinsam mit dem CDU-Spitzenkandidaten,Gemeinsam mit dem CDU-Spitzenkandidaten,ORG,0.0,0.0,de,1.0
+the Insurance Linked Securities,the Insurance Linked Securities,ORG,0.25,0.0,en,1.0
+zwar weniger Autos verkauft,zwar weniger Autos verkauft,ORG,0.0,0.0,de,1.0
+Convective Storms,Convective Storms,ORG,0.0,0.0,en,1.0
+ACIC,ACIC,ORG,0.0,0.0,en,1.0
+KTLA,KTLA,ORG,-0.1875,0.0,en,1.0
+Arznei-Engpässe,Arznei-Engpässe,ORG,0.0,0.0,de,1.0
+Auch für Freitag,Auch für Freitag,ORG,0.0,0.0,de,1.0
+Gebietsweise sind noch Unwetter,Gebietsweise sind noch Unwetter,ORG,0.0,0.0,de,1.0
+Lage soll,Lage soll,ORG,0.0,0.0,de,1.0
+Glatteis und Eisregen,Glatteis und Eisregen,ORG,0.0,0.0,de,1.0
+Unwetterwarnungen aufgehoben,Unwetterwarnungen aufgehoben,ORG,0.0,0.0,de,1.0
+Blitzeis legt,Blitzeis legt,ORG,0.0,0.0,de,1.0
+verweist aber auf,verweist aber auf,ORG,0.0,0.0,de,1.0
+Nordosten,Nordosten,ORG,0.0,0.0,de,1.0
+Unwetterwarnung,Unwetterwarnung,ORG,0.0,0.0,de,1.0
+Flughafen BER lahm,Flughafen BER lahm,ORG,0.0,0.0,de,1.0
+Unwetterwarnung vor Gl,Unwetterwarnung vor Gl,ORG,0.0,0.0,de,1.0
+Zwar,Zwar,ORG,0.0,0.0,de,1.0
+BILD06.02.2026 - 02:01,BILD06.02.2026 - 02:01,ORG,0.0,0.0,de,1.0
+Vorsicht auf,Vorsicht auf,ORG,0.0,0.0,de,1.0
+BILD-Buschfunk,BILD-Buschfunk,ORG,0.0,0.0,de,1.0
+rede,rede,ORG,0.0,0.0,de,1.0
+Dort war bis zum Kopiere den aktuellen,Dort war bis zum Kopiere den aktuellen,ORG,0.0,0.0,de,1.0
+Vom Notfallrucksack bis zur,Vom Notfallrucksack bis zur,ORG,0.0,0.0,de,1.0
+AG,AG,ORG,0.0,0.0,de,1.0
+weiten Teilen Mecklenburg-Vorpommerns,weiten Teilen Mecklenburg-Vorpommerns,ORG,0.0,0.0,de,1.0
+Industrieanlage,Industrieanlage,ORG,0.0,0.0,de,1.0
+Energie,Energie,ORG,0.0,0.0,de,1.0
+genaue Ursache,genaue Ursache,ORG,0.0,0.0,de,1.0
+Nachmittag,Nachmittag,ORG,0.0,0.0,de,1.0
+Deutsche Wetterdienst für,Deutsche Wetterdienst für,ORG,0.0,0.0,de,1.0
+Allerdings sollen sich,Allerdings sollen sich,ORG,0.0,0.0,de,1.0
+Gebiete Kreis Rostock bi…,Gebiete Kreis Rostock bi…,ORG,0.0,0.0,de,1.0
+Celtic Challenge,Celtic Challenge,ORG,0.0,0.0,en,1.0
+THW ermöglicht Schulstart,THW ermöglicht Schulstart,ORG,0.0,0.0,de,1.0
+Keller und stürmische Böen,Keller und stürmische Böen,ORG,0.0,0.0,de,1.0
+Ganz ungefährlich ist,Ganz ungefährlich ist,ORG,0.0,0.0,de,1.0
+dann fällt,dann fällt,ORG,0.0,0.0,de,1.0
+Teilen des Landes,Teilen des Landes,ORG,0.0,0.0,de,1.0
+"Schneeschmelze, Dauerregen und Überschwemmungsgefahr","Schneeschmelze, Dauerregen und Überschwemmungsgefahr",ORG,0.0,0.0,de,1.0
+diesen Tagen,diesen Tagen,ORG,0.0,0.0,de,1.0
+Es zeigt,Es zeigt,ORG,0.0,0.0,de,1.0
+Angriffe auf,Angriffe auf,ORG,0.0,0.0,de,1.0
+Bettina-von-Arnim-Schule,Bettina-von-Arnim-Schule,ORG,0.0,0.0,de,1.0
+Defekts,Defekts,ORG,0.0,0.0,de,1.0
+Wegen eines technischen,Wegen eines technischen,ORG,0.0,0.0,de,1.0
+dpa:260205-99-,dpa:260205-99-,ORG,0.0,0.0,de,1.0
+Es Kopiere,Es Kopiere,ORG,0.0,0.0,de,1.0
+dpa-infocom,dpa-infocom,ORG,0.0,0.0,de,1.0
+"Schnee, Eis","Schnee, Eis",ORG,0.0,0.0,de,1.0
+Davon betroffen waren,Davon betroffen waren,ORG,0.0,0.0,de,1.0
+das Problem nach weniger als zwei Stunden behoben,das Problem nach weniger als zwei Stunden behoben,ORG,0.0,0.0,de,1.0
+Teilen von Friedrichshain und Prenzlauer Berg fiel,Teilen von Friedrichshain und Prenzlauer Berg fiel,ORG,0.0,0.0,de,1.0
+Rund,Rund,ORG,0.0,0.0,de,1.0
+Betroffen sind,Betroffen sind,ORG,0.0,0.0,de,1.0
+Teilen von Friedrichshain und Prenzlauer Berg,Teilen von Friedrichshain und Prenzlauer Berg,ORG,0.0,0.0,de,1.0
+Arbeiten,Arbeiten,ORG,0.0,0.0,de,1.0
+Teile von Friedrichshain und Prenzlauer Berg sind,Teile von Friedrichshain und Prenzlauer Berg sind,ORG,0.0,0.0,de,1.0
+Teile Berlins,Teile Berlins,ORG,0.0,0.0,de,1.0
+Es wird,Es wird,ORG,0.0,0.0,de,1.0
+Abend,Abend,ORG,0.0,0.0,de,1.0
+Photovoltaik kann bei Stromausfall,Photovoltaik kann bei Stromausfall,ORG,0.0,0.0,de,1.0
+CDU verliert nach Stromausfall,CDU verliert nach Stromausfall,ORG,0.0,0.0,de,1.0
+Ein Blitz trifft,Ein Blitz trifft,ORG,0.0,0.0,de,1.0
+Dutzende Verletzte nach,Dutzende Verletzte nach,ORG,0.0,0.0,de,1.0
+ein Blitz,ein Blitz,ORG,0.0,0.0,de,1.0
+Kundgebung für den Ex-Präsidenten Jair Bolsonaro,Kundgebung für den Ex-Präsidenten Jair Bolsonaro,ORG,0.0,0.0,de,1.0
+Bis,Bis,ORG,0.0,0.0,de,1.0
+Es gelten mehrere amtliche Warnungen,Es gelten mehrere amtliche Warnungen,ORG,0.0,0.0,de,1.0
+Es braucht eine gesetzliche,Es braucht eine gesetzliche,ORG,0.0,0.0,de,1.0
+Teilen Berlins fordert,Teilen Berlins fordert,ORG,0.0,0.0,de,1.0
+einer Umfrage auf den tiefsten,einer Umfrage auf den tiefsten,ORG,0.0,0.0,de,1.0
+Die Berliner CDU fällt,Die Berliner CDU fällt,ORG,0.0,0.0,de,1.0
+Kai Wegner unbeliebt wie,Kai Wegner unbeliebt wie,ORG,0.0,0.0,de,1.0
+Pflegeheime,Pflegeheime,ORG,0.0,0.0,de,1.0
+SWS,SWS,ORG,0.0,0.0,de,1.0
+Cottbus kämpft mit Stromproblemen,Cottbus kämpft mit Stromproblemen,ORG,0.0,0.0,de,1.0
+Versorgung noch nicht stabil,Versorgung noch nicht stabil,ORG,0.0,0.0,de,1.0
+den Kopiere,den Kopiere,ORG,0.0,0.0,de,1.0
+es zu einem großflächigen,es zu einem großflächigen,ORG,0.0,0.0,de,1.0
+der Elek­trogrill auf,der Elek­trogrill auf,ORG,0.2,0.0,de,1.0
+Sorge vor einem Stromausfall und kann ein Vorsorge-Baustein sein,Sorge vor einem Stromausfall und kann ein Vorsorge-Baustein sein,ORG,0.0,0.0,de,1.0
+Vorsorge,Vorsorge,ORG,0.0,0.0,de,1.0
+Hotels,Hotels,ORG,0.0,0.0,de,1.0
+Wirtschaftsweisen,Wirtschaftsweisen,ORG,0.0,0.0,de,1.0
+the IAB Transparency &amp,the IAB Transparency &amp,ORG,-0.125,0.0,en,1.0
+the Celtic Challenge,the Celtic Challenge,ORG,0.0,0.0,en,1.0
+Regionen Berlin und Brandenburg aufgehoben,Regionen Berlin und Brandenburg aufgehoben,ORG,0.0,0.0,de,1.0
 teilte der Dienst mit,teilte der Dienst mit,ORG,0.0,0.0,de,1.0
+Bolsonaro rally,Bolsonaro rally,ORG,0.0,0.0,en,1.0
+Brasilien,Brasilien,ORG,0.0,0.0,de,1.0
+Hunderte E-Auto-Ladesäulen,Hunderte E-Auto-Ladesäulen,ORG,0.0,0.0,de,1.0
 Netzbetreibers Netze,Netzbetreibers Netze,ORG,0.0,0.0,de,1.0
+das aber dennoch große Folgen,das aber dennoch große Folgen,ORG,0.0,0.0,de,1.0
 und hatte doch große Folgen,und hatte doch große Folgen,ORG,0.0,0.0,de,1.0
+Büros auf einen Schlag,Büros auf einen Schlag,ORG,0.0,0.0,de,1.0
+kurz vor zehn Uhr am Morgen als,kurz vor zehn Uhr am Morgen als,ORG,0.0,0.0,de,1.0
+Es ist,Es ist,ORG,0.0,0.0,de,1.0
 Unwetterwarnung vor Glatteis,Unwetterwarnung vor Glatteis,ORG,0.0,0.0,de,1.0
 the India Meteorological Department's,the India Meteorological Department's,ORG,0.25,0.0,en,1.0
 Tage,Tage,ORG,0.0,0.0,de,1.0
@@ -235,106 +371,36 @@ Thodoris Kolydas,Thodoris Kolydas,ORG,0.0,0.0,en,1.0
 Blackboy Springs,Blackboy Springs,ORG,-0.3333333333333333,0.0,en,1.0
 Western Disturbance,Western Disturbance,ORG,0.09375,0.0,en,1.0
 Warriors,Warriors,ORG,-0.05,0.0,en,1.0
-Bolsonaro rally,Bolsonaro rally,ORG,0.0,0.0,en,1.0
-Regionen Berlin und Brandenburg aufgehoben,Regionen Berlin und Brandenburg aufgehoben,ORG,0.0,0.0,de,1.0
-Unwetterwarnung für Westen des Landes,Unwetterwarnung für Westen des Landes,ORG,0.0,0.0,de,1.0
-Bis,Bis,ORG,0.0,0.0,de,1.0
-Es gelten mehrere amtliche Warnungen,Es gelten mehrere amtliche Warnungen,ORG,0.0,0.0,de,1.0
-Es braucht eine gesetzliche,Es braucht eine gesetzliche,ORG,0.0,0.0,de,1.0
-Teilen Berlins fordert,Teilen Berlins fordert,ORG,0.0,0.0,de,1.0
-einer Umfrage auf den tiefsten,einer Umfrage auf den tiefsten,ORG,0.0,0.0,de,1.0
-Die Berliner CDU fällt,Die Berliner CDU fällt,ORG,0.0,0.0,de,1.0
-Kai Wegner unbeliebt wie,Kai Wegner unbeliebt wie,ORG,0.0,0.0,de,1.0
-CDU verliert nach Stromausfall,CDU verliert nach Stromausfall,ORG,0.0,0.0,de,1.0
-Pflegeheime,Pflegeheime,ORG,0.0,0.0,de,1.0
-Cottbus kämpft mit Stromproblemen,Cottbus kämpft mit Stromproblemen,ORG,0.0,0.0,de,1.0
-Versorgung noch nicht stabil,Versorgung noch nicht stabil,ORG,0.0,0.0,de,1.0
-das aber dennoch große Folgen,das aber dennoch große Folgen,ORG,0.0,0.0,de,1.0
-SWS,SWS,ORG,0.0,0.0,de,1.0
-Hunderte E-Auto-Ladesäulen,Hunderte E-Auto-Ladesäulen,ORG,0.0,0.0,de,1.0
-Photovoltaik kann bei Stromausfall,Photovoltaik kann bei Stromausfall,ORG,0.0,0.0,de,1.0
-Es zeigt,Es zeigt,ORG,0.0,0.0,de,1.0
-Angriffe auf,Angriffe auf,ORG,0.0,0.0,de,1.0
-Bettina-von-Arnim-Schule,Bettina-von-Arnim-Schule,ORG,0.0,0.0,de,1.0
-Defekts,Defekts,ORG,0.0,0.0,de,1.0
-Wegen eines technischen,Wegen eines technischen,ORG,0.0,0.0,de,1.0
-THW ermöglicht Schulstart,THW ermöglicht Schulstart,ORG,0.0,0.0,de,1.0
-dpa:260205-99-,dpa:260205-99-,ORG,0.0,0.0,de,1.0
-dpa-infocom,dpa-infocom,ORG,0.0,0.0,de,1.0
-sind auch einige Ampeln,sind auch einige Ampeln,ORG,0.0,0.0,de,1.0
-Rund,Rund,ORG,0.0,0.0,de,1.0
-Davon betroffen waren,Davon betroffen waren,ORG,0.0,0.0,de,1.0
-das Problem nach weniger als zwei Stunden behoben,das Problem nach weniger als zwei Stunden behoben,ORG,0.0,0.0,de,1.0
-Teilen von Friedrichshain und Prenzlauer Berg fiel,Teilen von Friedrichshain und Prenzlauer Berg fiel,ORG,0.0,0.0,de,1.0
-Betroffen sind,Betroffen sind,ORG,0.0,0.0,de,1.0
-Teilen von Friedrichshain und Prenzlauer Berg,Teilen von Friedrichshain und Prenzlauer Berg,ORG,0.0,0.0,de,1.0
-Arbeiten,Arbeiten,ORG,0.0,0.0,de,1.0
-Teile von Friedrichshain und Prenzlauer Berg sind,Teile von Friedrichshain und Prenzlauer Berg sind,ORG,0.0,0.0,de,1.0
-Teile Berlins,Teile Berlins,ORG,0.0,0.0,de,1.0
-Vom Notfallrucksack bis zur,Vom Notfallrucksack bis zur,ORG,0.0,0.0,de,1.0
-AG,AG,ORG,0.0,0.0,de,1.0
-Industrieanlage,Industrieanlage,ORG,0.0,0.0,de,1.0
-Energie,Energie,ORG,0.0,0.0,de,1.0
-genaue Ursache,genaue Ursache,ORG,0.0,0.0,de,1.0
-den Kopiere,den Kopiere,ORG,0.0,0.0,de,1.0
-es zu einem großflächigen,es zu einem großflächigen,ORG,0.0,0.0,de,1.0
-der Elek­trogrill auf,der Elek­trogrill auf,ORG,0.2,0.0,de,1.0
-Jordan Brands,Jordan Brands,ORG,0.13333333333333333,0.0,en,1.0
-The Jordan Spiz'ike,The Jordan Spiz'ike,ORG,0.13333333333333333,0.0,en,1.0
-Jordan Brand’s,Jordan Brand’s,ORG,0.2,0.0,en,1.0
-Staatsanwaltschaft Wien,Staatsanwaltschaft Wien,ORG,0.0,0.0,de,1.0
-Lufthansa,Lufthansa,ORG,0.0,0.0,de,1.0
-auf dem Weg nach Wien,auf dem Weg nach Wien,ORG,0.0,0.0,de,1.0
-Ermittlungen zum AUA-Hagelflug,Ermittlungen zum AUA-Hagelflug,ORG,0.0,0.0,de,1.0
-CDU-Wahlkampagne,CDU-Wahlkampagne,ORG,0.15,0.0,de,1.0
-Mizen Head,Mizen Head,ORG,-0.25,0.0,en,1.0
-Rotorua,Rotorua,ORG,0.0,0.0,en,1.0
-AmRiscs,AmRiscs,ORG,0.0,0.0,en,1.0
-American Coastal,American Coastal,ORG,0.0,0.0,en,1.0
-CFO Lana Castle,CFO Lana Castle,ORG,0.0,0.0,en,1.0
-ACIC,ACIC,ORG,0.0,0.0,en,1.0
-ACES,ACES,ORG,0.0,0.0,en,1.0
-American Coastal Insurance Unveils,American Coastal Insurance Unveils,ORG,0.0,0.0,en,1.0
-zwar weniger Autos verkauft,zwar weniger Autos verkauft,ORG,0.0,0.0,de,1.0
-Audi,Audi,ORG,0.0,0.0,de,1.0
-State Farm,State Farm,ORG,0.0,0.0,en,1.0
-the Insurance Linked Securities (ILS,the Insurance Linked Securities (ILS,ORG,0.25,0.0,en,1.0
-the Insurance Linked Securities,the Insurance Linked Securities,ORG,0.25,0.0,en,1.0
-Convective Storms,Convective Storms,ORG,0.0,0.0,en,1.0
-Cat Bond,Cat Bond,ORG,0.0,0.0,en,1.0
-ILS,ILS,ORG,0.0,0.0,en,1.0
-Lightning Lifestyle Series,Lightning Lifestyle Series,ORG,0.13333333333333333,0.0,en,1.0
-bei der Wahl,bei der Wahl,ORG,0.0,0.0,de,1.0
-Sorge vor einem Stromausfall und kann ein Vorsorge-Baustein sein,Sorge vor einem Stromausfall und kann ein Vorsorge-Baustein sein,ORG,0.0,0.0,de,1.0
-Beide Parteien ziehen mit gegensätzlichen Konzepten,Beide Parteien ziehen mit gegensätzlichen Konzepten,ORG,0.0,0.0,de,1.0
-Vorsorge,Vorsorge,ORG,0.0,0.0,de,1.0
-Hotels,Hotels,ORG,0.0,0.0,de,1.0
-Wirtschaftsweisen,Wirtschaftsweisen,ORG,0.0,0.0,de,1.0
-the IAB Transparency &amp,the IAB Transparency &amp,ORG,-0.125,0.0,en,1.0
-the Celtic Challenge,the Celtic Challenge,ORG,0.0,0.0,en,1.0
-Celtic Challenge,Celtic Challenge,ORG,0.0,0.0,en,1.0
-Arznei-Engpässe,Arznei-Engpässe,ORG,0.0,0.0,de,1.0
-JPL-Caltech/Univ,JPL-Caltech/Univ,ORG,0.0,0.0,en,1.0
-NASA,NASA,ORG,0.0,0.0,en,1.0
-rover,rover,ORG,0.125,0.0,en,1.0
-obwohl die,obwohl die,ORG,0.0,0.0,de,1.0
-Und das,Und das,ORG,0.0,0.0,de,1.0
-mit,mit,ORG,0.0,0.0,de,1.0
-"Hagelsturm, Schnee","Hagelsturm, Schnee",ORG,0.0,0.0,de,1.0
-Mehr zum Video,Mehr zum Video,ORG,0.0,0.0,de,1.0
-Wetterextrem - Eis-Fluten auf Malta,Wetterextrem - Eis-Fluten auf Malta,ORG,0.0,0.0,de,1.0
-Narrabeen,Narrabeen,ORG,0.13636363636363635,0.0,en,1.0
-Bad Rappenau,Bad Rappenau,ORG,-0.6999999999999998,0.0,de,1.0
-Fahrt auf,Fahrt auf,ORG,0.0,0.0,de,1.0
-Gemeinsam mit dem CDU-Spitzenkandidaten,Gemeinsam mit dem CDU-Spitzenkandidaten,ORG,0.0,0.0,de,1.0
-Karriereschritt,Karriereschritt,ORG,0.0,0.0,de,1.0
-Gemeinsam mit dem,Gemeinsam mit dem,ORG,0.0,0.0,de,1.0
-Deutsche Games-Branche,Deutsche Games-Branche,ORG,0.0,0.0,de,1.0
-Dann soll der Politiker,Dann soll der Politiker,ORG,0.0,0.0,de,1.0
-KTLA,KTLA,ORG,-0.1875,0.0,en,1.0
-einen weiteren,einen weiteren,ORG,0.0,0.0,de,1.0
-The Bureau of M,The Bureau of M,ORG,0.0,0.0,en,1.0
+Freilassung des Ex-Präsidenten zu demonstrieren,Freilassung des Ex-Präsidenten zu demonstrieren,ORG,0.0,0.0,de,1.0
+Tausende Menschen,Tausende Menschen,ORG,0.0,0.0,de,1.0
+Wegen,Wegen,ORG,0.0,0.0,de,1.0
+bei Protest,bei Protest,ORG,0.0,0.0,de,1.0
+Brasilien - Blitz,Brasilien - Blitz,ORG,0.0,0.0,de,1.0
+Bei dem Blitzeinschlag,Bei dem Blitzeinschlag,ORG,0.0,0.0,de,1.0
+gegen dessen,gegen dessen,ORG,0.0,0.0,de,1.0
+Tausende Anhänger des früheren,Tausende Anhänger des früheren,ORG,0.0,0.0,de,1.0
+This Dark Gray Metallic,This Dark Gray Metallic,ORG,-0.15833333333333333,0.0,en,1.0
+Chancen gegen die Grünen,Chancen gegen die Grünen,ORG,0.0,0.0,de,1.0
+"MELBOURNE
+","MELBOURNE
+",ORG,0.325,0.0,en,1.0
+Meteorological Department,Meteorological Department,ORG,0.3,0.0,en,1.0
+the Lone Star State,the Lone Star State,ORG,0.1,0.0,en,1.0
+the Insurance Information Institute,the Insurance Information Institute,ORG,0.1,0.0,en,1.0
+USA Hail,USA Hail,ORG,-0.03787878787878788,0.0,en,1.0
+OzBargain,OzBargain,ORG,0.0,0.0,en,1.0
+Kmart,Kmart,ORG,0.0,0.0,en,1.0
+Makgabutlane,Makgabutlane,ORG,0.1,0.0,en,1.0
+Instagram,Instagram,ORG,0.0,0.0,en,1.0
+Raceland,Raceland,ORG,0.4,0.0,en,1.0
+Lightning,Lightning,ORG,0.0,0.0,en,1.0
+Civil Protection,Civil Protection,ORG,0.1886904761904762,0.0,en,1.0
+Mytilenes,Mytilenes,ORG,0.1886904761904762,0.0,en,1.0
+the Interstate 20 and Interstate,the Interstate 20 and Interstate,ORG,-0.2333333333333333,0.0,en,1.0
+the Bureau of Meteorology,the Bureau of Meteorology,ORG,0.0,0.0,en,1.0
+Malaysias Meteorological Department,Malaysias Meteorological Department,ORG,0.31666666666666665,0.0,en,1.0
 Woman's,Woman's,ORG,0.1,0.0,en,1.0
+the National Acad,the National Acad,ORG,0.0,0.0,en,1.0
 Grrl Power,Grrl Power,ORG,0.0,0.0,en,1.0
 MetM,MetM,ORG,0.0,0.0,en,1.0
 red meat,red meat,ORG,0.0,0.0,en,1.0
@@ -349,24 +415,30 @@ Cyber,Cyber,ORG,-0.16666666666666666,0.0,en,1.0
 SEO,SEO,ORG,0.0,0.0,en,1.0
 the Portland Trail Blazers,the Portland Trail Blazers,ORG,0.0,0.0,en,1.0
 the Oklahoma City Thunder's,the Oklahoma City Thunder's,ORG,0.0,0.0,en,1.0
-Trail Blazers,Trail Blazers,ORG,0.0,0.0,en,1.0
-the National Acad,the National Acad,ORG,0.0,0.0,en,1.0
-"the National Academy of Sciences
-
-","the National Academy of Sciences
-
-",ORG,0.14444444444444443,0.0,en,1.0
-Science New Research,Science New Research,ORG,-0.18181818181818182,0.0,en,1.0
-Goyal,Goyal,ORG,0.0,0.0,en,1.0
-Stat,Stat,ORG,0.15584415584415584,0.0,en,1.0
-Jammu & Kashmir,Jammu & Kashmir,ORG,0.0,0.0,en,1.0
-EMY,EMY,ORG,-0.11666666666666665,0.0,en,1.0
-weatherturns,weatherturns,ORG,0.025000000000000005,0.0,en,1.0
-Bureau of Meteorology s,Bureau of Meteorology s,ORG,0.0,0.0,en,1.0
-Meteorological Department,Meteorological Department,ORG,0.3,0.0,en,1.0
-Malaysias Meteorological Department,Malaysias Meteorological Department,ORG,0.31666666666666665,0.0,en,1.0
-the Bureau of Meteorology,the Bureau of Meteorology,ORG,0.0,0.0,en,1.0
+West,West,ORG,0.0,0.0,en,1.0
 Hulton Archive/Getty,Hulton Archive/Getty,ORG,0.0,0.0,en,1.0
+Welsh Celtic Challenge derby,Welsh Celtic Challenge derby,ORG,0.0,0.0,en,1.0
+the Welsh Celtic Challenge,the Welsh Celtic Challenge,ORG,0.0,0.0,en,1.0
+Doch er,Doch er,ORG,0.0,0.0,de,1.0
+Albanese,Albanese,ORG,0.0,0.0,en,1.0
+Western NC,Western NC,ORG,0.08,0.0,en,1.0
+CDU Baden-Württemberg,CDU Baden-Württemberg,ORG,0.0,0.0,de,1.0
+SafeBreach Labs,SafeBreach Labs,ORG,0.02878787878787879,0.0,en,1.0
+Infy,Infy,ORG,0.1,0.0,en,1.0
+Persia (Infy,Persia (Infy,ORG,0.6,0.0,en,1.0
+SafeBreach,SafeBreach,ORG,0.6,0.0,en,1.0
+thunderstorms.&nbsp,thunderstorms.&nbsp,ORG,-0.075,0.0,en,1.0
+IndiGo issues advisory,IndiGo issues advisory,ORG,0.0,0.0,en,1.0
+"width=""600","width=""600",ORG,0.0,0.0,en,1.0
+Energiekosten,Energiekosten,ORG,0.0,0.0,de,1.0
+U.S. National Weather Service,U.S. National Weather Service,ORG,0.0,0.0,en,1.0
+National,National,ORG,0.0,0.0,en,1.0
+Studie von Swiss Re,Studie von Swiss Re,ORG,0.0,0.0,de,1.0
+KL,KL,ORG,0.0,0.0,en,1.0
+Libertadores,Libertadores,ORG,0.0,0.0,en,1.0
+Intercontinental,Intercontinental,ORG,0.0,0.0,en,1.0
+Das französische Biathlon-Team bleibt,Das französische Biathlon-Team bleibt,ORG,0.0,0.0,de,1.0
+Ein Brief,Ein Brief,ORG,0.0,0.0,de,1.0
 Daily Tech News,Daily Tech News,ORG,0.0,0.0,en,1.0
 Disn,Disn,ORG,0.04814814814814813,0.0,en,1.0
 Hollywood Studios,Hollywood Studios,ORG,0.04814814814814813,0.0,en,1.0
@@ -376,25 +448,19 @@ House,House,ORG,-0.19999999999999998,0.0,en,1.0
 Donald Trumps Republican Party,Donald Trumps Republican Party,ORG,-0.19999999999999998,0.0,en,1.0
 ap,ap,ORG,-0.2033333333333333,0.0,en,1.0
 the Welsh Celtic Challenge derby,the Welsh Celtic Challenge derby,ORG,0.0,0.0,en,1.0
-the Welsh Celtic Challenge,the Welsh Celtic Challenge,ORG,0.0,0.0,en,1.0
-Welsh Celtic Challenge derby,Welsh Celtic Challenge derby,ORG,0.0,0.0,en,1.0
-West,West,ORG,0.0,0.0,en,1.0
-the Interstate 20 and Interstate,the Interstate 20 and Interstate,ORG,-0.2333333333333333,0.0,en,1.0
-the Lone Star State,the Lone Star State,ORG,0.1,0.0,en,1.0
-the Insurance Information Institute,the Insurance Information Institute,ORG,0.1,0.0,en,1.0
-USA Hail,USA Hail,ORG,-0.03787878787878788,0.0,en,1.0
-OzBargain,OzBargain,ORG,0.0,0.0,en,1.0
-Kmart,Kmart,ORG,0.0,0.0,en,1.0
-Makgabutlane,Makgabutlane,ORG,0.1,0.0,en,1.0
-Instagram,Instagram,ORG,0.0,0.0,en,1.0
-Raceland,Raceland,ORG,0.4,0.0,en,1.0
-Lightning,Lightning,ORG,0.0,0.0,en,1.0
-Civil Protection,Civil Protection,ORG,0.1886904761904762,0.0,en,1.0
-Mytilenes,Mytilenes,ORG,0.1886904761904762,0.0,en,1.0
-the Southern Downs,the Southern Downs,ORG,0.25,0.0,en,1.0
-The Royal Meteorological Society's,The Royal Meteorological Society's,ORG,0.05,0.0,en,1.0
-Das französische Biathlon-Team bleibt,Das französische Biathlon-Team bleibt,ORG,0.0,0.0,de,1.0
-Kashmir Assembly,Kashmir Assembly,ORG,0.0,0.0,en,1.0
+Trail Blazers,Trail Blazers,ORG,0.0,0.0,en,1.0
+"the National Academy of Sciences
+
+","the National Academy of Sciences
+
+",ORG,0.14444444444444443,0.0,en,1.0
+The Carolina Panthers,The Carolina Panthers,ORG,0.0,0.0,en,1.0
+newsweek.com,newsweek.com,ORG,0.0,0.0,en,1.0
+India Meteorological Department,India Meteorological Department,ORG,0.0,0.0,en,1.0
+Texas A&M,Texas A&M,ORG,-0.4,0.0,en,1.0
+the Indian Meteorological Department,the Indian Meteorological Department,ORG,-0.06666666666666667,0.0,en,1.0
+HerGateway,HerGateway,ORG,0.0,0.0,en,1.0
+inDrives,inDrives,ORG,0.2,0.0,en,1.0
 Autofleets,Autofleets,ORG,0.2,0.0,en,1.0
 Autofleet,Autofleet,ORG,0.2,0.0,en,1.0
 Bring Intelligent Fleet Management,Bring Intelligent Fleet Management,ORG,0.4,0.0,en,1.0
@@ -406,8 +472,8 @@ Pacific Palisades,Pacific Palisades,ORG,0.0,0.0,en,1.0
 "Associated Press
 ","Associated Press
 ",ORG,0.3,0.0,en,1.0
-newsweek.com,newsweek.com,ORG,0.0,0.0,en,1.0
 Great Southern,Great Southern,ORG,0.26666666666666666,0.0,en,1.0
+Science New Research,Science New Research,ORG,-0.18181818181818182,0.0,en,1.0
 Daniels,Daniels,ORG,0.0,0.0,en,1.0
 Knesset,Knesset,ORG,0.06818181818181818,0.0,en,1.0
 US Air Force,US Air Force,ORG,-0.4,0.0,en,1.0
@@ -422,10 +488,20 @@ J&K,J&K,ORG,-0.2,0.0,en,1.0
 Boeing,Boeing,ORG,0.2,0.0,en,1.0
 Rapid,Rapid,ORG,0.13333333333333336,0.0,en,1.0
 New Jersey Democratic congress,New Jersey Democratic congress,ORG,0.13636363636363635,0.0,en,1.0
-inDrives,inDrives,ORG,0.2,0.0,en,1.0
-HerGateway,HerGateway,ORG,0.0,0.0,en,1.0
-the Indian Meteorological Department,the Indian Meteorological Department,ORG,-0.06666666666666667,0.0,en,1.0
-the National Weather Service (NWS,the National Weather Service (NWS,ORG,0.0,0.0,en,1.0
+The Indian Meteorological Department,The Indian Meteorological Department,ORG,0.13333333333333333,0.0,en,1.0
+VDE Americas Goes Global to Meet Rising Demand for Hail Risk Intelligence,VDE Americas Goes Global to Meet Rising Demand for Hail Risk Intelligence,ORG,0.0,0.0,en,1.0
+VDE Americas,VDE Americas,ORG,0.0,0.0,en,1.0
+Tota,Tota,ORG,0.0,0.0,en,1.0
+Goyal,Goyal,ORG,0.0,0.0,en,1.0
+Stat,Stat,ORG,0.15584415584415584,0.0,en,1.0
+Jammu & Kashmir,Jammu & Kashmir,ORG,0.0,0.0,en,1.0
+EMY,EMY,ORG,-0.11666666666666665,0.0,en,1.0
+weatherturns,weatherturns,ORG,0.025000000000000005,0.0,en,1.0
+Bureau of Meteorology s,Bureau of Meteorology s,ORG,0.0,0.0,en,1.0
+the Southern Downs,the Southern Downs,ORG,0.25,0.0,en,1.0
+The Bureau of M,The Bureau of M,ORG,0.0,0.0,en,1.0
+The Royal Meteorological Society's,The Royal Meteorological Society's,ORG,0.05,0.0,en,1.0
+Kashmir Assembly,Kashmir Assembly,ORG,0.0,0.0,en,1.0
 Standard Chartered Weather Photographer,Standard Chartered Weather Photographer,ORG,0.32,0.0,en,1.0
 the Royal Meteorological Society,the Royal Meteorological Society,ORG,0.32,0.0,en,1.0
 Bengal,Bengal,ORG,0.0,0.0,en,1.0
@@ -437,23 +513,118 @@ KXAS-TV,KXAS-TV,ORG,0.0,0.0,en,1.0
 Union Parish Sheriff,Union Parish Sheriff,ORG,-0.2,0.0,en,1.0
 The Bureau of Meteor…,The Bureau of Meteor…,ORG,0.0,0.0,en,1.0
 "The Wild Man Within, Nature","The Wild Man Within, Nature",ORG,0.011111111111111118,0.0,en,1.0
+the National Weather Service (NWS,the National Weather Service (NWS,ORG,0.0,0.0,en,1.0
 Associated Press,Associated Press,ORG,-0.11875,0.0,en,1.0
-Texas A&M,Texas A&M,ORG,-0.4,0.0,en,1.0
 Serengeti National Park,Serengeti National Park,ORG,-0.1,0.0,en,1.0
 LionLocation,LionLocation,ORG,-0.1,0.0,en,1.0
 United States)Animal,United States)Animal,ORG,-0.1,0.0,en,1.0
 Wagon at No Reserve,Wagon at No Reserve,ORG,0.0,0.0,en,1.0
 Wash,Wash,ORG,1.0,0.0,en,1.0
 Tesla,Tesla,ORG,0.0,0.0,en,1.0
-Tota,Tota,ORG,0.0,0.0,en,1.0
-VDE Americas,VDE Americas,ORG,0.0,0.0,en,1.0
-VDE Americas Goes Global to Meet Rising Demand for Hail Risk Intelligence,VDE Americas Goes Global to Meet Rising Demand for Hail Risk Intelligence,ORG,0.0,0.0,en,1.0
-The Indian Meteorological Department,The Indian Meteorological Department,ORG,0.13333333333333333,0.0,en,1.0
-India Meteorological Department,India Meteorological Department,ORG,0.0,0.0,en,1.0
-Ein Brief,Ein Brief,ORG,0.0,0.0,de,1.0
-Intercontinental,Intercontinental,ORG,0.0,0.0,en,1.0
+wehrt,wehrt,ORG,0.0,0.0,de,1.0
+Kann dieser,Kann dieser,ORG,0.0,0.0,de,1.0
+zwei Tote und,zwei Tote und,ORG,0.0,0.0,de,1.0
+Ex-Regierungssprecher,Ex-Regierungssprecher,ORG,0.0,0.0,de,1.0
+the Federal Territ,the Federal Territ,ORG,0.11666666666666664,0.0,en,1.0
+the Western Conference’s,the Western Conference’s,ORG,0.0,0.0,en,1.0
+Dann soll der Politiker,Dann soll der Politiker,ORG,0.0,0.0,de,1.0
+Karriereschritt,Karriereschritt,ORG,0.0,0.0,de,1.0
+einen weiteren,einen weiteren,ORG,0.0,0.0,de,1.0
 März,März,ORG,0.0,0.0,de,1.0
-Katastrophenjahr,Katastrophenjahr,ORG,0.0,0.0,de,1.0
+Jahren,Jahren,ORG,0.0,0.0,de,1.0
+viel Zeit außerhalb,viel Zeit außerhalb,ORG,0.0,0.0,de,1.0
+CDU-Fraktion,CDU-Fraktion,ORG,0.0,0.0,de,1.0
+Mit 29 Prozent,Mit 29 Prozent,ORG,0.0,0.0,de,1.0
+SCS,SCS,ORG,-0.05714285714285715,0.0,en,1.0
+German Insurers Report,German Insurers Report,ORG,0.05,0.0,en,1.0
+Offiziell,Offiziell,ORG,0.0,0.0,de,1.0
+raus nach nicht einmal einem Jahr,raus nach nicht einmal einem Jahr,ORG,0.0,0.0,de,1.0
+deutschlandweit für große Trauer und Fassungslosigkeit,deutschlandweit für große Trauer und Fassungslosigkeit,ORG,0.0,0.0,de,1.0
+das kein Gefängnis ist,das kein Gefängnis ist,ORG,0.0,0.0,de,1.0
+einem Video und bewegt die Fans,einem Video und bewegt die Fans,ORG,0.0,0.0,de,1.0
+kurzerhand einen eigenen TikTok-Kanal,kurzerhand einen eigenen TikTok-Kanal,ORG,0.0,0.0,de,1.0
+Westdeutsche Allgemeine Zeitung,Westdeutsche Allgemeine Zeitung,ORG,0.0,0.0,de,1.0
+und,und,ORG,0.0,0.0,de,1.0
+frischen Wind unter den TikTok-Publishern,frischen Wind unter den TikTok-Publishern,ORG,0.0,0.0,de,1.0
+"Viraler ""Denkzettel"" hängt News-Inhalte ab","Viraler ""Denkzettel"" hängt News-Inhalte ab",ORG,0.0,0.0,de,1.0
+TikTok-Charts,TikTok-Charts,ORG,0.0,0.0,de,1.0
+viele Wolke,viele Wolke,ORG,0.0,0.0,de,1.0
+Ibiza & Formentera,Ibiza & Formentera,ORG,0.0,0.0,de,1.0
+Für ein Gewitter braucht es unter anderem feuchte und,Für ein Gewitter braucht es unter anderem feuchte und,ORG,0.0,0.0,de,1.0
+Das waren nicht einmal halb,Das waren nicht einmal halb,ORG,0.0,0.0,de,1.0
+das System des,das System des,ORG,0.0,0.0,de,1.0
+Hugh Jackman & Kate Hudson,Hugh Jackman & Kate Hudson,ORG,0.0,0.0,en,1.0
+treten Sturmböen,treten Sturmböen,ORG,0.0,0.0,de,1.0
+Paintless Dent Repair Experts,Paintless Dent Repair Experts,ORG,0.0,0.0,en,1.0
+Kennesaw Clarify Insurance Repair Rights,Kennesaw Clarify Insurance Repair Rights,ORG,0.0,0.0,en,1.0
+CDU-Vorstandsklausur,CDU-Vorstandsklausur,ORG,0.0,0.0,de,1.0
+heute nach seiner Stippvisite bei der CSU-Klausur,heute nach seiner Stippvisite bei der CSU-Klausur,ORG,0.0,0.0,de,1.0
+the Carolina Panthers,the Carolina Panthers,ORG,-0.43333333333333335,0.0,en,1.0
+Weather Team,Weather Team,ORG,0.0,0.0,en,1.0
+Bahn fährt,Bahn fährt,ORG,0.0,0.0,de,1.0
+Bergischen Land,Bergischen Land,ORG,0.0,0.0,de,1.0
+bis Samstag,bis Samstag,ORG,0.0,0.0,de,1.0
+Teilen Norddeutschlands,Teilen Norddeutschlands,ORG,0.0,0.0,de,1.0
+Weiter Unwetterwarnung für,Weiter Unwetterwarnung für,ORG,0.0,0.0,de,1.0
+Gebiete,Gebiete,ORG,0.0,0.0,de,1.0
+Das Wetter bringt,Das Wetter bringt,ORG,0.0,0.0,de,1.0
+DEGAM,DEGAM,ORG,0.0,0.0,de,1.0
+Diese Erfahrung teilt,Diese Erfahrung teilt,ORG,0.0,0.0,de,1.0
+bei anderen leidet,bei anderen leidet,ORG,0.0,0.0,de,1.0
+das Wetter ändert,das Wetter ändert,ORG,0.0,0.0,de,1.0
+Australien kämpft,Australien kämpft,ORG,0.0,0.0,de,1.0
+Bahn stellt Fernverkehr,Bahn stellt Fernverkehr,ORG,0.0,0.0,de,1.0
+ZDF-Morgen,ZDF-Morgen,ORG,0.0,0.0,de,1.0
+Viele Schulen und Unis,Viele Schulen und Unis,ORG,0.0,0.0,de,1.0
+Wetterdienst gibt Entwarnung für Berlin und Brandenburg,Wetterdienst gibt Entwarnung für Berlin und Brandenburg,ORG,0.0,0.0,de,1.0
+Polizei,Polizei,ORG,0.0,0.0,de,1.0
+Polizei mehrfach,Polizei mehrfach,ORG,0.0,0.0,de,1.0
+Die angekündigte Schneefront,Die angekündigte Schneefront,ORG,0.0,0.0,de,1.0
+Reeperbahn am,Reeperbahn am,ORG,0.0,0.0,de,1.0
+wegen des erwarteten,wegen des erwarteten,ORG,0.0,0.0,de,1.0
+Norden und verspricht am,Norden und verspricht am,ORG,0.0,0.0,de,1.0
+Baden-Württembergs,Baden-Württembergs,ORG,0.0,0.0,de,1.0
+Bayern,Bayern,ORG,0.0,0.0,de,1.0
+m CSU-Kloster Seeon,m CSU-Kloster Seeon,ORG,0.0,0.0,de,1.0
+Süd-Kooperation und gegen,Süd-Kooperation und gegen,ORG,0.0,0.0,de,1.0
+Söder,Söder,ORG,0.0,0.0,de,1.0
+Laut einer Unwetterwarnung des Deutschen Wetterdienstes,Laut einer Unwetterwarnung des Deutschen Wetterdienstes,ORG,0.0,0.0,de,1.0
+Freitag bis,Freitag bis,ORG,0.0,0.0,de,1.0
+weiten Teilen,weiten Teilen,ORG,0.0,0.0,de,1.0
+Wir erscheinen seit,Wir erscheinen seit,ORG,0.0,0.0,de,1.0
+allerdings deutlich weniger als im Vorjahr,allerdings deutlich weniger als im Vorjahr,ORG,0.0,0.0,de,1.0
+Mal,Mal,ORG,0.0,0.0,de,1.0
+Baden-Württemberg und Rheinland-Pfalz,Baden-Württemberg und Rheinland-Pfalz,ORG,0.0,0.0,de,1.0
+Macht,Macht,ORG,0.0,0.0,de,1.0
+CDU bei der Landtagswahl,CDU bei der Landtagswahl,ORG,0.0,0.0,de,1.0
+tritt für die,tritt für die,ORG,0.0,0.0,de,1.0
+Regierung hätte besser kaum,Regierung hätte besser kaum,ORG,0.0,0.0,de,1.0
+KZN,KZN,ORG,0.0,0.0,en,1.0
+Auf beide Fragen,Auf beide Fragen,ORG,0.0,0.0,de,1.0
+Kraft,Kraft,ORG,0.0,0.0,de,1.0
+Wissenschaft,Wissenschaft,ORG,0.0,0.0,de,1.0
+Lions,Lions,ORG,0.0,0.0,en,1.0
+Aaron Rodgers,Aaron Rodgers,ORG,0.0,0.0,en,1.0
+Steelers,Steelers,ORG,0.0,0.0,en,1.0
+"Die ""Los Angeles Times","Die ""Los Angeles Times",ORG,0.0,0.0,de,1.0
+Bay of Plenty and Rotorua,Bay of Plenty and Rotorua,ORG,0.0,0.0,en,1.0
+Social Security,Social Security,ORG,0.03333333333333333,0.0,en,1.0
+UN,UN,ORG,0.09242424242424241,0.0,en,1.0
+Provident Fund,Provident Fund,ORG,0.09242424242424241,0.0,en,1.0
+Social security,Social security,ORG,0.08484848484848484,0.0,en,1.0
+Okagawa Farms',Okagawa Farms',ORG,0.2,0.0,en,1.0
+Grand Junction,Grand Junction,ORG,0.6,0.0,en,1.0
+Time,Time,ORG,0.6,0.0,en,1.0
+TheWrap,TheWrap,ORG,0.41500000000000004,0.0,en,1.0
+Lightning & Thunder,Lightning & Thunder,ORG,0.41500000000000004,0.0,en,1.0
+Waymo,Waymo,ORG,0.21428571428571427,0.0,en,1.0
+Big Tech,Big Tech,ORG,0.17727272727272728,0.0,en,1.0
+AI,AI,ORG,0.0,0.0,en,1.0
+Kanzlerschaft entscheidet sich nicht,Kanzlerschaft entscheidet sich nicht,ORG,0.0,0.0,de,1.0
+IbizaHEUTE ist das etablierteste und,IbizaHEUTE ist das etablierteste und,ORG,0.0,0.0,de,1.0
+Alarm,Alarm,ORG,0.0,0.0,de,1.0
+Stürmischer,Stürmischer,ORG,0.0,0.0,de,1.0
+Gegen,Gegen,ORG,0.0,0.0,de,1.0
 es besonders ungemütlich wird,es besonders ungemütlich wird,ORG,0.0,0.0,de,1.0
 DWD-Prognose,DWD-Prognose,ORG,0.0,0.0,de,1.0
 comenta,comenta,ORG,-0.30000000000000004,0.0,en,1.0
@@ -481,89 +652,8 @@ Windows-Frust,Windows-Frust,ORG,0.0,0.0,de,1.0
 Neuland Podcast 89,Neuland Podcast 89,ORG,0.0,0.0,de,1.0
 Milliarden Euro,Milliarden Euro,ORG,0.0,0.0,de,1.0
 Milliarden Euro - rund,Milliarden Euro - rund,ORG,0.0,0.0,de,1.0
-Stürmischer,Stürmischer,ORG,0.0,0.0,de,1.0
-weiten Teilen,weiten Teilen,ORG,0.0,0.0,de,1.0
-Freitag bis,Freitag bis,ORG,0.0,0.0,de,1.0
-kurzerhand einen eigenen TikTok-Kanal,kurzerhand einen eigenen TikTok-Kanal,ORG,0.0,0.0,de,1.0
-viel Zeit außerhalb,viel Zeit außerhalb,ORG,0.0,0.0,de,1.0
-CDU-Fraktion,CDU-Fraktion,ORG,0.0,0.0,de,1.0
-Chancen gegen die Grünen,Chancen gegen die Grünen,ORG,0.0,0.0,de,1.0
-Mit 29 Prozent,Mit 29 Prozent,ORG,0.0,0.0,de,1.0
-SCS,SCS,ORG,-0.05714285714285715,0.0,en,1.0
-German Insurers Report,German Insurers Report,ORG,0.05,0.0,en,1.0
-Offiziell,Offiziell,ORG,0.0,0.0,de,1.0
-raus nach nicht einmal einem Jahr,raus nach nicht einmal einem Jahr,ORG,0.0,0.0,de,1.0
-Ex-Regierungssprecher,Ex-Regierungssprecher,ORG,0.0,0.0,de,1.0
-deutschlandweit für große Trauer und Fassungslosigkeit,deutschlandweit für große Trauer und Fassungslosigkeit,ORG,0.0,0.0,de,1.0
-einem Video und bewegt die Fans,einem Video und bewegt die Fans,ORG,0.0,0.0,de,1.0
-Westdeutsche Allgemeine Zeitung,Westdeutsche Allgemeine Zeitung,ORG,0.0,0.0,de,1.0
-Laut einer Unwetterwarnung des Deutschen Wetterdienstes,Laut einer Unwetterwarnung des Deutschen Wetterdienstes,ORG,0.0,0.0,de,1.0
-und,und,ORG,0.0,0.0,de,1.0
-frischen Wind unter den TikTok-Publishern,frischen Wind unter den TikTok-Publishern,ORG,0.0,0.0,de,1.0
-"Viraler ""Denkzettel"" hängt News-Inhalte ab","Viraler ""Denkzettel"" hängt News-Inhalte ab",ORG,0.0,0.0,de,1.0
-TikTok-Charts,TikTok-Charts,ORG,0.0,0.0,de,1.0
-viele Wolke,viele Wolke,ORG,0.0,0.0,de,1.0
-Ibiza & Formentera,Ibiza & Formentera,ORG,0.0,0.0,de,1.0
-Für ein Gewitter braucht es unter anderem feuchte und,Für ein Gewitter braucht es unter anderem feuchte und,ORG,0.0,0.0,de,1.0
-Das waren nicht einmal halb,Das waren nicht einmal halb,ORG,0.0,0.0,de,1.0
-das System des,das System des,ORG,0.0,0.0,de,1.0
-Hugh Jackman & Kate Hudson,Hugh Jackman & Kate Hudson,ORG,0.0,0.0,en,1.0
-treten Sturmböen,treten Sturmböen,ORG,0.0,0.0,de,1.0
 Sturm,Sturm,ORG,0.0,0.0,de,1.0
+Katastrophenjahr,Katastrophenjahr,ORG,0.0,0.0,de,1.0
 Kosten des Klimawandels für viele Menschen,Kosten des Klimawandels für viele Menschen,ORG,0.0,0.0,de,1.0
-Libertadores,Libertadores,ORG,0.0,0.0,en,1.0
 Unwetterschäden sind,Unwetterschäden sind,ORG,0.0,0.0,de,1.0
-Lightning & Thunder,Lightning & Thunder,ORG,0.41500000000000004,0.0,en,1.0
-Waymo,Waymo,ORG,0.21428571428571427,0.0,en,1.0
-Big Tech,Big Tech,ORG,0.17727272727272728,0.0,en,1.0
-AI,AI,ORG,0.0,0.0,en,1.0
-Kanzlerschaft entscheidet sich nicht,Kanzlerschaft entscheidet sich nicht,ORG,0.0,0.0,de,1.0
-das kein Gefängnis ist,das kein Gefängnis ist,ORG,0.0,0.0,de,1.0
-zwei Tote und,zwei Tote und,ORG,0.0,0.0,de,1.0
-Kann dieser,Kann dieser,ORG,0.0,0.0,de,1.0
-wehrt,wehrt,ORG,0.0,0.0,de,1.0
-Doch er,Doch er,ORG,0.0,0.0,de,1.0
-Albanese,Albanese,ORG,0.0,0.0,en,1.0
-Western NC,Western NC,ORG,0.08,0.0,en,1.0
-CDU Baden-Württemberg,CDU Baden-Württemberg,ORG,0.0,0.0,de,1.0
-SafeBreach Labs,SafeBreach Labs,ORG,0.02878787878787879,0.0,en,1.0
-Infy,Infy,ORG,0.1,0.0,en,1.0
-Persia (Infy,Persia (Infy,ORG,0.6,0.0,en,1.0
-SafeBreach,SafeBreach,ORG,0.6,0.0,en,1.0
-thunderstorms.&nbsp,thunderstorms.&nbsp,ORG,-0.075,0.0,en,1.0
-IndiGo issues advisory,IndiGo issues advisory,ORG,0.0,0.0,en,1.0
-"width=""600","width=""600",ORG,0.0,0.0,en,1.0
-Energiekosten,Energiekosten,ORG,0.0,0.0,de,1.0
-U.S. National Weather Service,U.S. National Weather Service,ORG,0.0,0.0,en,1.0
-National,National,ORG,0.0,0.0,en,1.0
-Studie von Swiss Re,Studie von Swiss Re,ORG,0.0,0.0,de,1.0
-KL,KL,ORG,0.0,0.0,en,1.0
-TheWrap,TheWrap,ORG,0.41500000000000004,0.0,en,1.0
-Time,Time,ORG,0.6,0.0,en,1.0
-Grand Junction,Grand Junction,ORG,0.6,0.0,en,1.0
-KZN,KZN,ORG,0.0,0.0,en,1.0
-Gegen,Gegen,ORG,0.0,0.0,de,1.0
-Alarm,Alarm,ORG,0.0,0.0,de,1.0
-Wir erscheinen seit,Wir erscheinen seit,ORG,0.0,0.0,de,1.0
-IbizaHEUTE ist das etablierteste und,IbizaHEUTE ist das etablierteste und,ORG,0.0,0.0,de,1.0
-allerdings deutlich weniger als im Vorjahr,allerdings deutlich weniger als im Vorjahr,ORG,0.0,0.0,de,1.0
-Mal,Mal,ORG,0.0,0.0,de,1.0
-Baden-Württemberg und Rheinland-Pfalz,Baden-Württemberg und Rheinland-Pfalz,ORG,0.0,0.0,de,1.0
-Macht,Macht,ORG,0.0,0.0,de,1.0
-CDU bei der Landtagswahl,CDU bei der Landtagswahl,ORG,0.0,0.0,de,1.0
-tritt für die,tritt für die,ORG,0.0,0.0,de,1.0
-Regierung hätte besser kaum,Regierung hätte besser kaum,ORG,0.0,0.0,de,1.0
-Auf beide Fragen,Auf beide Fragen,ORG,0.0,0.0,de,1.0
-Okagawa Farms',Okagawa Farms',ORG,0.2,0.0,en,1.0
-Kraft,Kraft,ORG,0.0,0.0,de,1.0
-Wissenschaft,Wissenschaft,ORG,0.0,0.0,de,1.0
-Lions,Lions,ORG,0.0,0.0,en,1.0
-Aaron Rodgers,Aaron Rodgers,ORG,0.0,0.0,en,1.0
-Steelers,Steelers,ORG,0.0,0.0,en,1.0
-"Die ""Los Angeles Times","Die ""Los Angeles Times",ORG,0.0,0.0,de,1.0
-Bay of Plenty and Rotorua,Bay of Plenty and Rotorua,ORG,0.0,0.0,en,1.0
-Social Security,Social Security,ORG,0.03333333333333333,0.0,en,1.0
-UN,UN,ORG,0.09242424242424241,0.0,en,1.0
-Provident Fund,Provident Fund,ORG,0.09242424242424241,0.0,en,1.0
-Social security,Social security,ORG,0.08484848484848484,0.0,en,1.0
-diesen Tagen,diesen Tagen,ORG,0.0,0.0,de,1.0
+den nächsten Tagen eine wahre Wet…,den nächsten Tagen eine wahre Wet…,ORG,0.0,0.0,de,1.0
