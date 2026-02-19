@@ -8,8 +8,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hagelsturm',de,Hazard,#e67e22,#e67e22,1,0.1186750855
 'Gewitter',de,Hazard,#ff0000,#ff0000,3,0.1057203032691875
 'lightning and thunder',en,Hazard,#ff0000,#ff0000,3,0.0967848648603557
-'thunderstorm early warning',en,Mitigation,#33cc33,#3182bd,2,0.083531059769614
 'thunderstorm tornado',en,Hazard,#a89216,#393b79,1,0.0808825368888759
+'thunderstorm early warning',en,Mitigation,#33cc33,#3182bd,2,0.08058028723274333
 'hail freezing level',en,Causes,#8e44ad,#17a2b8,1,0.0772463265681057
 'lightning rod',en,Adaptation,#0000ff,#0000ff,3,0.0765669064107651
 'thunderstorm warning',en,Mitigation,#00ff00,#00ff00,2,0.0764491681829353
