@@ -47,9 +47,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hagelschaden am Auto',de,Impacts,#2980b9,#2980b9,1,0.0291775277499999
 'Blitzschutz',de,Adaptation,#0000ff,#0000ff,1,0.0271573931974999
 'Hagelwarnung',de,Mitigation,#2ecc71,#2ecc71,1,0.0266223187499999
-'Ambosswolke',de,Causes,#00ffff,#00ffff,1,0.02
 'thunderstorm squall line',en,Hazard,#a89216,#636363,1,0.0170513807964693
+'Ambosswolke',de,Causes,#00ffff,#00ffff,1,0.017
 'Windscherung',de,Causes,#9e3215,#9e3215,1,0.0160461010874999
 'Superzelle',de,Causes,#8e44ad,#8e44ad,1,0.0156601874999999
-'thunderstorm building codes',en,Mitigation,#33cc33,#9c9ede,1,0.013950510571623284
+'thunderstorm building codes',en,Mitigation,#33cc33,#9c9ede,1,0.0139505105716232
 'Nullgradgrenze',de,Causes,#8e44ad,#8e44ad,1,0.0126684135875
