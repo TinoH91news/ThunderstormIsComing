@@ -2,7 +2,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Unwetter',de,Hazard,#ff0000,#ff0000,3,0.2218062150909091
 'Unwetterwarnung',de,Mitigation,#33cc33,#33cc33,3,0.209021868471318
 'thunderstorm',en,Hazard,#ff0000,#ff0000,3,0.1658108949025927
-'Hagel',de,Hazard,#e67e22,#e67e22,3,0.15204380791849856
+'Hagel',de,Hazard,#e67e22,#e67e22,3,0.1520438079184985
 'Stromausfall',de,Impacts,#4287f5,#4287f5,3,0.1402685672236748
 'Blitzeinschlag',de,Impacts,#ffff00,#ffff00,2,0.135926592328607
 'Hagelsturm',de,Hazard,#e67e22,#e67e22,1,0.1186750855
@@ -41,12 +41,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hagelschaeden',de,Impacts,#2980b9,#2980b9,1,0.0368474999999999
 'hail dented vehicles',en,Impacts,#2980b9,#843c39,1,0.0344348872150245
 'Dachschaden durch Hagel',de,Impacts,#2980b9,#2980b9,1,0.034
-'Hagelwarnung',de,Mitigation,#2ecc71,#2ecc71,1,0.0313203749999999
 'Gewitterwarnung',de,Mitigation,#00ff00,#00ff00,1,0.0306500027993749
 'thunderstorm flood barriers',en,Mitigation,#33cc33,#7f7f7f,1,0.0295037276979457
 'Brand durch Blitzeinschlag',de,Impacts,#ffff00,#ffff00,1,0.0293275427499999
 'Hagelschaden am Auto',de,Impacts,#2980b9,#2980b9,1,0.0291775277499999
 'Blitzschutz',de,Adaptation,#0000ff,#0000ff,1,0.0271573931974999
+'Hagelwarnung',de,Mitigation,#2ecc71,#2ecc71,1,0.026622318749999915
 'Ambosswolke',de,Causes,#00ffff,#00ffff,1,0.02
 'thunderstorm squall line',en,Hazard,#a89216,#636363,1,0.0170513807964693
 'thunderstorm building codes',en,Mitigation,#33cc33,#9c9ede,1,0.0160593889077921
