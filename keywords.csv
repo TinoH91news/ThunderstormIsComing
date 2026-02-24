@@ -48,8 +48,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Blitzschutz',de,Adaptation,#0000ff,#0000ff,1,0.0271573931974999
 'Hagelwarnung',de,Mitigation,#2ecc71,#2ecc71,1,0.0226289709374999
 'thunderstorm squall line',en,Hazard,#a89216,#636363,1,0.0170513807964693
-'Ambosswolke',de,Causes,#00ffff,#00ffff,1,0.017
 'Superzelle',de,Causes,#8e44ad,#8e44ad,1,0.0156601874999999
+'Ambosswolke',de,Causes,#00ffff,#00ffff,1,0.014450000000000001
 'thunderstorm building codes',en,Mitigation,#33cc33,#9c9ede,1,0.0139505105716232
 'Windscherung',de,Causes,#9e3215,#9e3215,1,0.0136391859243749
 'Nullgradgrenze',de,Causes,#8e44ad,#8e44ad,1,0.0126684135875
