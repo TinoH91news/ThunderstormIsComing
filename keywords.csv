@@ -9,7 +9,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'lightning rod',en,Adaptation,#0000ff,#0000ff,3,0.1106673354491503
 'Gewitter',de,Hazard,#ff0000,#ff0000,3,0.1057203032691875
 'lightning and thunder',en,Hazard,#ff0000,#ff0000,3,0.0967848648603557
-'thunderstorm tornado',en,Hazard,#a89216,#393b79,1,0.0808825368888759
+'thunderstorm tornado',en,Hazard,#a89216,#393b79,1,0.0905503663555445
 'thunderstorm warning',en,Mitigation,#00ff00,#00ff00,2,0.0764491681829353
 'hail insurance',en,Mitigation,#22cc44,#1f77b4,2,0.0762106761914233
 'hailstorm',en,Hazard,#e67e22,#756bb1,1,0.0731249753654967
