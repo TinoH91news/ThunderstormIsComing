@@ -1,11 +1,11 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Unwetter',de,Hazard,#ff0000,#ff0000,3,0.2218062150909091
+'Unwetter',de,Hazard,#ff0000,#ff0000,3,0.26303447237272726
 'Unwetterwarnung',de,Mitigation,#33cc33,#33cc33,3,0.1948943004733476
 'thunderstorm',en,Hazard,#ff0000,#ff0000,3,0.1658108949025927
 'Hagel',de,Hazard,#e67e22,#e67e22,3,0.1520438079184985
 'Stromausfall',de,Impacts,#4287f5,#4287f5,3,0.1402685672236748
 'Blitzeinschlag',de,Impacts,#ffff00,#ffff00,2,0.135926592328607
-'lightning rod',en,Adaptation,#0000ff,#0000ff,3,0.12418390513177777
+'lightning rod',en,Adaptation,#0000ff,#0000ff,3,0.1241839051317777
 'Hagelsturm',de,Hazard,#e67e22,#e67e22,1,0.1186750855
 'Gewitter',de,Hazard,#ff0000,#ff0000,3,0.1057203032691875
 'lightning and thunder',en,Hazard,#ff0000,#ff0000,3,0.0967848648603557
