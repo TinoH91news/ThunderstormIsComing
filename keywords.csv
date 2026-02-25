@@ -5,8 +5,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hagel',de,Hazard,#e67e22,#e67e22,3,0.1520438079184985
 'Stromausfall',de,Impacts,#4287f5,#4287f5,3,0.1402685672236748
 'Blitzeinschlag',de,Impacts,#ffff00,#ffff00,2,0.135926592328607
+'lightning rod',en,Adaptation,#0000ff,#0000ff,3,0.12418390513177777
 'Hagelsturm',de,Hazard,#e67e22,#e67e22,1,0.1186750855
-'lightning rod',en,Adaptation,#0000ff,#0000ff,3,0.1106673354491503
 'Gewitter',de,Hazard,#ff0000,#ff0000,3,0.1057203032691875
 'lightning and thunder',en,Hazard,#ff0000,#ff0000,3,0.0967848648603557
 'thunderstorm tornado',en,Hazard,#a89216,#393b79,1,0.0905503663555445
@@ -52,4 +52,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ambosswolke',de,Causes,#00ffff,#00ffff,1,0.01445
 'thunderstorm building codes',en,Mitigation,#33cc33,#9c9ede,1,0.0139505105716232
 'Nullgradgrenze',de,Causes,#8e44ad,#8e44ad,1,0.0126684135875
-'Windscherung',de,Causes,#9e3215,#9e3215,1,0.011593308035718664
+'Windscherung',de,Causes,#9e3215,#9e3215,1,0.0115933080357186
