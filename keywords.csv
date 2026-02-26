@@ -4,9 +4,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'thunderstorm',en,Hazard,#ff0000,#ff0000,3,0.1658108949025927
 'Hagel',de,Hazard,#e67e22,#e67e22,3,0.1520438079184985
 'Stromausfall',de,Impacts,#4287f5,#4287f5,3,0.1402685672236748
-'Blitzeinschlag',de,Impacts,#ffff00,#ffff00,2,0.135926592328607
 'lightning rod',en,Adaptation,#0000ff,#0000ff,3,0.1241839051317777
 'Hagelsturm',de,Hazard,#e67e22,#e67e22,1,0.1186750855
+'Blitzeinschlag',de,Impacts,#ffff00,#ffff00,1,0.11553788847931594
 'Gewitter',de,Hazard,#ff0000,#ff0000,3,0.1057203032691875
 'lightning and thunder',en,Hazard,#ff0000,#ff0000,3,0.0967848648603557
 'thunderstorm tornado',en,Hazard,#a89216,#393b79,1,0.0905503663555445
@@ -36,7 +36,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Blitzableiter',de,Adaptation,#0000ff,#0000ff,1,0.0411772256818749
 'anvil clouds',en,Causes,#00ffff,#00ffff,1,0.0404626257121269
 'hail nets',en,Mitigation,#2ecc71,#8c564b,1,0.038279642860154
-'Grosshagel',de,Hazard,#e67e22,#e67e22,1,0.036847499999999915
+'Grosshagel',de,Hazard,#e67e22,#e67e22,1,0.0368474999999999
 'Hagelschaeden',de,Impacts,#2980b9,#2980b9,1,0.0368474999999999
 'Konvektion',de,Causes,#00ffff,#00ffff,1,0.035377193395
 'hail dented vehicles',en,Impacts,#2980b9,#843c39,1,0.0344348872150245
