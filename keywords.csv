@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Unwetter',de,Hazard,#ff0000,#ff0000,3,0.26303447237272726
+'Unwetter',de,Hazard,#ff0000,#ff0000,3,0.2630344723727272
 'Unwetterwarnung',de,Mitigation,#33cc33,#33cc33,3,0.1948943004733476
 'thunderstorm',en,Hazard,#ff0000,#ff0000,3,0.1658108949025927
 'Hagel',de,Hazard,#e67e22,#e67e22,3,0.1520438079184985
@@ -36,9 +36,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'hail strong updrafts',en,Causes,#8e44ad,#bcbd22,1,0.0428806503596899
 'Blitzableiter',de,Adaptation,#0000ff,#0000ff,1,0.0411772256818749
 'anvil clouds',en,Causes,#00ffff,#00ffff,1,0.0404626257121269
-'Konvektion',de,Causes,#00ffff,#00ffff,1,0.0395023687
 'hail nets',en,Mitigation,#2ecc71,#8c564b,1,0.038279642860154
 'Hagelschaeden',de,Impacts,#2980b9,#2980b9,1,0.0368474999999999
+'Konvektion',de,Causes,#00ffff,#00ffff,1,0.035377193395
 'hail dented vehicles',en,Impacts,#2980b9,#843c39,1,0.0344348872150245
 'Dachschaden durch Hagel',de,Impacts,#2980b9,#2980b9,1,0.034
 'Gewitterwarnung',de,Mitigation,#00ff00,#00ff00,1,0.0306500027993749
