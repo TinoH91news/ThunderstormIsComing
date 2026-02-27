@@ -4,12 +4,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'thunderstorm',en,Hazard,#ff0000,#ff0000,3,0.1658108949025927
 'Hagel',de,Hazard,#e67e22,#e67e22,3,0.1520438079184985
 'Stromausfall',de,Impacts,#4287f5,#4287f5,3,0.1402685672236748
+'Gewitter',de,Hazard,#ff0000,#ff0000,3,0.12754125550608209
 'lightning rod',en,Adaptation,#0000ff,#0000ff,3,0.1241839051317777
 'Hagelsturm',de,Hazard,#e67e22,#e67e22,1,0.1186750855
 'Blitzeinschlag',de,Impacts,#ffff00,#ffff00,1,0.1155378884793159
-'Gewitter',de,Hazard,#ff0000,#ff0000,3,0.1057203032691875
 'lightning and thunder',en,Hazard,#ff0000,#ff0000,3,0.0967848648603557
-'thunderstorm tornado',en,Hazard,#a89216,#393b79,1,0.07861800640221282
+'thunderstorm tornado',en,Hazard,#a89216,#393b79,1,0.0786180064022128
 'thunderstorm warning',en,Mitigation,#00ff00,#00ff00,2,0.0764491681829353
 'hail insurance',en,Mitigation,#22cc44,#1f77b4,2,0.0762106761914233
 'hailstorm',en,Hazard,#e67e22,#756bb1,1,0.0731249753654967
