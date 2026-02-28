@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Unwetter',de,Hazard,#ff0000,#ff0000,3,0.2630344723727272
-'Unwetterwarnung',de,Mitigation,#33cc33,#33cc33,3,0.18697619176598185
+'Unwetterwarnung',de,Mitigation,#33cc33,#33cc33,3,0.1869761917659818
 'thunderstorm',en,Hazard,#ff0000,#ff0000,3,0.1658108949025927
 'Hagel',de,Hazard,#e67e22,#e67e22,3,0.1520438079184985
 'Stromausfall',de,Impacts,#4287f5,#4287f5,3,0.1402685672236748
@@ -8,6 +8,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'lightning rod',en,Adaptation,#0000ff,#0000ff,3,0.1241839051317777
 'Hagelsturm',de,Hazard,#e67e22,#e67e22,1,0.1186750855
 'Blitzeinschlag',de,Impacts,#ffff00,#ffff00,1,0.1155378884793159
+'hail impact resistant roofing',en,Mitigation,#2ecc71,#6b6ecf,1,0.10431643669847593
 'lightning and thunder',en,Hazard,#ff0000,#ff0000,3,0.1011321251313023
 'thunderstorm tornado',en,Hazard,#a89216,#393b79,1,0.0786180064022128
 'thunderstorm warning',en,Mitigation,#00ff00,#00ff00,2,0.0764491681829353
@@ -29,7 +30,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'hail swath',en,Hazard,#e67e22,#ff6f61,1,0.054081055918933
 'thunderstorm power outages',en,Impacts,#4287f5,#7b4173,1,0.0527809707879216
 'Aufwind',de,Causes,#8e44ad,#8e44ad,2,0.051925798548387
-'hail impact resistant roofing',en,Mitigation,#2ecc71,#6b6ecf,1,0.0517840078805599
 'thunderstorm convection',en,Causes,#9e3215,#17becf,1,0.0487553775804134
 'hail vehicle shelters',en,Mitigation,#2ecc71,#e377c2,1,0.0431917671161947
 'hail strong updrafts',en,Causes,#8e44ad,#bcbd22,1,0.0428806503596899
