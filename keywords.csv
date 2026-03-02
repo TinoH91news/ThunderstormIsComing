@@ -4,10 +4,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Unwetterwarnung',de,Mitigation,#33cc33,#33cc33,3,0.1869761917659818
 'thunderstorm',en,Hazard,#ff0000,#ff0000,3,0.1658108949025927
 'Hagel',de,Hazard,#e67e22,#e67e22,3,0.1520438079184985
-'Hagelsturm',de,Hazard,#e67e22,#e67e22,1,0.128623897675
 'Gewitter',de,Hazard,#ff0000,#ff0000,3,0.127541255506082
 'lightning rod',en,Adaptation,#0000ff,#0000ff,3,0.1241839051317777
 'Blitzeinschlag',de,Impacts,#ffff00,#ffff00,1,0.1155378884793159
+'Hagelsturm',de,Hazard,#e67e22,#e67e22,1,0.11008038802374999
 'hail impact resistant roofing',en,Mitigation,#2ecc71,#6b6ecf,1,0.1043164366984759
 'lightning and thunder',en,Hazard,#ff0000,#ff0000,3,0.1011321251313023
 'thunderstorm tornado',en,Hazard,#a89216,#393b79,1,0.0786180064022128
