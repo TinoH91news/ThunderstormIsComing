@@ -5,7 +5,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'thunderstorm',en,Hazard,#ff0000,#ff0000,3,0.1658108949025927
 'Unwetterwarnung',de,Mitigation,#33cc33,#33cc33,3,0.15468391798274
 'lightning rod',en,Adaptation,#0000ff,#0000ff,3,0.1241839051317777
-'Gewitter',de,Hazard,#ff0000,#ff0000,3,0.12401375330768964
+'Gewitter',de,Hazard,#ff0000,#ff0000,3,0.1240137533076896
 'Blitzeinschlag',de,Impacts,#ffff00,#ffff00,1,0.1155378884793159
 'thunderstorm early warning',en,Mitigation,#33cc33,#3182bd,1,0.1108067161309201
 'hail impact resistant roofing',en,Mitigation,#2ecc71,#6b6ecf,1,0.1043164366984759
@@ -35,16 +35,16 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Blitzableiter',de,Adaptation,#0000ff,#0000ff,1,0.0411772256818749
 'anvil clouds',en,Causes,#00ffff,#00ffff,1,0.0404626257121269
 'hail nets',en,Mitigation,#2ecc71,#8c564b,1,0.038279642860154
-'Grosshagel',de,Hazard,#e67e22,#e67e22,1,0.0368474999999999
 'Hagelschaeden',de,Impacts,#2980b9,#2980b9,1,0.0368474999999999
+'Grosshagel',de,Hazard,#e67e22,#e67e22,1,0.0368474999999999
 'hail vehicle shelters',en,Mitigation,#2ecc71,#e377c2,1,0.0367130020487654
 'Konvektion',de,Causes,#00ffff,#00ffff,1,0.035377193395
 'hail dented vehicles',en,Impacts,#2980b9,#843c39,1,0.0344348872150245
-'Gewitterwarnung',de,Mitigation,#00ff00,#00ff00,1,0.0306500027993749
 'thunderstorm flood barriers',en,Mitigation,#33cc33,#7f7f7f,1,0.0295037276979457
 'Hagelschaden am Auto',de,Impacts,#2980b9,#2980b9,1,0.0291775277499999
 'Dachschaden durch Hagel',de,Impacts,#2980b9,#2980b9,1,0.0289
 'Blitzschutz',de,Adaptation,#0000ff,#0000ff,1,0.0271573931974999
+'Gewitterwarnung',de,Mitigation,#00ff00,#00ff00,1,0.026052502379468663
 'Brand durch Blitzeinschlag',de,Impacts,#ffff00,#ffff00,1,0.0249284113374999
 'Hagelwarnung',de,Mitigation,#2ecc71,#2ecc71,1,0.0226289709374999
 'thunderstorm squall line',en,Hazard,#a89216,#636363,1,0.0170513807964693
