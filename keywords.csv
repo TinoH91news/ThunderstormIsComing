@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Unwetter',de,Hazard,#ff0000,#ff0000,3,0.2630344723727272
-'Hagel',de,Hazard,#e67e22,#e67e22,3,0.2502635445319656
+'Hagel',de,Hazard,#e67e22,#e67e22,3,0.2504098955794435
 'Stromausfall',de,Impacts,#4287f5,#4287f5,3,0.2414170312281959
 'thunderstorm',en,Hazard,#ff0000,#ff0000,3,0.1922551320308401
 'Unwetterwarnung',de,Mitigation,#33cc33,#33cc33,3,0.15468391798274
