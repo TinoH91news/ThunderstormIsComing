@@ -10,12 +10,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'thunderstorm early warning',en,Mitigation,#33cc33,#3182bd,1,0.1108067161309201
 'hail impact resistant roofing',en,Mitigation,#2ecc71,#6b6ecf,1,0.1043164366984759
 'lightning and thunder',en,Hazard,#ff0000,#ff0000,3,0.0973270863616069
-'Hagelsturm',de,Hazard,#e67e22,#e67e22,1,0.08089821684715928
+'Hagelsturm',de,Hazard,#e67e22,#e67e22,1,0.0808982168471592
 'thunderstorm tornado',en,Hazard,#a89216,#393b79,1,0.0786180064022128
 'thunderstorm warning',en,Mitigation,#00ff00,#00ff00,2,0.0764491681829353
 'hail insurance',en,Mitigation,#22cc44,#1f77b4,2,0.0762106761914233
 'hailstorm',en,Hazard,#e67e22,#756bb1,1,0.0731249753654967
-'large hail',en,Hazard,#e67e22,#d62728,3,0.0725654942446438
+'large hail',en,Hazard,#e67e22,#d62728,3,0.07210766510794722
 'lightning fire',en,Impacts,#ffff00,#ffff00,3,0.0716706026470141
 'hail supercells',en,Causes,#8e44ad,#bdb76b,1,0.0710690467971414
 'hail roof damage',en,Impacts,#2980b9,#e6550d,1,0.0691556757991635
