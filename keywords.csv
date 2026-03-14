@@ -10,6 +10,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'thunderstorm early warning',en,Mitigation,#33cc33,#3182bd,1,0.1108067161309201
 'hail impact resistant roofing',en,Mitigation,#2ecc71,#6b6ecf,1,0.1043164366984759
 'lightning and thunder',en,Hazard,#ff0000,#ff0000,3,0.0907672951815594
+'Gewitterwarnung',de,Mitigation,#00ff00,#00ff00,1,0.08994465702254831
 'Hagelsturm',de,Hazard,#e67e22,#e67e22,1,0.0808982168471592
 'thunderstorm tornado',en,Hazard,#a89216,#393b79,1,0.0786180064022128
 'thunderstorm warning',en,Mitigation,#00ff00,#00ff00,2,0.0764491681829353
@@ -20,7 +21,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'hail roof damage',en,Impacts,#2980b9,#e6550d,1,0.0691556757991635
 'thunderstorm wind damage',en,Impacts,#4287f5,#8c6d31,1,0.0687431846848753
 'thunderstorm power outages',en,Impacts,#4287f5,#7b4173,1,0.0682639301697333
-'hailstorm',en,Hazard,#e67e22,#756bb1,1,0.06736898406067218
+'hailstorm',en,Hazard,#e67e22,#756bb1,1,0.0673689840606721
 'hail freezing level',en,Causes,#8e44ad,#17a2b8,1,0.0662594375828898
 'thunderstorm wind shear',en,Causes,#9e3215,#31a354,1,0.0637569404084095
 'hail crop damage',en,Impacts,#2980b9,#ff7f0e,1,0.0624330532637354
@@ -43,7 +44,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hagelschaden am Auto',de,Impacts,#2980b9,#2980b9,1,0.0291775277499999
 'Dachschaden durch Hagel',de,Impacts,#2980b9,#2980b9,1,0.0289
 'Grosshagel',de,Hazard,#e67e22,#e67e22,1,0.0266223187499999
-'Gewitterwarnung',de,Mitigation,#00ff00,#00ff00,1,0.0260525023794686
 'Brand durch Blitzeinschlag',de,Impacts,#ffff00,#ffff00,1,0.0249284113374999
 'Blitzschutz',de,Adaptation,#0000ff,#0000ff,1,0.0196212165851936
 'thunderstorm squall line',en,Hazard,#a89216,#636363,1,0.0170513807964693
