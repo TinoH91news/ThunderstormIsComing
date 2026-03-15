@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
+'Hagel',de,Hazard,#e67e22,#e67e22,3,0.26690517533343605
 'Unwetter',de,Hazard,#ff0000,#ff0000,3,0.2630344723727272
-'Hagel',de,Hazard,#e67e22,#e67e22,3,0.2504098955794435
 'Stromausfall',de,Impacts,#4287f5,#4287f5,3,0.2414170312281959
 'thunderstorm',en,Hazard,#ff0000,#ff0000,3,0.1922551320308401
 'Unwetterwarnung',de,Mitigation,#33cc33,#33cc33,3,0.15468391798274
@@ -10,7 +10,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'thunderstorm early warning',en,Mitigation,#33cc33,#3182bd,1,0.1108067161309201
 'hail impact resistant roofing',en,Mitigation,#2ecc71,#6b6ecf,1,0.1043164366984759
 'lightning and thunder',en,Hazard,#ff0000,#ff0000,3,0.0907672951815594
-'Gewitterwarnung',de,Mitigation,#00ff00,#00ff00,1,0.08994465702254831
+'Gewitterwarnung',de,Mitigation,#00ff00,#00ff00,1,0.0899446570225483
 'Hagelsturm',de,Hazard,#e67e22,#e67e22,1,0.0808982168471592
 'thunderstorm tornado',en,Hazard,#a89216,#393b79,1,0.0786180064022128
 'thunderstorm warning',en,Mitigation,#00ff00,#00ff00,2,0.0764491681829353
