@@ -3,10 +3,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Unwetter',de,Hazard,#ff0000,#ff0000,3,0.2630344723727272
 'Stromausfall',de,Impacts,#4287f5,#4287f5,3,0.2414170312281959
 'thunderstorm',en,Hazard,#ff0000,#ff0000,3,0.182281747226214
-'Unwetterwarnung',de,Mitigation,#33cc33,#33cc33,3,0.15468391798274
 'Blitzeinschlag',de,Impacts,#ffff00,#ffff00,1,0.1436572502074185
+'Unwetterwarnung',de,Mitigation,#33cc33,#33cc33,2,0.131481480285329
 'lightning rod',en,Adaptation,#0000ff,#0000ff,3,0.1299437387077093
-'hail supercells',en,Causes,#8e44ad,#bdb76b,1,0.12910880977757017
+'hail supercells',en,Causes,#8e44ad,#bdb76b,1,0.1291088097775701
 'Gewitter',de,Hazard,#ff0000,#ff0000,3,0.117374534378442
 'thunderstorm early warning',en,Mitigation,#33cc33,#3182bd,1,0.1108067161309201
 'hail impact resistant roofing',en,Mitigation,#2ecc71,#6b6ecf,1,0.1043164366984759
