@@ -12,6 +12,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'hail impact resistant roofing',en,Mitigation,#2ecc71,#6b6ecf,1,0.1043164366984759
 'Gewitterwarnung',de,Mitigation,#00ff00,#00ff00,1,0.0899446570225483
 'lightning and thunder',en,Hazard,#ff0000,#ff0000,3,0.0852863290861436
+'thunderstorm squall line',en,Hazard,#a89216,#636363,1,0.0822937036769989
 'Hagelsturm',de,Hazard,#e67e22,#e67e22,1,0.0808982168471592
 'thunderstorm tornado',en,Hazard,#a89216,#393b79,1,0.0786180064022128
 'thunderstorm warning',en,Mitigation,#00ff00,#00ff00,2,0.0764491681829353
@@ -46,7 +47,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Grosshagel',de,Hazard,#e67e22,#e67e22,1,0.0266223187499999
 'Brand durch Blitzeinschlag',de,Impacts,#ffff00,#ffff00,1,0.0249284113374999
 'Blitzschutz',de,Adaptation,#0000ff,#0000ff,1,0.0196212165851936
-'thunderstorm squall line',en,Hazard,#a89216,#636363,1,0.0170513807964693
 'thunderstorm building codes',en,Mitigation,#33cc33,#9c9ede,1,0.0139505105716232
 'Hagelwarnung',de,Mitigation,#2ecc71,#2ecc71,1,0.013897016776992
 'Ambosswolke',de,Causes,#00ffff,#00ffff,1,0.0122824999999999
