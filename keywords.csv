@@ -7,10 +7,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gewitter',de,Hazard,#ff0000,#ff0000,3,0.117374534378442
 'Aufwind',de,Causes,#8e44ad,#8e44ad,2,0.1122203387661289
 'thunderstorm early warning',en,Mitigation,#33cc33,#3182bd,1,0.1108067161309201
-'Unwetterwarnung',de,Mitigation,#33cc33,#33cc33,1,0.1099956470061501
 'hail impact resistant roofing',en,Mitigation,#2ecc71,#6b6ecf,1,0.1043164366984759
 'Blitzeinschlag',de,Impacts,#ffff00,#ffff00,1,0.1041974037748598
 'lightning rod',en,Adaptation,#0000ff,#0000ff,3,0.0975999173188142
+'Unwetterwarnung',de,Mitigation,#33cc33,#33cc33,1,0.09364631495522759
 'Gewitterwarnung',de,Mitigation,#00ff00,#00ff00,1,0.0899446570225483
 'lightning and thunder',en,Hazard,#ff0000,#ff0000,3,0.0852863290861436
 'thunderstorm squall line',en,Hazard,#a89216,#636363,1,0.0822937036769989
