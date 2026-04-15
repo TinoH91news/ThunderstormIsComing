@@ -3,7 +3,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Stromausfall',de,Impacts,#4287f5,#4287f5,3,0.275613371998512
 'Hagel',de,Hazard,#e67e22,#e67e22,3,0.2727319999425115
 'thunderstorm',en,Hazard,#ff0000,#ff0000,3,0.2287198560527578
-'Brand durch Blitzeinschlag',de,Impacts,#ffff00,#ffff00,2,0.1563391646368749
+'Brand durch Blitzeinschlag',de,Impacts,#ffff00,#ffff00,1,0.13288830494134365
 'hail supercells',en,Causes,#8e44ad,#bdb76b,1,0.1291088097775701
 'Gewitter',de,Hazard,#ff0000,#ff0000,3,0.117374534378442
 'thunderstorm power outages',en,Impacts,#4287f5,#7b4173,1,0.1138620956442733
