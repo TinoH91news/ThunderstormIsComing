@@ -13,11 +13,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'thunderstorm power outages',en,Impacts,#4287f5,#7b4173,1,0.0987329762976323
 'lightning rod',en,Adaptation,#0000ff,#0000ff,3,0.0975999173188142
 'Unwetterwarnung',de,Mitigation,#33cc33,#33cc33,1,0.0936463149552275
-'Gewitterwarnung',de,Mitigation,#00ff00,#00ff00,1,0.0899446570225483
 'lightning and thunder',en,Hazard,#ff0000,#ff0000,3,0.0852863290861436
 'thunderstorm squall line',en,Hazard,#a89216,#636363,1,0.0822937036769989
 'Hagelsturm',de,Hazard,#e67e22,#e67e22,1,0.0808982168471592
 'thunderstorm tornado',en,Hazard,#a89216,#393b79,1,0.0786180064022128
+'Gewitterwarnung',de,Mitigation,#00ff00,#00ff00,1,0.07645295846916605
 'thunderstorm warning',en,Mitigation,#00ff00,#00ff00,2,0.0764491681829353
 'hail insurance',en,Mitigation,#22cc44,#1f77b4,2,0.0762106761914233
 'large hail',en,Hazard,#e67e22,#d62728,3,0.0721076651079472
@@ -39,7 +39,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'hail vehicle shelters',en,Mitigation,#2ecc71,#e377c2,1,0.0367130020487654
 'hail dented vehicles',en,Impacts,#2980b9,#843c39,1,0.0344348872150245
 'anvil clouds',en,Causes,#00ffff,#00ffff,2,0.0341847570770116
-'Konvektion',de,Causes,#00ffff,#00ffff,1,0.03238955995620438
+'Konvektion',de,Causes,#00ffff,#00ffff,1,0.0323895599562043
 'Blitzableiter',de,Adaptation,#0000ff,#0000ff,1,0.0312656970551545
 'thunderstorm flood barriers',en,Mitigation,#33cc33,#7f7f7f,1,0.0295037276979457
 'Dachschaden durch Hagel',de,Impacts,#2980b9,#2980b9,1,0.0289
