@@ -40,12 +40,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'hail vehicle shelters',en,Mitigation,#2ecc71,#e377c2,1,0.0367130020487654
 'hail dented vehicles',en,Impacts,#2980b9,#843c39,1,0.0344348872150245
 'anvil clouds',en,Causes,#00ffff,#00ffff,2,0.0341847570770116
-'Hagelschaeden',de,Impacts,#2980b9,#2980b9,1,0.0313203749999999
 'Blitzableiter',de,Adaptation,#0000ff,#0000ff,1,0.0312656970551545
 'thunderstorm flood barriers',en,Mitigation,#33cc33,#7f7f7f,1,0.0295037276979457
 'Dachschaden durch Hagel',de,Impacts,#2980b9,#2980b9,1,0.0289
+'Hagelschaeden',de,Impacts,#2980b9,#2980b9,1,0.026622318749999915
 'Hagelschaden am Auto',de,Impacts,#2980b9,#2980b9,1,0.0248008985874999
-'Grosshagel',de,Hazard,#e67e22,#e67e22,1,0.022628970937499916
+'Grosshagel',de,Hazard,#e67e22,#e67e22,1,0.0226289709374999
 'Blitzschutz',de,Adaptation,#0000ff,#0000ff,1,0.0175781240974145
 'Hagelwarnung',de,Mitigation,#2ecc71,#2ecc71,1,0.013897016776992
 'thunderstorm building codes',en,Mitigation,#33cc33,#9c9ede,1,0.0123079789858797
