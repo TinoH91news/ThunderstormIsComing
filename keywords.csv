@@ -5,12 +5,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'thunderstorm',en,Hazard,#ff0000,#ff0000,3,0.2287198560527578
 'Brand durch Blitzeinschlag',de,Impacts,#ffff00,#ffff00,1,0.1328883049413436
 'Gewitter',de,Hazard,#ff0000,#ff0000,3,0.117374534378442
-'thunderstorm power outages',en,Impacts,#4287f5,#7b4173,1,0.1138620956442733
 'Aufwind',de,Causes,#8e44ad,#8e44ad,2,0.1122203387661289
 'thunderstorm early warning',en,Mitigation,#33cc33,#3182bd,1,0.1108067161309201
 'hail supercells',en,Causes,#8e44ad,#bdb76b,1,0.1098925033109346
 'hail impact resistant roofing',en,Mitigation,#2ecc71,#6b6ecf,1,0.1043164366984759
 'Blitzeinschlag',de,Impacts,#ffff00,#ffff00,1,0.1041974037748598
+'thunderstorm power outages',en,Impacts,#4287f5,#7b4173,1,0.09873297629763231
 'lightning rod',en,Adaptation,#0000ff,#0000ff,3,0.0975999173188142
 'Unwetterwarnung',de,Mitigation,#33cc33,#33cc33,1,0.0936463149552275
 'Gewitterwarnung',de,Mitigation,#00ff00,#00ff00,1,0.0899446570225483
@@ -43,7 +43,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Blitzableiter',de,Adaptation,#0000ff,#0000ff,1,0.0312656970551545
 'thunderstorm flood barriers',en,Mitigation,#33cc33,#7f7f7f,1,0.0295037276979457
 'Dachschaden durch Hagel',de,Impacts,#2980b9,#2980b9,1,0.0289
-'Hagelschaeden',de,Impacts,#2980b9,#2980b9,1,0.026622318749999915
+'Hagelschaeden',de,Impacts,#2980b9,#2980b9,1,0.0266223187499999
 'Hagelschaden am Auto',de,Impacts,#2980b9,#2980b9,1,0.0248008985874999
 'Grosshagel',de,Hazard,#e67e22,#e67e22,1,0.0226289709374999
 'Blitzschutz',de,Adaptation,#0000ff,#0000ff,1,0.0175781240974145
