@@ -17,7 +17,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'hail roof damage',en,Impacts,#2980b9,#e6550d,1,0.0821589552187626
 'Hagelsturm',de,Hazard,#e67e22,#e67e22,1,0.0808982168471592
 'thunderstorm tornado',en,Hazard,#a89216,#393b79,1,0.0786180064022128
-'Gewitterwarnung',de,Mitigation,#00ff00,#00ff00,1,0.076452958469166
 'thunderstorm warning',en,Mitigation,#00ff00,#00ff00,2,0.0764491681829353
 'hail insurance',en,Mitigation,#22cc44,#1f77b4,2,0.0762106761914233
 'large hail',en,Hazard,#e67e22,#d62728,3,0.0721076651079472
@@ -26,6 +25,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'thunderstorm wind damage',en,Impacts,#4287f5,#8c6d31,1,0.0687431846848753
 'hailstorm',en,Hazard,#e67e22,#756bb1,1,0.0673689840606721
 'hail freezing level',en,Causes,#8e44ad,#17a2b8,1,0.0662594375828898
+'Gewitterwarnung',de,Mitigation,#00ff00,#00ff00,1,0.0649850146987911
 'thunderstorm wind shear',en,Causes,#9e3215,#31a354,1,0.0637569404084095
 'hail crop damage',en,Impacts,#2980b9,#ff7f0e,1,0.0624330532637354
 'thunderstorm low pressure',en,Causes,#9e3215,#2ca02c,1,0.0615834863691975
@@ -52,4 +52,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ambosswolke',de,Causes,#00ffff,#00ffff,1,0.0122824999999999
 'Superzelle',de,Causes,#8e44ad,#8e44ad,1,0.0096173126484374
 'Nullgradgrenze',de,Causes,#8e44ad,#8e44ad,1,0.0094304565669687
-'Windscherung',de,Causes,#9e3215,#9e3215,1,0.00852618005580668
+'Windscherung',de,Causes,#9e3215,#9e3215,1,0.0085261800558066
