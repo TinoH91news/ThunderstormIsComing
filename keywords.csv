@@ -42,7 +42,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Blitzableiter',de,Adaptation,#0000ff,#0000ff,1,0.0312656970551545
 'thunderstorm flood barriers',en,Mitigation,#33cc33,#7f7f7f,1,0.0295037276979457
 'Dachschaden durch Hagel',de,Impacts,#2980b9,#2980b9,1,0.0289
-'Konvektion',de,Causes,#00ffff,#00ffff,1,0.028131185962773655
+'Konvektion',de,Causes,#00ffff,#00ffff,1,0.0281311859627736
 'Hagelschaden am Auto',de,Impacts,#2980b9,#2980b9,1,0.0248008985874999
 'Hagelschaeden',de,Impacts,#2980b9,#2980b9,1,0.0226289709374999
 'Grosshagel',de,Hazard,#e67e22,#e67e22,1,0.0226289709374999
@@ -50,6 +50,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hagelwarnung',de,Mitigation,#2ecc71,#2ecc71,1,0.013897016776992
 'thunderstorm building codes',en,Mitigation,#33cc33,#9c9ede,1,0.0123079789858797
 'Ambosswolke',de,Causes,#00ffff,#00ffff,1,0.0122824999999999
-'Windscherung',de,Causes,#9e3215,#9e3215,1,0.0098543118303608
 'Superzelle',de,Causes,#8e44ad,#8e44ad,1,0.0096173126484374
 'Nullgradgrenze',de,Causes,#8e44ad,#8e44ad,1,0.0094304565669687
+'Windscherung',de,Causes,#9e3215,#9e3215,1,0.00852618005580668
