@@ -2,12 +2,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Unwetter',de,Hazard,#ff0000,#ff0000,3,0.3572295576066153
 'Hagel',de,Hazard,#e67e22,#e67e22,3,0.2727319999425115
 'Stromausfall',de,Impacts,#4287f5,#4287f5,3,0.2474070693805533
-'Gewitter',de,Hazard,#ff0000,#ff0000,3,0.23612928749751516
+'Gewitter',de,Hazard,#ff0000,#ff0000,3,0.2361292874975151
 'thunderstorm',en,Hazard,#ff0000,#ff0000,3,0.2287198560527578
 'thunderstorm lightning',en,Hazard,#a89216,#637939,3,0.1434538335675541
 'Brand durch Blitzeinschlag',de,Impacts,#ffff00,#ffff00,1,0.1328883049413436
+'thunderstorm early warning',en,Mitigation,#33cc33,#3182bd,1,0.12268585871128207
 'Aufwind',de,Causes,#8e44ad,#8e44ad,2,0.1122203387661289
-'thunderstorm early warning',en,Mitigation,#33cc33,#3182bd,1,0.1108067161309201
 'hail supercells',en,Causes,#8e44ad,#bdb76b,1,0.1098925033109346
 'Blitzeinschlag',de,Impacts,#ffff00,#ffff00,1,0.1041974037748598
 'thunderstorm power outages',en,Impacts,#4287f5,#7b4173,1,0.0987329762976323
