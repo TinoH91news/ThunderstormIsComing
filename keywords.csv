@@ -7,7 +7,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'hail supercells',en,Causes,#8e44ad,#bdb76b,1,0.1615086878142944
 'thunderstorm lightning',en,Hazard,#a89216,#637939,3,0.1434538335675541
 'thunderstorm early warning',en,Mitigation,#33cc33,#3182bd,1,0.122685858711282
-'Brand durch Blitzeinschlag',de,Impacts,#ffff00,#ffff00,1,0.11310507420014206
+'Brand durch Blitzeinschlag',de,Impacts,#ffff00,#ffff00,1,0.113105074200142
 'Aufwind',de,Causes,#8e44ad,#8e44ad,2,0.1122203387661289
 'Blitzeinschlag',de,Impacts,#ffff00,#ffff00,1,0.1041974037748598
 'thunderstorm power outages',en,Impacts,#4287f5,#7b4173,1,0.0987329762976323
