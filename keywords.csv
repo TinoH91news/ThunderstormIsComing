@@ -5,14 +5,14 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gewitter',de,Hazard,#ff0000,#ff0000,3,0.2361292874975151
 'thunderstorm',en,Hazard,#ff0000,#ff0000,3,0.2287198560527578
 'hail supercells',en,Causes,#8e44ad,#bdb76b,1,0.1615086878142944
-'thunderstorm lightning',en,Hazard,#a89216,#637939,2,0.12193647853242097
+'thunderstorm lightning',en,Hazard,#a89216,#637939,2,0.1219364785324209
 'Brand durch Blitzeinschlag',de,Impacts,#ffff00,#ffff00,1,0.113105074200142
 'Aufwind',de,Causes,#8e44ad,#8e44ad,2,0.1122203387661289
-'thunderstorm early warning',en,Mitigation,#33cc33,#3182bd,1,0.1056331149045897
 'Blitzeinschlag',de,Impacts,#ffff00,#ffff00,1,0.1041974037748598
 'thunderstorm power outages',en,Impacts,#4287f5,#7b4173,1,0.0987329762976323
 'lightning rod',en,Adaptation,#0000ff,#0000ff,3,0.0970032688119011
 'Unwetterwarnung',de,Mitigation,#33cc33,#33cc33,1,0.0936463149552275
+'thunderstorm early warning',en,Mitigation,#33cc33,#3182bd,1,0.09113828266890124
 'hail impact resistant roofing',en,Mitigation,#2ecc71,#6b6ecf,1,0.0888189861937045
 'lightning and thunder',en,Hazard,#ff0000,#ff0000,3,0.0852863290861436
 'hail roof damage',en,Impacts,#2980b9,#e6550d,1,0.0821589552187626
