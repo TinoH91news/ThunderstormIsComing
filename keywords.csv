@@ -11,7 +11,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'thunderstorm early warning',en,Mitigation,#33cc33,#3182bd,1,0.1056331149045897
 'Blitzeinschlag',de,Impacts,#ffff00,#ffff00,1,0.1041974037748598
 'thunderstorm power outages',en,Impacts,#4287f5,#7b4173,1,0.0987329762976323
-'lightning rod',en,Adaptation,#0000ff,#0000ff,3,0.0975999173188142
+'lightning rod',en,Adaptation,#0000ff,#0000ff,3,0.09700326881190116
 'Unwetterwarnung',de,Mitigation,#33cc33,#33cc33,1,0.0936463149552275
 'hail impact resistant roofing',en,Mitigation,#2ecc71,#6b6ecf,1,0.0888189861937045
 'lightning and thunder',en,Hazard,#ff0000,#ff0000,3,0.0852863290861436
@@ -44,7 +44,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Blitzableiter',de,Adaptation,#0000ff,#0000ff,1,0.0285260374968813
 'Konvektion',de,Causes,#00ffff,#00ffff,1,0.0281311859627736
 'Hagelschaden am Auto',de,Impacts,#2980b9,#2980b9,1,0.0248008985874999
-'Grosshagel',de,Hazard,#e67e22,#e67e22,1,0.019234625296874915
+'Grosshagel',de,Hazard,#e67e22,#e67e22,1,0.0192346252968749
 'Hagelschaeden',de,Impacts,#2980b9,#2980b9,1,0.0192346252968749
 'Blitzschutz',de,Adaptation,#0000ff,#0000ff,1,0.0175781240974145
 'Hagelwarnung',de,Mitigation,#2ecc71,#2ecc71,1,0.013897016776992
