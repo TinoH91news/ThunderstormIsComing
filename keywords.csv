@@ -44,7 +44,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Blitzableiter',de,Adaptation,#0000ff,#0000ff,1,0.0285260374968813
 'Konvektion',de,Causes,#00ffff,#00ffff,1,0.0281311859627736
 'Hagelschaden am Auto',de,Impacts,#2980b9,#2980b9,1,0.0248008985874999
-'Grosshagel',de,Hazard,#e67e22,#e67e22,1,0.0226289709374999
+'Grosshagel',de,Hazard,#e67e22,#e67e22,1,0.019234625296874915
 'Hagelschaeden',de,Impacts,#2980b9,#2980b9,1,0.0192346252968749
 'Blitzschutz',de,Adaptation,#0000ff,#0000ff,1,0.0175781240974145
 'Hagelwarnung',de,Mitigation,#2ecc71,#2ecc71,1,0.013897016776992
