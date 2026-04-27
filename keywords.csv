@@ -31,8 +31,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'thunderstorm wind shear',en,Causes,#9e3215,#31a354,1,0.0637569404084095
 'hail crop damage',en,Impacts,#2980b9,#ff7f0e,1,0.0624330532637354
 'thunderstorm low pressure',en,Causes,#9e3215,#2ca02c,1,0.0615834863691975
-'thunderstorm cell',en,Causes,#00ffff,#00ffff,1,0.0595732029661067
 'thunderstorm flooding',en,Impacts,#4287f5,#9467bd,1,0.0562372917303815
+'thunderstorm cell',en,Causes,#00ffff,#00ffff,1,0.052137372521190696
 'thunderstorm convection',en,Causes,#9e3215,#17becf,1,0.0487553775804134
 'hail swath',en,Hazard,#e67e22,#ff6f61,1,0.046268927531093
 'hail strong updrafts',en,Causes,#8e44ad,#bcbd22,1,0.0367485828057364
@@ -46,7 +46,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hagelschaden am Auto',de,Impacts,#2980b9,#2980b9,1,0.0248008985874999
 'Hagelschaeden',de,Impacts,#2980b9,#2980b9,1,0.0192346252968749
 'Blitzschutz',de,Adaptation,#0000ff,#0000ff,1,0.0175781240974145
-'Grosshagel',de,Hazard,#e67e22,#e67e22,1,0.016349431502343664
+'Grosshagel',de,Hazard,#e67e22,#e67e22,1,0.0163494315023436
 'Hagelwarnung',de,Mitigation,#2ecc71,#2ecc71,1,0.013897016776992
 'thunderstorm building codes',en,Mitigation,#33cc33,#9c9ede,1,0.0123079789858797
 'Ambosswolke',de,Causes,#00ffff,#00ffff,1,0.0122824999999999
