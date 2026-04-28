@@ -15,6 +15,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'thunderstorm early warning',en,Mitigation,#33cc33,#3182bd,1,0.0911382826689012
 'hail impact resistant roofing',en,Mitigation,#2ecc71,#6b6ecf,1,0.0888189861937045
 'lightning and thunder',en,Hazard,#ff0000,#ff0000,3,0.0852863290861436
+'hail swath',en,Hazard,#e67e22,#ff6f61,1,0.08492864840142905
 'hail roof damage',en,Impacts,#2980b9,#e6550d,1,0.0821589552187626
 'Hagelsturm',de,Hazard,#e67e22,#e67e22,1,0.0808982168471592
 'thunderstorm tornado',en,Hazard,#a89216,#393b79,1,0.0786180064022128
@@ -34,7 +35,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'thunderstorm flooding',en,Impacts,#4287f5,#9467bd,1,0.0562372917303815
 'thunderstorm cell',en,Causes,#00ffff,#00ffff,1,0.0521373725211906
 'thunderstorm convection',en,Causes,#9e3215,#17becf,1,0.0487553775804134
-'hail swath',en,Hazard,#e67e22,#ff6f61,1,0.046268927531093
 'hail strong updrafts',en,Causes,#8e44ad,#bcbd22,1,0.0367485828057364
 'hail vehicle shelters',en,Mitigation,#2ecc71,#e377c2,1,0.0367130020487654
 'hail dented vehicles',en,Impacts,#2980b9,#843c39,1,0.0344348872150245
@@ -46,7 +46,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Konvektion',de,Causes,#00ffff,#00ffff,1,0.0245115680683575
 'Hagelschaeden',de,Impacts,#2980b9,#2980b9,1,0.0192346252968749
 'Blitzschutz',de,Adaptation,#0000ff,#0000ff,1,0.0175781240974145
-'Grosshagel',de,Hazard,#e67e22,#e67e22,1,0.013897016776992057
+'Grosshagel',de,Hazard,#e67e22,#e67e22,1,0.013897016776992
 'Hagelwarnung',de,Mitigation,#2ecc71,#2ecc71,1,0.013897016776992
 'thunderstorm building codes',en,Mitigation,#33cc33,#9c9ede,1,0.0123079789858797
 'Ambosswolke',de,Causes,#00ffff,#00ffff,1,0.0122824999999999
