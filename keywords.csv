@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Unwetter',de,Hazard,#ff0000,#ff0000,3,0.3208698912383502
 'Hagel',de,Hazard,#e67e22,#e67e22,3,0.2727319999425115
-'Stromausfall',de,Impacts,#4287f5,#4287f5,3,0.2474070693805533
+'Stromausfall',de,Impacts,#4287f5,#4287f5,3,0.2684305721552885
 'Gewitter',de,Hazard,#ff0000,#ff0000,3,0.2361292874975151
 'thunderstorm',en,Hazard,#ff0000,#ff0000,3,0.2287198560527578
 'hail supercells',en,Causes,#8e44ad,#bdb76b,1,0.1615086878142944
@@ -15,7 +15,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'thunderstorm early warning',en,Mitigation,#33cc33,#3182bd,1,0.0911382826689012
 'hail impact resistant roofing',en,Mitigation,#2ecc71,#6b6ecf,1,0.0888189861937045
 'lightning and thunder',en,Hazard,#ff0000,#ff0000,3,0.0852863290861436
-'hail swath',en,Hazard,#e67e22,#ff6f61,1,0.08492864840142905
+'hail swath',en,Hazard,#e67e22,#ff6f61,1,0.084928648401429
 'hail roof damage',en,Impacts,#2980b9,#e6550d,1,0.0821589552187626
 'Hagelsturm',de,Hazard,#e67e22,#e67e22,1,0.0808982168471592
 'thunderstorm tornado',en,Hazard,#a89216,#393b79,1,0.0786180064022128
