@@ -3,7 +3,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hagel',de,Hazard,#e67e22,#e67e22,3,0.2727319999425115
 'Stromausfall',de,Impacts,#4287f5,#4287f5,3,0.2684305721552885
 'Gewitter',de,Hazard,#ff0000,#ff0000,3,0.2361292874975151
-'thunderstorm',en,Hazard,#ff0000,#ff0000,3,0.2287198560527578
+'thunderstorm',en,Hazard,#ff0000,#ff0000,3,0.23254690582666232
 'hail supercells',en,Causes,#8e44ad,#bdb76b,1,0.1615086878142944
 'thunderstorm lightning',en,Hazard,#a89216,#637939,2,0.1201468017525577
 'Brand durch Blitzeinschlag',de,Impacts,#ffff00,#ffff00,1,0.113105074200142
@@ -52,4 +52,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ambosswolke',de,Causes,#00ffff,#00ffff,1,0.0104401249999999
 'Superzelle',de,Causes,#8e44ad,#8e44ad,1,0.0096173126484374
 'Nullgradgrenze',de,Causes,#8e44ad,#8e44ad,1,0.0094304565669687
-'Windscherung',de,Causes,#9e3215,#9e3215,1,0.0073972680474356095
+'Windscherung',de,Causes,#9e3215,#9e3215,1,0.0073972680474356
