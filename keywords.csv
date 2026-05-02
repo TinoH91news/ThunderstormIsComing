@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Unwetter',de,Hazard,#ff0000,#ff0000,3,0.3208698912383502
-'Stromausfall',de,Impacts,#4287f5,#4287f5,3,0.29448232269563157
+'Stromausfall',de,Impacts,#4287f5,#4287f5,3,0.2944823226956315
 'Hagel',de,Hazard,#e67e22,#e67e22,3,0.2727319999425115
 'Gewitter',de,Hazard,#ff0000,#ff0000,3,0.2361292874975151
 'thunderstorm',en,Hazard,#ff0000,#ff0000,3,0.2325469058266623
@@ -28,11 +28,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'thunderstorm wind damage',en,Impacts,#4287f5,#8c6d31,1,0.0687431846848753
 'hailstorm',en,Hazard,#e67e22,#756bb1,1,0.0673689840606721
 'hail freezing level',en,Causes,#8e44ad,#17a2b8,1,0.0662594375828898
-'Gewitterwarnung',de,Mitigation,#00ff00,#00ff00,1,0.0649850146987911
 'thunderstorm wind shear',en,Causes,#9e3215,#31a354,1,0.0637569404084095
 'hail crop damage',en,Impacts,#2980b9,#ff7f0e,1,0.0624330532637354
 'thunderstorm low pressure',en,Causes,#9e3215,#2ca02c,1,0.0615834863691975
 'thunderstorm flooding',en,Impacts,#4287f5,#9467bd,1,0.0562372917303815
+'Gewitterwarnung',de,Mitigation,#00ff00,#00ff00,1,0.055237262493972435
 'thunderstorm cell',en,Causes,#00ffff,#00ffff,1,0.0521373725211906
 'thunderstorm convection',en,Causes,#9e3215,#17becf,1,0.0487553775804134
 'hail strong updrafts',en,Causes,#8e44ad,#bcbd22,1,0.0367485828057364
