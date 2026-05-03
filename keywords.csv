@@ -2,8 +2,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Unwetter',de,Hazard,#ff0000,#ff0000,3,0.3208698912383502
 'Stromausfall',de,Impacts,#4287f5,#4287f5,3,0.2944823226956315
 'Hagel',de,Hazard,#e67e22,#e67e22,3,0.2727319999425115
+'thunderstorm',en,Hazard,#ff0000,#ff0000,3,0.24635062301717908
 'Gewitter',de,Hazard,#ff0000,#ff0000,3,0.2333597580578637
-'thunderstorm',en,Hazard,#ff0000,#ff0000,3,0.2325469058266623
 'hail supercells',en,Causes,#8e44ad,#bdb76b,1,0.1615086878142944
 'thunderstorm lightning',en,Hazard,#a89216,#637939,2,0.1201468017525577
 'Brand durch Blitzeinschlag',de,Impacts,#ffff00,#ffff00,1,0.113105074200142
