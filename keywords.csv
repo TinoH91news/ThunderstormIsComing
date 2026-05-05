@@ -26,6 +26,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'lightning fire',en,Impacts,#ffff00,#ffff00,3,0.0716706026470141
 'thunderstorm squall line',en,Hazard,#a89216,#636363,1,0.070249678125449
 'thunderstorm wind damage',en,Impacts,#4287f5,#8c6d31,1,0.0687431846848753
+'Blitzschutz',de,Adaptation,#0000ff,#0000ff,1,0.06757778241038194
 'hailstorm',en,Hazard,#e67e22,#756bb1,1,0.0673689840606721
 'Blitzableiter',de,Adaptation,#0000ff,#0000ff,1,0.0671120280388651
 'hail freezing level',en,Causes,#8e44ad,#17a2b8,1,0.0662594375828898
@@ -45,7 +46,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hagelschaden am Auto',de,Impacts,#2980b9,#2980b9,1,0.0248008985874999
 'Konvektion',de,Causes,#00ffff,#00ffff,1,0.0214348928581038
 'Hagelschaeden',de,Impacts,#2980b9,#2980b9,1,0.0163494315023436
-'Blitzschutz',de,Adaptation,#0000ff,#0000ff,1,0.0150914204828023
 'thunderstorm building codes',en,Mitigation,#33cc33,#9c9ede,1,0.0123079789858797
 'Grosshagel',de,Hazard,#e67e22,#e67e22,1,0.0118124642604432
 'Hagelwarnung',de,Mitigation,#2ecc71,#2ecc71,1,0.0118124642604432
