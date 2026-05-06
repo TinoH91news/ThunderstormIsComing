@@ -6,8 +6,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gewitter',de,Hazard,#ff0000,#ff0000,3,0.2333597580578637
 'hail supercells',en,Causes,#8e44ad,#bdb76b,1,0.1615086878142944
 'thunderstorm lightning',en,Hazard,#a89216,#637939,2,0.1331249629253138
-'thunderstorm power outages',en,Impacts,#4287f5,#7b4173,1,0.11643603237503927
-'Aufwind',de,Causes,#8e44ad,#8e44ad,2,0.1122203387661289
+'Aufwind',de,Causes,#8e44ad,#8e44ad,2,0.12972017295120955
+'thunderstorm power outages',en,Impacts,#4287f5,#7b4173,1,0.1164360323750392
 'lightning rod',en,Adaptation,#0000ff,#0000ff,3,0.0970032688119011
 'Brand durch Blitzeinschlag',de,Impacts,#ffff00,#ffff00,1,0.0961393130701206
 'Unwetterwarnung',de,Mitigation,#33cc33,#33cc33,1,0.0936463149552275
