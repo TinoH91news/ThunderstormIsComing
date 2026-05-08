@@ -7,7 +7,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'hail supercells',en,Causes,#8e44ad,#bdb76b,1,0.1792825496421502
 'thunderstorm lightning',en,Hazard,#a89216,#637939,2,0.1331249629253138
 'Aufwind',de,Causes,#8e44ad,#8e44ad,2,0.1297201729512095
-'hailstorm',en,Hazard,#e67e22,#756bb1,2,0.123849915322539
+'hailstorm',en,Hazard,#e67e22,#756bb1,2,0.12272948802415815
 'lightning rod',en,Adaptation,#0000ff,#0000ff,3,0.0970032688119011
 'Unwetterwarnung',de,Mitigation,#33cc33,#33cc33,1,0.0936463149552275
 'Blitzeinschlag',de,Impacts,#ffff00,#ffff00,1,0.0888678232086308
