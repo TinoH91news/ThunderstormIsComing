@@ -4,12 +4,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hagel',de,Hazard,#e67e22,#e67e22,3,0.2727319999425115
 'thunderstorm',en,Hazard,#ff0000,#ff0000,3,0.246350623017179
 'Gewitter',de,Hazard,#ff0000,#ff0000,3,0.2333597580578637
-'hail supercells',en,Causes,#8e44ad,#bdb76b,1,0.15389033219582768
+'hail supercells',en,Causes,#8e44ad,#bdb76b,1,0.1538903321958276
 'thunderstorm lightning',en,Hazard,#a89216,#637939,2,0.1331249629253138
 'Aufwind',de,Causes,#8e44ad,#8e44ad,2,0.1297201729512095
 'hailstorm',en,Hazard,#e67e22,#756bb1,2,0.1227294880241581
+'Unwetterwarnung',de,Mitigation,#33cc33,#33cc33,1,0.1106281491405148
 'lightning rod',en,Adaptation,#0000ff,#0000ff,3,0.0970032688119011
-'Unwetterwarnung',de,Mitigation,#33cc33,#33cc33,1,0.0936463149552275
 'Blitzeinschlag',de,Impacts,#ffff00,#ffff00,1,0.0888678232086308
 'hail impact resistant roofing',en,Mitigation,#2ecc71,#6b6ecf,1,0.0888189861937045
 'thunderstorm power outages',en,Impacts,#4287f5,#7b4173,1,0.0860677276409657
