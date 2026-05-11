@@ -10,11 +10,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'hailstorm',en,Hazard,#e67e22,#756bb1,2,0.1227294880241581
 'Unwetterwarnung',de,Mitigation,#33cc33,#33cc33,1,0.1106281491405148
 'thunderstorm early warning',en,Mitigation,#33cc33,#3182bd,1,0.0966375416705888
+'hail swath',en,Hazard,#e67e22,#ff6f61,1,0.09026447114121465
 'Blitzeinschlag',de,Impacts,#ffff00,#ffff00,1,0.0888678232086308
 'hail impact resistant roofing',en,Mitigation,#2ecc71,#6b6ecf,1,0.0888189861937045
 'lightning rod',en,Adaptation,#0000ff,#0000ff,3,0.0869556284901159
 'thunderstorm power outages',en,Impacts,#4287f5,#7b4173,1,0.0860677276409657
-'hail swath',en,Hazard,#e67e22,#ff6f61,1,0.084928648401429
 'lightning and thunder',en,Hazard,#ff0000,#ff0000,3,0.082446994723222
 'hail roof damage',en,Impacts,#2980b9,#e6550d,1,0.0821589552187626
 'Brand durch Blitzeinschlag',de,Impacts,#ffff00,#ffff00,1,0.0817184161096025
