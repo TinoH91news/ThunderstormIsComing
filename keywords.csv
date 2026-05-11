@@ -15,7 +15,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'hail impact resistant roofing',en,Mitigation,#2ecc71,#6b6ecf,1,0.0888189861937045
 'lightning rod',en,Adaptation,#0000ff,#0000ff,3,0.0869556284901159
 'thunderstorm power outages',en,Impacts,#4287f5,#7b4173,1,0.0860677276409657
-'Gewitterwarnung',de,Mitigation,#00ff00,#00ff00,1,0.08561399265189502
+'Gewitterwarnung',de,Mitigation,#00ff00,#00ff00,1,0.085613992651895
 'lightning and thunder',en,Hazard,#ff0000,#ff0000,3,0.082446994723222
 'hail roof damage',en,Impacts,#2980b9,#e6550d,1,0.0821589552187626
 'Brand durch Blitzeinschlag',de,Impacts,#ffff00,#ffff00,1,0.0817184161096025
@@ -52,4 +52,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Superzelle',de,Causes,#8e44ad,#8e44ad,1,0.0096173126484374
 'Nullgradgrenze',de,Causes,#8e44ad,#8e44ad,1,0.0094304565669687
 'Ambosswolke',de,Causes,#00ffff,#00ffff,1,0.0088741062499999
-'Windscherung',de,Causes,#9e3215,#9e3215,1,0.0064376928403202
+'Windscherung',de,Causes,#9e3215,#9e3215,1,0.005622053914272169
