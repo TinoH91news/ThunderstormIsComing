@@ -48,8 +48,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'thunderstorm building codes',en,Mitigation,#33cc33,#9c9ede,1,0.0123079789858797
 'Grosshagel',de,Hazard,#e67e22,#e67e22,1,0.0100405946213767
 'Superzelle',de,Causes,#8e44ad,#8e44ad,1,0.0096173126484374
-'Hagelwarnung',de,Mitigation,#2ecc71,#2ecc71,1,0.008534505428170195
 'Hagelschaeden',de,Impacts,#2980b9,#2980b9,1,0.0085345054281701
 'Nullgradgrenze',de,Causes,#8e44ad,#8e44ad,1,0.0080158880819233
+'Hagelwarnung',de,Mitigation,#2ecc71,#2ecc71,1,0.007254329613944585
 'Ambosswolke',de,Causes,#00ffff,#00ffff,1,0.0054498105007811
 'Windscherung',de,Causes,#9e3215,#9e3215,1,0.0049287608271312
