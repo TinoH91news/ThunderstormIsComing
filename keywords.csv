@@ -9,7 +9,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'hail supercells',en,Causes,#8e44ad,#bdb76b,1,0.1318569023664534
 'hailstorm',en,Hazard,#e67e22,#756bb1,2,0.1227294880241581
 'Gewitterwarnung',de,Mitigation,#00ff00,#00ff00,1,0.1018601815124226
-'thunderstorm early warning',en,Mitigation,#33cc33,#3182bd,1,0.0966375416705888
+'thunderstorm early warning',en,Mitigation,#33cc33,#3182bd,1,0.09447673580461587
 'Unwetterwarnung',de,Mitigation,#33cc33,#33cc33,1,0.0924024107409185
 'Blitzschutz',de,Adaptation,#0000ff,#0000ff,1,0.0923912350488246
 'hail swath',en,Hazard,#e67e22,#ff6f61,1,0.0902644711412146
@@ -28,7 +28,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'lightning fire',en,Impacts,#ffff00,#ffff00,3,0.0716706026470141
 'thunderstorm low pressure',en,Causes,#9e3215,#2ca02c,1,0.0704210984138178
 'thunderstorm squall line',en,Hazard,#a89216,#636363,1,0.070249678125449
-'Hagelsturm',de,Hazard,#e67e22,#e67e22,1,0.06876348432008532
+'Hagelsturm',de,Hazard,#e67e22,#e67e22,1,0.0687634843200853
 'thunderstorm wind damage',en,Impacts,#4287f5,#8c6d31,1,0.0687431846848753
 'Blitzableiter',de,Adaptation,#0000ff,#0000ff,1,0.0671120280388651
 'hail freezing level',en,Causes,#8e44ad,#17a2b8,1,0.0662594375828898
