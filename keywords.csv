@@ -30,7 +30,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'thunderstorm squall line',en,Hazard,#a89216,#636363,1,0.070249678125449
 'Hagelsturm',de,Hazard,#e67e22,#e67e22,1,0.0687634843200853
 'thunderstorm wind damage',en,Impacts,#4287f5,#8c6d31,1,0.0687431846848753
-'Blitzableiter',de,Adaptation,#0000ff,#0000ff,1,0.0671120280388651
+'Blitzableiter',de,Adaptation,#0000ff,#0000ff,1,0.06753665530362356
 'hail freezing level',en,Causes,#8e44ad,#17a2b8,1,0.0662594375828898
 'hail crop damage',en,Impacts,#2980b9,#ff7f0e,1,0.0624330532637354
 'thunderstorm cell',en,Causes,#00ffff,#00ffff,1,0.0521373725211906
@@ -47,7 +47,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'thunderstorm building codes',en,Mitigation,#33cc33,#9c9ede,1,0.0123079789858797
 'Konvektion',de,Causes,#00ffff,#00ffff,1,0.0120137048518838
 'Grosshagel',de,Hazard,#e67e22,#e67e22,1,0.0100405946213767
-'Superzelle',de,Causes,#8e44ad,#8e44ad,1,0.008313644888495944
+'Superzelle',de,Causes,#8e44ad,#8e44ad,1,0.0083136448884959
 'Nullgradgrenze',de,Causes,#8e44ad,#8e44ad,1,0.0080158880819233
 'Hagelschaeden',de,Impacts,#2980b9,#2980b9,1,0.0072543296139445
 'Hagelwarnung',de,Mitigation,#2ecc71,#2ecc71,1,0.0061661801718528
