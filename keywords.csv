@@ -7,7 +7,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'thunderstorm lightning',en,Hazard,#a89216,#637939,3,0.1498700996466683
 'hailstorm',en,Hazard,#e67e22,#756bb1,2,0.1465767271734755
 'Aufwind',de,Causes,#8e44ad,#8e44ad,3,0.1343913621801349
-'hail supercells',en,Causes,#8e44ad,#bdb76b,1,0.1180785320114853
+'hail supercells',en,Causes,#8e44ad,#bdb76b,1,0.1281168272097625
 'hail impact resistant roofing',en,Mitigation,#2ecc71,#6b6ecf,1,0.1093517730249514
 'thunderstorm early warning',en,Mitigation,#33cc33,#3182bd,1,0.0944767358046158
 'Blitzschutz',de,Adaptation,#0000ff,#0000ff,1,0.0923912350488246
@@ -52,4 +52,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hagelschaeden',de,Impacts,#2980b9,#2980b9,1,0.0072543296139445
 'Hagelwarnung',de,Mitigation,#2ecc71,#2ecc71,1,0.0061661801718528
 'Ambosswolke',de,Causes,#00ffff,#00ffff,1,0.0046323389256639
-'Windscherung',de,Causes,#9e3215,#9e3215,1,0.00418944670306152
+'Windscherung',de,Causes,#9e3215,#9e3215,1,0.0041894467030615
