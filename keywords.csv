@@ -2,7 +2,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Unwetter',de,Hazard,#ff0000,#ff0000,3,0.3180793795778626
 'Hagel',de,Hazard,#e67e22,#e67e22,3,0.2669702870717193
 'Gewitter',de,Hazard,#ff0000,#ff0000,3,0.2646772907128205
-'thunderstorm',en,Hazard,#ff0000,#ff0000,3,0.2489244783577056
+'thunderstorm',en,Hazard,#ff0000,#ff0000,3,0.23309020160404975
 'Stromausfall',de,Impacts,#4287f5,#4287f5,3,0.219752081232337
 'thunderstorm lightning',en,Hazard,#a89216,#637939,3,0.1498700996466683
 'hailstorm',en,Hazard,#e67e22,#756bb1,2,0.1465767271734755
