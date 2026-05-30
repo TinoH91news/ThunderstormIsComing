@@ -4,12 +4,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gewitter',de,Hazard,#ff0000,#ff0000,3,0.2646772907128205
 'thunderstorm',en,Hazard,#ff0000,#ff0000,3,0.2330902016040497
 'Stromausfall',de,Impacts,#4287f5,#4287f5,3,0.219752081232337
-'Aufwind',de,Causes,#8e44ad,#8e44ad,3,0.16965953285311466
+'Aufwind',de,Causes,#8e44ad,#8e44ad,3,0.1696595328531146
 'thunderstorm lightning',en,Hazard,#a89216,#637939,3,0.1498700996466683
 'hailstorm',en,Hazard,#e67e22,#756bb1,2,0.1465767271734755
 'hail supercells',en,Causes,#8e44ad,#bdb76b,1,0.1281168272097625
+'thunderstorm early warning',en,Mitigation,#33cc33,#3182bd,1,0.11300551043392343
 'hail impact resistant roofing',en,Mitigation,#2ecc71,#6b6ecf,1,0.1093517730249514
-'thunderstorm early warning',en,Mitigation,#33cc33,#3182bd,1,0.0944767358046158
 'Blitzschutz',de,Adaptation,#0000ff,#0000ff,1,0.0923912350488246
 'thunderstorm warning',en,Mitigation,#00ff00,#00ff00,2,0.090876232955495
 'hail swath',en,Hazard,#e67e22,#ff6f61,1,0.0902644711412146
