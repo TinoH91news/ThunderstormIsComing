@@ -8,8 +8,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'thunderstorm lightning',en,Hazard,#a89216,#637939,3,0.1585097020628996
 'hailstorm',en,Hazard,#e67e22,#756bb1,2,0.1465767271734755
 'hail supercells',en,Causes,#8e44ad,#bdb76b,1,0.1281168272097625
-'thunderstorm early warning',en,Mitigation,#33cc33,#3182bd,1,0.1130055104339234
-'Gewitterwarnung',de,Mitigation,#00ff00,#00ff00,1,0.11295491721090714
+'thunderstorm early warning',en,Mitigation,#33cc33,#3182bd,1,0.11375495386883488
+'Gewitterwarnung',de,Mitigation,#00ff00,#00ff00,1,0.1129549172109071
 'Unwetterwarnung',de,Mitigation,#33cc33,#33cc33,2,0.1117003070817421
 'hail impact resistant roofing',en,Mitigation,#2ecc71,#6b6ecf,1,0.1093517730249514
 'hail crop damage',en,Impacts,#2980b9,#ff7f0e,1,0.103018230274175
