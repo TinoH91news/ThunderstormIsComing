@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Unwetter',de,Hazard,#ff0000,#ff0000,3,0.40213931445936496
+'Unwetter',de,Hazard,#ff0000,#ff0000,3,0.4021393144593649
 'Gewitter',de,Hazard,#ff0000,#ff0000,3,0.3838846247672854
 'Hagel',de,Hazard,#e67e22,#e67e22,3,0.2669702870717193
 'Stromausfall',de,Impacts,#4287f5,#4287f5,3,0.2253416840474864
@@ -49,7 +49,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Grosshagel',de,Hazard,#e67e22,#e67e22,1,0.0085345054281701
 'Superzelle',de,Causes,#8e44ad,#8e44ad,1,0.0083136448884959
 'Hagelschaeden',de,Impacts,#2980b9,#2980b9,1,0.0072543296139445
-'Nullgradgrenze',de,Causes,#8e44ad,#8e44ad,1,0.0068135048696348
 'Hagelwarnung',de,Mitigation,#2ecc71,#2ecc71,1,0.0061661801718528
+'Nullgradgrenze',de,Causes,#8e44ad,#8e44ad,1,0.0057914791391895796
 'Ambosswolke',de,Causes,#00ffff,#00ffff,1,0.0046323389256639
 'Windscherung',de,Causes,#9e3215,#9e3215,1,0.0041894467030615
