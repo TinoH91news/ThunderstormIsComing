@@ -4,9 +4,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hagel',de,Hazard,#e67e22,#e67e22,3,0.2564257635564159
 'Stromausfall',de,Impacts,#4287f5,#4287f5,3,0.2253416840474864
 'thunderstorm',en,Hazard,#ff0000,#ff0000,3,0.2153537636361695
+'hailstorm',en,Hazard,#e67e22,#756bb1,2,0.18009086309745417
 'Aufwind',de,Causes,#8e44ad,#8e44ad,3,0.1696595328531146
 'thunderstorm lightning',en,Hazard,#a89216,#637939,3,0.1585097020628996
-'hailstorm',en,Hazard,#e67e22,#756bb1,2,0.1465767271734755
 'hail supercells',en,Causes,#8e44ad,#bdb76b,1,0.1281168272097625
 'Gewitterwarnung',de,Mitigation,#00ff00,#00ff00,1,0.1222072991747255
 'thunderstorm early warning',en,Mitigation,#33cc33,#3182bd,1,0.1137549538688348
@@ -32,7 +32,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'hail freezing level',en,Causes,#8e44ad,#17a2b8,1,0.0662594375828898
 'thunderstorm squall line',en,Hazard,#a89216,#636363,1,0.0598622414066316
 'Blitzableiter',de,Adaptation,#0000ff,#0000ff,1,0.0598063970080799
-'Hagelsturm',de,Hazard,#e67e22,#e67e22,1,0.05859897667207251
+'Hagelsturm',de,Hazard,#e67e22,#e67e22,1,0.0585989766720725
 'thunderstorm cell',en,Causes,#00ffff,#00ffff,1,0.0521373725211906
 'thunderstorm convection',en,Causes,#9e3215,#17becf,1,0.0487553775804134
 'thunderstorm flooding',en,Impacts,#4287f5,#9467bd,1,0.0483606368136621
