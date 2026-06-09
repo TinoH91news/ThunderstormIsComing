@@ -25,10 +25,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'large hail',en,Hazard,#e67e22,#d62728,3,0.0787514553417551
 'thunderstorm tornado',en,Hazard,#a89216,#393b79,1,0.0786180064022128
 'thunderstorm wind shear',en,Causes,#9e3215,#31a354,1,0.077593504347148
+'thunderstorm wind damage',en,Impacts,#4287f5,#8c6d31,1,0.07686431492332046
 'hail insurance',en,Mitigation,#22cc44,#1f77b4,2,0.0762106761914233
 'lightning fire',en,Impacts,#ffff00,#ffff00,3,0.0716706026470141
 'thunderstorm low pressure',en,Causes,#9e3215,#2ca02c,1,0.0704210984138178
-'thunderstorm wind damage',en,Impacts,#4287f5,#8c6d31,1,0.0687431846848753
 'hail freezing level',en,Causes,#8e44ad,#17a2b8,1,0.0662594375828898
 'thunderstorm squall line',en,Hazard,#a89216,#636363,1,0.0598622414066316
 'Blitzableiter',de,Adaptation,#0000ff,#0000ff,1,0.0598063970080799
@@ -42,7 +42,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'hail vehicle shelters',en,Mitigation,#2ecc71,#e377c2,1,0.0312060517414505
 'thunderstorm flood barriers',en,Mitigation,#33cc33,#7f7f7f,1,0.0295037276979457
 'anvil clouds',en,Causes,#00ffff,#00ffff,1,0.0290571635154598
-'Hagelschaden am Auto',de,Impacts,#2980b9,#2980b9,1,0.017918649229468665
+'Hagelschaden am Auto',de,Impacts,#2980b9,#2980b9,1,0.0179186492294686
 'Dachschaden durch Hagel',de,Impacts,#2980b9,#2980b9,1,0.0177482124999999
 'thunderstorm building codes',en,Mitigation,#33cc33,#9c9ede,1,0.0123079789858797
 'Konvektion',de,Causes,#00ffff,#00ffff,1,0.0107652551921631
