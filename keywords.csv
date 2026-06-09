@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Unwetter',de,Hazard,#ff0000,#ff0000,3,0.4122268477450056
+'Unwetter',de,Hazard,#ff0000,#ff0000,3,0.44534676558325476
 'Gewitter',de,Hazard,#ff0000,#ff0000,3,0.4008097605976471
 'Hagel',de,Hazard,#e67e22,#e67e22,3,0.2564257635564159
 'thunderstorm',en,Hazard,#ff0000,#ff0000,3,0.2337181516626163
@@ -11,7 +11,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'hail supercells',en,Causes,#8e44ad,#bdb76b,1,0.1281168272097625
 'Unwetterwarnung',de,Mitigation,#33cc33,#33cc33,2,0.1117003070817421
 'hail impact resistant roofing',en,Mitigation,#2ecc71,#6b6ecf,1,0.1093517730249514
-'thunderstorm early warning',en,Mitigation,#33cc33,#3182bd,1,0.10718314225909781
+'thunderstorm early warning',en,Mitigation,#33cc33,#3182bd,1,0.1071831422590978
 'hail crop damage',en,Impacts,#2980b9,#ff7f0e,1,0.103018230274175
 'thunderstorm warning',en,Mitigation,#00ff00,#00ff00,2,0.0949455780121707
 'Blitzschutz',de,Adaptation,#0000ff,#0000ff,1,0.0923912350488246
