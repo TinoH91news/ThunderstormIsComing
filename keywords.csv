@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Unwetter',de,Hazard,#ff0000,#ff0000,3,0.4453467655832547
+'Unwetter',de,Hazard,#ff0000,#ff0000,3,0.41213510438213014
 'Gewitter',de,Hazard,#ff0000,#ff0000,3,0.4008097605976471
 'Hagel',de,Hazard,#e67e22,#e67e22,3,0.2564257635564159
 'thunderstorm',en,Hazard,#ff0000,#ff0000,3,0.2337181516626163
@@ -25,7 +25,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'large hail',en,Hazard,#e67e22,#d62728,3,0.0787514553417551
 'thunderstorm tornado',en,Hazard,#a89216,#393b79,1,0.0786180064022128
 'thunderstorm wind shear',en,Causes,#9e3215,#31a354,1,0.077593504347148
-'thunderstorm wind damage',en,Impacts,#4287f5,#8c6d31,1,0.07686431492332046
+'thunderstorm wind damage',en,Impacts,#4287f5,#8c6d31,1,0.0768643149233204
 'hail insurance',en,Mitigation,#22cc44,#1f77b4,2,0.0762106761914233
 'lightning fire',en,Impacts,#ffff00,#ffff00,3,0.0716706026470141
 'thunderstorm low pressure',en,Causes,#9e3215,#2ca02c,1,0.0704210984138178
