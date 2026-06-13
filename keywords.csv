@@ -15,6 +15,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'hail roof damage',en,Impacts,#2980b9,#e6550d,2,0.0957855319359482
 'Blitzschutz',de,Adaptation,#0000ff,#0000ff,1,0.0923912350488246
 'hail swath',en,Hazard,#e67e22,#ff6f61,1,0.0902644711412146
+'thunderstorm low pressure',en,Causes,#9e3215,#2ca02c,1,0.09014446228810877
 'thunderstorm warning',en,Mitigation,#00ff00,#00ff00,3,0.0897546563103451
 'Blitzeinschlag',de,Impacts,#ffff00,#ffff00,1,0.0888678232086308
 'hail crop damage',en,Impacts,#2980b9,#ff7f0e,1,0.0887656307330487
@@ -28,7 +29,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'thunderstorm wind damage',en,Impacts,#4287f5,#8c6d31,1,0.0768643149233204
 'hail insurance',en,Mitigation,#22cc44,#1f77b4,2,0.0762106761914233
 'lightning fire',en,Impacts,#ffff00,#ffff00,3,0.0716706026470141
-'thunderstorm low pressure',en,Causes,#9e3215,#2ca02c,1,0.0704210984138178
 'hail freezing level',en,Causes,#8e44ad,#17a2b8,1,0.0662594375828898
 'thunderstorm squall line',en,Hazard,#a89216,#636363,1,0.0598622414066316
 'Blitzableiter',de,Adaptation,#0000ff,#0000ff,1,0.0598063970080799
