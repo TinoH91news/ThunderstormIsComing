@@ -12,10 +12,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Unwetterwarnung',de,Mitigation,#33cc33,#33cc33,2,0.1117003070817421
 'hail supercells',en,Causes,#8e44ad,#bdb76b,1,0.1100994231282981
 'hail impact resistant roofing',en,Mitigation,#2ecc71,#6b6ecf,1,0.1093517730249514
-'thunderstorm early warning',en,Mitigation,#33cc33,#3182bd,1,0.1071831422590978
+'thunderstorm early warning',en,Mitigation,#33cc33,#3182bd,2,0.10497027163451884
 'hail roof damage',en,Impacts,#2980b9,#e6550d,2,0.0957855319359482
 'Blitzschutz',de,Adaptation,#0000ff,#0000ff,1,0.0923912350488246
-'thunderstorm tornado',en,Hazard,#a89216,#393b79,2,0.09179839608704217
+'thunderstorm tornado',en,Hazard,#a89216,#393b79,2,0.0917983960870421
 'hail swath',en,Hazard,#e67e22,#ff6f61,1,0.0902644711412146
 'thunderstorm low pressure',en,Causes,#9e3215,#2ca02c,1,0.0901444622881087
 'thunderstorm warning',en,Mitigation,#00ff00,#00ff00,3,0.0897546563103451
