@@ -33,10 +33,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'thunderstorm squall line',en,Hazard,#a89216,#636363,1,0.0598622414066316
 'Blitzableiter',de,Adaptation,#0000ff,#0000ff,1,0.0598063970080799
 'Hagelsturm',de,Hazard,#e67e22,#e67e22,1,0.0585989766720725
-'thunderstorm cell',en,Causes,#00ffff,#00ffff,1,0.0521373725211906
 'thunderstorm convection',en,Causes,#9e3215,#17becf,1,0.0487553775804134
 'thunderstorm flooding',en,Impacts,#4287f5,#9467bd,1,0.0483606368136621
 'hail nets',en,Mitigation,#2ecc71,#8c564b,1,0.0482717169402733
+'thunderstorm cell',en,Causes,#00ffff,#00ffff,1,0.045516886643012004
 'hail dented vehicles',en,Impacts,#2980b9,#843c39,1,0.0344348872150245
 'hail strong updrafts',en,Causes,#8e44ad,#bcbd22,1,0.0312362953848759
 'hail vehicle shelters',en,Mitigation,#2ecc71,#e377c2,1,0.0312060517414505
