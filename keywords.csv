@@ -8,10 +8,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Aufwind',de,Causes,#8e44ad,#8e44ad,3,0.1614354151978747
 'thunderstorm lightning',en,Hazard,#a89216,#637939,3,0.1585097020628996
 'hailstorm',en,Hazard,#e67e22,#756bb1,2,0.1579555875163906
-'thunderstorm power outages',en,Impacts,#4287f5,#7b4173,1,0.115413735847762
 'Unwetterwarnung',de,Mitigation,#33cc33,#33cc33,2,0.1117003070817421
 'hail supercells',en,Causes,#8e44ad,#bdb76b,1,0.1100994231282981
 'hail impact resistant roofing',en,Mitigation,#2ecc71,#6b6ecf,1,0.1093517730249514
+'thunderstorm power outages',en,Impacts,#4287f5,#7b4173,1,0.1083019754705977
 'thunderstorm early warning',en,Mitigation,#33cc33,#3182bd,2,0.1049702716345188
 'hail roof damage',en,Impacts,#2980b9,#e6550d,2,0.0957855319359482
 'Blitzschutz',de,Adaptation,#0000ff,#0000ff,1,0.0923912350488246
@@ -48,7 +48,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Konvektion',de,Causes,#00ffff,#00ffff,1,0.0105006019133386
 'Grosshagel',de,Hazard,#e67e22,#e67e22,1,0.0085345054281701
 'Hagelschaeden',de,Impacts,#2980b9,#2980b9,1,0.0072543296139445
-'Superzelle',de,Causes,#8e44ad,#8e44ad,1,0.006261633931938275
+'Superzelle',de,Causes,#8e44ad,#8e44ad,1,0.0062616339319382
 'Hagelwarnung',de,Mitigation,#2ecc71,#2ecc71,1,0.0061661801718528
 'Nullgradgrenze',de,Causes,#8e44ad,#8e44ad,1,0.004922757268311
 'Windscherung',de,Causes,#9e3215,#9e3215,1,0.0041894467030615
