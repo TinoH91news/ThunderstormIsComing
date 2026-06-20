@@ -3,7 +3,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Unwetter',de,Hazard,#ff0000,#ff0000,3,0.3635565837248106
 'Stromausfall',de,Impacts,#4287f5,#4287f5,3,0.2795665335652179
 'Hagel',de,Hazard,#e67e22,#e67e22,3,0.2564257635564159
-'thunderstorm',en,Hazard,#ff0000,#ff0000,3,0.18907014417599297
+'thunderstorm',en,Hazard,#ff0000,#ff0000,3,0.1890701441759929
 'thunderstorm lightning',en,Hazard,#a89216,#637939,3,0.1817229667534646
 'Gewitterwarnung',de,Mitigation,#00ff00,#00ff00,1,0.1688125227458443
 'Aufwind',de,Causes,#8e44ad,#8e44ad,3,0.1614354151978747
@@ -19,6 +19,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'thunderstorm tornado',en,Hazard,#a89216,#393b79,2,0.0917983960870421
 'hail swath',en,Hazard,#e67e22,#ff6f61,1,0.0902644711412146
 'thunderstorm warning',en,Mitigation,#00ff00,#00ff00,3,0.0897546563103451
+'Blitzableiter',de,Adaptation,#0000ff,#0000ff,1,0.0888856174568679
 'Blitzeinschlag',de,Impacts,#ffff00,#ffff00,1,0.0888678232086308
 'hail crop damage',en,Impacts,#2980b9,#ff7f0e,1,0.0887656307330487
 'lightning rod',en,Adaptation,#0000ff,#0000ff,3,0.0869556284901159
@@ -31,7 +32,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'lightning fire',en,Impacts,#ffff00,#ffff00,3,0.0716706026470141
 'hail freezing level',en,Causes,#8e44ad,#17a2b8,1,0.0662594375828898
 'thunderstorm squall line',en,Hazard,#a89216,#636363,1,0.0598622414066316
-'Blitzableiter',de,Adaptation,#0000ff,#0000ff,1,0.0598063970080799
 'Hagelsturm',de,Hazard,#e67e22,#e67e22,1,0.0585989766720725
 'thunderstorm convection',en,Causes,#9e3215,#17becf,1,0.0487553775804134
 'thunderstorm flooding',en,Impacts,#4287f5,#9467bd,1,0.0483606368136621
