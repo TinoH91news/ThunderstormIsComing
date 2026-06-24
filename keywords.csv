@@ -33,7 +33,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'lightning fire',en,Impacts,#ffff00,#ffff00,3,0.0716706026470141
 'hail freezing level',en,Causes,#8e44ad,#17a2b8,1,0.0662594375828898
 'thunderstorm squall line',en,Hazard,#a89216,#636363,1,0.0598622414066316
-'Hagelsturm',de,Hazard,#e67e22,#e67e22,1,0.05040919017126162
+'Hagelsturm',de,Hazard,#e67e22,#e67e22,1,0.0504091901712616
 'thunderstorm flooding',en,Impacts,#4287f5,#9467bd,1,0.0483606368136621
 'hail nets',en,Mitigation,#2ecc71,#8c564b,1,0.0482717169402733
 'thunderstorm cell',en,Causes,#00ffff,#00ffff,1,0.045516886643012
@@ -43,7 +43,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'hail strong updrafts',en,Causes,#8e44ad,#bcbd22,1,0.0267008660771445
 'thunderstorm flood barriers',en,Mitigation,#33cc33,#7f7f7f,1,0.0252281835432538
 'anvil clouds',en,Causes,#00ffff,#00ffff,1,0.0227639776399196
-'Dachschaden durch Hagel',de,Impacts,#2980b9,#2980b9,1,0.0177482124999999
+'Dachschaden durch Hagel',de,Impacts,#2980b9,#2980b9,1,0.015085980624999914
 'thunderstorm building codes',en,Mitigation,#33cc33,#9c9ede,1,0.0123079789858797
 'Konvektion',de,Causes,#00ffff,#00ffff,1,0.0102756466263378
 'Grosshagel',de,Hazard,#e67e22,#e67e22,1,0.0072543296139445
