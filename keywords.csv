@@ -32,7 +32,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'hail insurance',en,Mitigation,#22cc44,#1f77b4,2,0.0762106761914233
 'lightning fire',en,Impacts,#ffff00,#ffff00,3,0.0716706026470141
 'thunderstorm squall line',en,Hazard,#a89216,#636363,1,0.0598622414066316
-'hail freezing level',en,Causes,#8e44ad,#17a2b8,1,0.056470536945456326
+'hail freezing level',en,Causes,#8e44ad,#17a2b8,1,0.0564705369454563
 'Hagelsturm',de,Hazard,#e67e22,#e67e22,1,0.0504091901712616
 'thunderstorm flooding',en,Impacts,#4287f5,#9467bd,1,0.0483606368136621
 'hail nets',en,Mitigation,#2ecc71,#8c564b,1,0.0482717169402733
@@ -51,5 +51,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hagelschaeden',de,Impacts,#2980b9,#2980b9,1,0.0061661801718528
 'Nullgradgrenze',de,Causes,#8e44ad,#8e44ad,1,0.004922757268311
 'Windscherung',de,Causes,#9e3215,#9e3215,1,0.0041894467030615
-'Ambosswolke',de,Causes,#00ffff,#00ffff,1,0.0033468648737921
 'Hagelwarnung',de,Mitigation,#2ecc71,#2ecc71,1,0.003218784588333
+'Ambosswolke',de,Causes,#00ffff,#00ffff,1,0.002844835142723285
