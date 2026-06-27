@@ -37,7 +37,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'hail nets',en,Mitigation,#2ecc71,#8c564b,1,0.0482717169402733
 'thunderstorm cell',en,Causes,#00ffff,#00ffff,1,0.045516886643012
 'Hagelsturm',de,Hazard,#e67e22,#e67e22,1,0.0434478716455723
-'thunderstorm convection',en,Causes,#9e3215,#17becf,1,0.0420421309433513
+'thunderstorm convection',en,Causes,#9e3215,#17becf,1,0.036485886301848604
 'hail vehicle shelters',en,Mitigation,#2ecc71,#e377c2,1,0.0312060517414505
 'hail dented vehicles',en,Impacts,#2980b9,#843c39,1,0.0294196691327708
 'hail strong updrafts',en,Causes,#8e44ad,#bcbd22,1,0.0267008660771445
@@ -49,7 +49,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Grosshagel',de,Hazard,#e67e22,#e67e22,1,0.0072543296139445
 'Superzelle',de,Causes,#8e44ad,#8e44ad,1,0.0062616339319382
 'Hagelschaeden',de,Impacts,#2980b9,#2980b9,1,0.0061661801718528
-'Nullgradgrenze',de,Causes,#8e44ad,#8e44ad,1,0.004334358678064349
+'Nullgradgrenze',de,Causes,#8e44ad,#8e44ad,1,0.0043343586780643
 'Windscherung',de,Causes,#9e3215,#9e3215,1,0.0041894467030615
 'Hagelwarnung',de,Mitigation,#2ecc71,#2ecc71,1,0.003218784588333
 'Ambosswolke',de,Causes,#00ffff,#00ffff,1,0.0028448351427232
