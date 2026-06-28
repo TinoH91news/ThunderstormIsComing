@@ -40,7 +40,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'thunderstorm convection',en,Causes,#9e3215,#17becf,1,0.0364858863018486
 'hail dented vehicles',en,Impacts,#2980b9,#843c39,1,0.0294196691327708
 'hail strong updrafts',en,Causes,#8e44ad,#bcbd22,1,0.0267008660771445
-'hail vehicle shelters',en,Mitigation,#2ecc71,#e377c2,1,0.026675158980232924
+'hail vehicle shelters',en,Mitigation,#2ecc71,#e377c2,1,0.0266751589802329
 'thunderstorm flood barriers',en,Mitigation,#33cc33,#7f7f7f,1,0.0252281835432538
 'anvil clouds',en,Causes,#00ffff,#00ffff,1,0.0227639776399196
 'Dachschaden durch Hagel',de,Impacts,#2980b9,#2980b9,1,0.0128230835312499
@@ -52,4 +52,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Windscherung',de,Causes,#9e3215,#9e3215,1,0.0041894467030615
 'Nullgradgrenze',de,Causes,#8e44ad,#8e44ad,1,0.0038342198763546
 'Hagelwarnung',de,Mitigation,#2ecc71,#2ecc71,1,0.003218784588333
-'Ambosswolke',de,Causes,#00ffff,#00ffff,1,0.0028448351427232
+'Ambosswolke',de,Causes,#00ffff,#00ffff,1,0.00241810987131472
