@@ -17,9 +17,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'lightning and thunder',en,Hazard,#ff0000,#ff0000,3,0.1029989758238915
 'thunderstorm warning',en,Mitigation,#00ff00,#00ff00,3,0.1016974283183387
 'hail supercells',en,Causes,#8e44ad,#bdb76b,1,0.0949346446590533
+'Blitzableiter',de,Adaptation,#0000ff,#0000ff,1,0.09482801483833772
 'thunderstorm tornado',en,Hazard,#a89216,#393b79,2,0.0917983960870421
 'hail swath',en,Hazard,#e67e22,#ff6f61,1,0.0902644711412146
-'Blitzableiter',de,Adaptation,#0000ff,#0000ff,1,0.0888856174568679
 'Blitzeinschlag',de,Impacts,#ffff00,#ffff00,1,0.0888678232086308
 'hail crop damage',en,Impacts,#2980b9,#ff7f0e,1,0.0887656307330487
 'lightning rod',en,Adaptation,#0000ff,#0000ff,3,0.0869556284901159
