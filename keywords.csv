@@ -18,7 +18,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'thunderstorm warning',en,Mitigation,#00ff00,#00ff00,3,0.1016974283183387
 'hail supercells',en,Causes,#8e44ad,#bdb76b,1,0.0949346446590533
 'Blitzableiter',de,Adaptation,#0000ff,#0000ff,1,0.0948280148383377
-'thunderstorm tornado',en,Hazard,#a89216,#393b79,2,0.0917983960870421
+'thunderstorm tornado',en,Hazard,#a89216,#393b79,3,0.09256647819572492
 'hail swath',en,Hazard,#e67e22,#ff6f61,1,0.0902644711412146
 'Blitzeinschlag',de,Impacts,#ffff00,#ffff00,1,0.0888678232086308
 'hail crop damage',en,Impacts,#2980b9,#ff7f0e,1,0.0887656307330487
@@ -32,7 +32,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'thunderstorm wind shear',en,Causes,#9e3215,#31a354,1,0.077593504347148
 'hail insurance',en,Mitigation,#22cc44,#1f77b4,2,0.0762106761914233
 'hail freezing level',en,Causes,#8e44ad,#17a2b8,1,0.0564705369454563
-'thunderstorm squall line',en,Hazard,#a89216,#636363,1,0.05118293519563686
+'thunderstorm squall line',en,Hazard,#a89216,#636363,1,0.0511829351956368
 'thunderstorm flooding',en,Impacts,#4287f5,#9467bd,1,0.0483606368136621
 'hail nets',en,Mitigation,#2ecc71,#8c564b,1,0.0482717169402733
 'thunderstorm cell',en,Causes,#00ffff,#00ffff,1,0.045516886643012
