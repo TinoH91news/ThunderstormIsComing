@@ -6,7 +6,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gewitterwarnung',de,Mitigation,#00ff00,#00ff00,2,0.1893504402430585
 'thunderstorm',en,Hazard,#ff0000,#ff0000,3,0.1890701441759929
 'thunderstorm lightning',en,Hazard,#a89216,#637939,3,0.1817229667534646
-'Aufwind',de,Causes,#8e44ad,#8e44ad,3,0.16627149791819346
+'Aufwind',de,Causes,#8e44ad,#8e44ad,3,0.1662714979181934
 'hailstorm',en,Hazard,#e67e22,#756bb1,2,0.1595612959483341
 'Blitzschutz',de,Adaptation,#0000ff,#0000ff,1,0.1456702286799186
 'hail impact resistant roofing',en,Mitigation,#2ecc71,#6b6ecf,1,0.1333990520712087
@@ -31,8 +31,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'thunderstorm low pressure',en,Causes,#9e3215,#2ca02c,1,0.0778229129448924
 'thunderstorm wind shear',en,Causes,#9e3215,#31a354,1,0.077593504347148
 'hail insurance',en,Mitigation,#22cc44,#1f77b4,2,0.0762106761914233
-'thunderstorm squall line',en,Hazard,#a89216,#636363,1,0.0598622414066316
 'hail freezing level',en,Causes,#8e44ad,#17a2b8,1,0.0564705369454563
+'thunderstorm squall line',en,Hazard,#a89216,#636363,1,0.05118293519563686
 'thunderstorm flooding',en,Impacts,#4287f5,#9467bd,1,0.0483606368136621
 'hail nets',en,Mitigation,#2ecc71,#8c564b,1,0.0482717169402733
 'thunderstorm cell',en,Causes,#00ffff,#00ffff,1,0.045516886643012
