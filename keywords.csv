@@ -24,13 +24,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'hail crop damage',en,Impacts,#2980b9,#ff7f0e,1,0.0887656307330487
 'lightning rod',en,Adaptation,#0000ff,#0000ff,3,0.0869556284901159
 'lightning fire',en,Impacts,#ffff00,#ffff00,3,0.0858989228951232
-'thunderstorm wind damage',en,Impacts,#4287f5,#8c6d31,2,0.0827184060181556
 'Brand durch Blitzeinschlag',de,Impacts,#ffff00,#ffff00,1,0.0817184161096025
 'hail roof damage',en,Impacts,#2980b9,#e6550d,1,0.0814181221455559
 'large hail',en,Hazard,#e67e22,#d62728,3,0.0787514553417551
 'thunderstorm low pressure',en,Causes,#9e3215,#2ca02c,1,0.0778229129448924
 'thunderstorm wind shear',en,Causes,#9e3215,#31a354,1,0.077593504347148
 'hail insurance',en,Mitigation,#22cc44,#1f77b4,2,0.0762106761914233
+'thunderstorm wind damage',en,Impacts,#4287f5,#8c6d31,1,0.07031106511543225
 'hail freezing level',en,Causes,#8e44ad,#17a2b8,1,0.0564705369454563
 'thunderstorm squall line',en,Hazard,#a89216,#636363,1,0.0511829351956368
 'thunderstorm flooding',en,Impacts,#4287f5,#9467bd,1,0.0483606368136621
