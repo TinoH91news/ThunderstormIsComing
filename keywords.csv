@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hagel',de,Hazard,#e67e22,#e67e22,3,0.4190847861190838
-'Unwetter',de,Hazard,#ff0000,#ff0000,3,0.3870706097163629
+'Unwetter',de,Hazard,#ff0000,#ff0000,3,0.3626086218952721
 'Gewitter',de,Hazard,#ff0000,#ff0000,3,0.3515716495024641
 'Stromausfall',de,Impacts,#4287f5,#4287f5,3,0.3162228821667988
 'thunderstorm',en,Hazard,#ff0000,#ff0000,3,0.211618891687525
@@ -47,7 +47,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'thunderstorm building codes',en,Mitigation,#33cc33,#9c9ede,1,0.0123079789858797
 'Konvektion',de,Causes,#00ffff,#00ffff,1,0.0100844346323871
 'Superzelle',de,Causes,#8e44ad,#8e44ad,1,0.0062616339319382
-'Grosshagel',de,Hazard,#e67e22,#e67e22,1,0.006166180171852825
+'Grosshagel',de,Hazard,#e67e22,#e67e22,1,0.0061661801718528
 'Hagelschaeden',de,Impacts,#2980b9,#2980b9,1,0.0061661801718528
 'Windscherung',de,Causes,#9e3215,#9e3215,1,0.0041894467030615
 'Nullgradgrenze',de,Causes,#8e44ad,#8e44ad,1,0.0038342198763546
