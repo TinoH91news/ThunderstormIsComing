@@ -4,7 +4,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Unwetter',de,Hazard,#ff0000,#ff0000,3,0.3626086218952721
 'Stromausfall',de,Impacts,#4287f5,#4287f5,3,0.3162228821667988
 'thunderstorm',en,Hazard,#ff0000,#ff0000,3,0.211618891687525
-'Unwetterwarnung',de,Mitigation,#33cc33,#33cc33,3,0.20625375679837674
+'Unwetterwarnung',de,Mitigation,#33cc33,#33cc33,3,0.2062537567983767
 'Gewitterwarnung',de,Mitigation,#00ff00,#00ff00,2,0.1909486692065997
 'thunderstorm lightning',en,Hazard,#a89216,#637939,3,0.1817229667534646
 'Aufwind',de,Causes,#8e44ad,#8e44ad,3,0.1662714979181934
@@ -18,7 +18,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'thunderstorm warning',en,Mitigation,#00ff00,#00ff00,3,0.1016974283183387
 'hail supercells',en,Causes,#8e44ad,#bdb76b,1,0.0949346446590533
 'Blitzableiter',de,Adaptation,#0000ff,#0000ff,1,0.0948280148383377
-'thunderstorm tornado',en,Hazard,#a89216,#393b79,3,0.0925664781957249
 'hail swath',en,Hazard,#e67e22,#ff6f61,1,0.0902644711412146
 'Blitzeinschlag',de,Impacts,#ffff00,#ffff00,1,0.0888678232086308
 'hail crop damage',en,Impacts,#2980b9,#ff7f0e,1,0.0887656307330487
@@ -27,6 +26,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Brand durch Blitzeinschlag',de,Impacts,#ffff00,#ffff00,1,0.0817184161096025
 'hail roof damage',en,Impacts,#2980b9,#e6550d,1,0.0814181221455559
 'large hail',en,Hazard,#e67e22,#d62728,3,0.0787514553417551
+'thunderstorm tornado',en,Hazard,#a89216,#393b79,2,0.07868240646636616
 'thunderstorm low pressure',en,Causes,#9e3215,#2ca02c,1,0.0778229129448924
 'thunderstorm wind shear',en,Causes,#9e3215,#31a354,1,0.077593504347148
 'hail insurance',en,Mitigation,#22cc44,#1f77b4,2,0.0762106761914233
