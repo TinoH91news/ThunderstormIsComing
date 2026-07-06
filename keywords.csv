@@ -3,8 +3,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gewitter',de,Hazard,#ff0000,#ff0000,3,0.3897167129861854
 'Unwetter',de,Hazard,#ff0000,#ff0000,3,0.3626086218952721
 'Stromausfall',de,Impacts,#4287f5,#4287f5,3,0.3162228821667988
+'Unwetterwarnung',de,Mitigation,#33cc33,#33cc33,3,0.24281666827862025
 'thunderstorm',en,Hazard,#ff0000,#ff0000,3,0.211618891687525
-'Unwetterwarnung',de,Mitigation,#33cc33,#33cc33,3,0.2062537567983767
 'Gewitterwarnung',de,Mitigation,#00ff00,#00ff00,2,0.1909486692065997
 'thunderstorm lightning',en,Hazard,#a89216,#637939,3,0.1817229667534646
 'Aufwind',de,Causes,#8e44ad,#8e44ad,3,0.1662714979181934
@@ -18,7 +18,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'lightning and thunder',en,Hazard,#ff0000,#ff0000,3,0.1029989758238915
 'thunderstorm warning',en,Mitigation,#00ff00,#00ff00,3,0.1016974283183387
 'hail supercells',en,Causes,#8e44ad,#bdb76b,1,0.0949346446590533
-'Blitzableiter',de,Adaptation,#0000ff,#0000ff,1,0.09234687975544417
+'Blitzableiter',de,Adaptation,#0000ff,#0000ff,1,0.0923468797554441
 'hail swath',en,Hazard,#e67e22,#ff6f61,1,0.0902644711412146
 'Blitzeinschlag',de,Impacts,#ffff00,#ffff00,1,0.0888678232086308
 'lightning rod',en,Adaptation,#0000ff,#0000ff,3,0.0869556284901159
