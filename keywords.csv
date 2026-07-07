@@ -31,11 +31,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'thunderstorm wind shear',en,Causes,#9e3215,#31a354,1,0.077593504347148
 'hail insurance',en,Mitigation,#22cc44,#1f77b4,2,0.0762106761914233
 'thunderstorm wind damage',en,Impacts,#4287f5,#8c6d31,1,0.0703110651154322
+'thunderstorm cell',en,Causes,#00ffff,#00ffff,1,0.06837282197989353
 'hail freezing level',en,Causes,#8e44ad,#17a2b8,1,0.0564705369454563
 'thunderstorm squall line',en,Hazard,#a89216,#636363,1,0.0511829351956368
-'Windscherung',de,Causes,#9e3215,#9e3215,1,0.049011074697602276
+'Windscherung',de,Causes,#9e3215,#9e3215,1,0.0490110746976022
 'thunderstorm flooding',en,Impacts,#4287f5,#9467bd,1,0.0483606368136621
-'thunderstorm cell',en,Causes,#00ffff,#00ffff,1,0.045516886643012
 'Hagelsturm',de,Hazard,#e67e22,#e67e22,1,0.0434478716455723
 'hail nets',en,Mitigation,#2ecc71,#8c564b,1,0.0416310193992323
 'thunderstorm convection',en,Causes,#9e3215,#17becf,1,0.0364858863018486
