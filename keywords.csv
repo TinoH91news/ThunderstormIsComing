@@ -2,7 +2,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hagel',de,Hazard,#e67e22,#e67e22,3,0.4190847861190838
 'Gewitter',de,Hazard,#ff0000,#ff0000,3,0.3897167129861854
 'Unwetter',de,Hazard,#ff0000,#ff0000,3,0.3626086218952721
-'Stromausfall',de,Impacts,#4287f5,#4287f5,3,0.3162228821667988
+'Stromausfall',de,Impacts,#4287f5,#4287f5,3,0.32283527893268804
 'Unwetterwarnung',de,Mitigation,#33cc33,#33cc33,3,0.2428166682786202
 'thunderstorm',en,Hazard,#ff0000,#ff0000,3,0.211618891687525
 'Gewitterwarnung',de,Mitigation,#00ff00,#00ff00,2,0.1909486692065997
@@ -31,7 +31,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'thunderstorm wind shear',en,Causes,#9e3215,#31a354,1,0.077593504347148
 'hail insurance',en,Mitigation,#22cc44,#1f77b4,2,0.0762106761914233
 'thunderstorm wind damage',en,Impacts,#4287f5,#8c6d31,1,0.0703110651154322
-'thunderstorm cell',en,Causes,#00ffff,#00ffff,1,0.06837282197989353
+'thunderstorm cell',en,Causes,#00ffff,#00ffff,1,0.0683728219798935
 'hail freezing level',en,Causes,#8e44ad,#17a2b8,1,0.0564705369454563
 'thunderstorm squall line',en,Hazard,#a89216,#636363,1,0.0511829351956368
 'Windscherung',de,Causes,#9e3215,#9e3215,1,0.0490110746976022
