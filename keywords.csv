@@ -13,12 +13,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hagelschaden am Auto',de,Impacts,#2980b9,#2980b9,2,0.127973779568291
 'thunderstorm power outages',en,Impacts,#4287f5,#7b4173,2,0.1212347753569045
 'hail impact resistant roofing',en,Mitigation,#2ecc71,#6b6ecf,1,0.1138392392605273
-'hail crop damage',en,Impacts,#2980b9,#ff7f0e,1,0.1051342694564247
 'thunderstorm early warning',en,Mitigation,#33cc33,#3182bd,2,0.1049702716345188
 'lightning and thunder',en,Hazard,#ff0000,#ff0000,3,0.1029989758238915
 'thunderstorm warning',en,Mitigation,#00ff00,#00ff00,3,0.1016974283183387
 'hail supercells',en,Causes,#8e44ad,#bdb76b,1,0.0949346446590533
 'Blitzableiter',de,Adaptation,#0000ff,#0000ff,1,0.0923468797554441
+'hail crop damage',en,Impacts,#2980b9,#ff7f0e,1,0.091164324037961
 'hail swath',en,Hazard,#e67e22,#ff6f61,1,0.0902644711412146
 'Blitzeinschlag',de,Impacts,#ffff00,#ffff00,1,0.0888678232086308
 'lightning rod',en,Adaptation,#0000ff,#0000ff,3,0.0869556284901159
