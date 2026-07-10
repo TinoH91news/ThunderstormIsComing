@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hagel',de,Hazard,#e67e22,#e67e22,3,0.4190847861190838
 'Gewitter',de,Hazard,#ff0000,#ff0000,3,0.3897167129861854
-'Unwetter',de,Hazard,#ff0000,#ff0000,3,0.3626086218952721
+'Unwetter',de,Hazard,#ff0000,#ff0000,3,0.3594358786109813
 'Stromausfall',de,Impacts,#4287f5,#4287f5,3,0.3129651920927848
 'Unwetterwarnung',de,Mitigation,#33cc33,#33cc33,3,0.2428166682786202
 'thunderstorm',en,Hazard,#ff0000,#ff0000,3,0.2217166229343962
@@ -23,7 +23,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Blitzeinschlag',de,Impacts,#ffff00,#ffff00,1,0.0888678232086308
 'lightning rod',en,Adaptation,#0000ff,#0000ff,3,0.0869556284901159
 'lightning fire',en,Impacts,#ffff00,#ffff00,3,0.0858989228951232
-'Hagelsturm',de,Hazard,#e67e22,#e67e22,1,0.08238073589873646
+'Hagelsturm',de,Hazard,#e67e22,#e67e22,1,0.0823807358987364
 'Brand durch Blitzeinschlag',de,Impacts,#ffff00,#ffff00,1,0.0817184161096025
 'hail roof damage',en,Impacts,#2980b9,#e6550d,1,0.0814181221455559
 'large hail',en,Hazard,#e67e22,#d62728,3,0.0787514553417551
