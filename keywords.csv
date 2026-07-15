@@ -29,9 +29,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'large hail',en,Hazard,#e67e22,#d62728,3,0.0787514553417551
 'thunderstorm tornado',en,Hazard,#a89216,#393b79,2,0.0786824064663661
 'thunderstorm low pressure',en,Causes,#9e3215,#2ca02c,1,0.0778229129448924
-'thunderstorm wind shear',en,Causes,#9e3215,#31a354,1,0.077593504347148
 'hail insurance',en,Mitigation,#22cc44,#1f77b4,2,0.0762106761914233
 'thunderstorm wind damage',en,Impacts,#4287f5,#8c6d31,1,0.0703110651154322
+'thunderstorm wind shear',en,Causes,#9e3215,#31a354,1,0.0667045536950758
 'thunderstorm cell',en,Causes,#00ffff,#00ffff,1,0.0594670336829094
 'hail freezing level',en,Causes,#8e44ad,#17a2b8,1,0.0564705369454563
 'thunderstorm squall line',en,Hazard,#a89216,#636363,1,0.0511829351956368
@@ -48,7 +48,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'thunderstorm building codes',en,Mitigation,#33cc33,#9c9ede,1,0.0123079789858797
 'Konvektion',de,Causes,#00ffff,#00ffff,1,0.0100844346323871
 'Hagelschaeden',de,Impacts,#2980b9,#2980b9,1,0.0052412531460748
-'Grosshagel',de,Hazard,#e67e22,#e67e22,1,0.003786805398038975
+'Grosshagel',de,Hazard,#e67e22,#e67e22,1,0.0037868053980389
 'Nullgradgrenze',de,Causes,#8e44ad,#8e44ad,1,0.0035591168949014
 'Superzelle',de,Causes,#8e44ad,#8e44ad,1,0.0032686120476836
 'Hagelwarnung',de,Mitigation,#2ecc71,#2ecc71,1,0.003218784588333
