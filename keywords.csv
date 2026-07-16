@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hagel',de,Hazard,#e67e22,#e67e22,3,0.4044290202979954
 'Gewitter',de,Hazard,#ff0000,#ff0000,3,0.3897167129861854
-'Unwetter',de,Hazard,#ff0000,#ff0000,3,0.37021317193492337
+'Unwetter',de,Hazard,#ff0000,#ff0000,3,0.3702131719349233
 'Stromausfall',de,Impacts,#4287f5,#4287f5,3,0.2945521489006732
 'Unwetterwarnung',de,Mitigation,#33cc33,#33cc33,3,0.2322889530368271
 'thunderstorm',en,Hazard,#ff0000,#ff0000,3,0.2217166229343962
@@ -37,8 +37,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'hail freezing level',en,Causes,#8e44ad,#17a2b8,1,0.0564705369454563
 'thunderstorm squall line',en,Hazard,#a89216,#636363,1,0.0511829351956368
 'thunderstorm flooding',en,Impacts,#4287f5,#9467bd,1,0.0483606368136621
-'Windscherung',de,Causes,#9e3215,#9e3215,1,0.0421094584929618
 'hail nets',en,Mitigation,#2ecc71,#8c564b,1,0.0416310193992323
+'Windscherung',de,Causes,#9e3215,#9e3215,1,0.03594305471901753
 'thunderstorm convection',en,Causes,#9e3215,#17becf,1,0.0313130333565713
 'hail strong updrafts',en,Causes,#8e44ad,#bcbd22,1,0.0267008660771445
 'hail vehicle shelters',en,Mitigation,#2ecc71,#e377c2,1,0.0266751589802329
