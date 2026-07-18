@@ -48,8 +48,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Dachschaden durch Hagel',de,Impacts,#2980b9,#2980b9,1,0.0128230835312499
 'thunderstorm building codes',en,Mitigation,#33cc33,#9c9ede,1,0.0106117971379977
 'Konvektion',de,Causes,#00ffff,#00ffff,1,0.0100844346323871
-'Hagelschaeden',de,Impacts,#2980b9,#2980b9,1,0.0052412531460748
+'Hagelschaeden',de,Impacts,#2980b9,#2980b9,1,0.0044550651741635805
 'Grosshagel',de,Hazard,#e67e22,#e67e22,1,0.0037868053980389
-'Nullgradgrenze',de,Causes,#8e44ad,#8e44ad,1,0.00347529436066619
+'Nullgradgrenze',de,Causes,#8e44ad,#8e44ad,1,0.0034752943606661
 'Hagelwarnung',de,Mitigation,#2ecc71,#2ecc71,1,0.003218784588333
 'Ambosswolke',de,Causes,#00ffff,#00ffff,1,0.0017470843820247
