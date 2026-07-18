@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Unwetter',de,Hazard,#ff0000,#ff0000,3,0.4300992265992302
-'Hagel',de,Hazard,#e67e22,#e67e22,3,0.4044290202979954
+'Hagel',de,Hazard,#e67e22,#e67e22,3,0.40190647543511426
 'Gewitter',de,Hazard,#ff0000,#ff0000,3,0.3897167129861854
 'Stromausfall',de,Impacts,#4287f5,#4287f5,3,0.2962344624746631
 'thunderstorm',en,Hazard,#ff0000,#ff0000,3,0.2217166229343962
@@ -44,7 +44,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'hail vehicle shelters',en,Mitigation,#2ecc71,#e377c2,1,0.0266751589802329
 'hail dented vehicles',en,Impacts,#2980b9,#843c39,1,0.0251567337628551
 'anvil clouds',en,Causes,#00ffff,#00ffff,1,0.0227639776399196
-'thunderstorm flood barriers',en,Mitigation,#33cc33,#7f7f7f,1,0.01572915680600068
+'thunderstorm flood barriers',en,Mitigation,#33cc33,#7f7f7f,1,0.0157291568060006
 'Dachschaden durch Hagel',de,Impacts,#2980b9,#2980b9,1,0.0128230835312499
 'thunderstorm building codes',en,Mitigation,#33cc33,#9c9ede,1,0.0106117971379977
 'Konvektion',de,Causes,#00ffff,#00ffff,1,0.0100844346323871
