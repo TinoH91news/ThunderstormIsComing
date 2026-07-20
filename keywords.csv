@@ -7,8 +7,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Blitzeinschlag',de,Impacts,#ffff00,#ffff00,3,0.2181897404273266
 'Unwetterwarnung',de,Mitigation,#33cc33,#33cc33,3,0.2064515587909804
 'thunderstorm lightning',en,Hazard,#a89216,#637939,3,0.2038901789111963
+'hailstorm',en,Hazard,#e67e22,#756bb1,2,0.191577506556084
 'Gewitterwarnung',de,Mitigation,#00ff00,#00ff00,2,0.1657328691154046
-'hailstorm',en,Hazard,#e67e22,#756bb1,2,0.1595612959483341
 'Blitzschutz',de,Adaptation,#0000ff,#0000ff,1,0.1456702286799186
 'Aufwind',de,Causes,#8e44ad,#8e44ad,3,0.1401440898725378
 'Superzelle',de,Causes,#8e44ad,#8e44ad,2,0.137928335240531
@@ -21,7 +21,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'hail supercells',en,Causes,#8e44ad,#bdb76b,1,0.0949346446590533
 'Blitzableiter',de,Adaptation,#0000ff,#0000ff,1,0.0923468797554441
 'hail crop damage',en,Impacts,#2980b9,#ff7f0e,1,0.091164324037961
-'Hagelsturm',de,Hazard,#e67e22,#e67e22,1,0.09035944479964023
+'Hagelsturm',de,Hazard,#e67e22,#e67e22,1,0.0903594447996402
 'hail swath',en,Hazard,#e67e22,#ff6f61,1,0.0902644711412146
 'lightning fire',en,Impacts,#ffff00,#ffff00,3,0.0858989228951232
 'Brand durch Blitzeinschlag',de,Impacts,#ffff00,#ffff00,1,0.0817184161096025
