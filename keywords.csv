@@ -3,9 +3,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hagel',de,Hazard,#e67e22,#e67e22,3,0.4019064754351142
 'Gewitter',de,Hazard,#ff0000,#ff0000,3,0.3975935124018939
 'Stromausfall',de,Impacts,#4287f5,#4287f5,3,0.2690282003761909
-'Superzelle',de,Causes,#8e44ad,#8e44ad,3,0.23438945995445143
+'Blitzeinschlag',de,Impacts,#ffff00,#ffff00,3,0.23541370936322764
+'Superzelle',de,Causes,#8e44ad,#8e44ad,3,0.2343894599544514
 'thunderstorm',en,Hazard,#ff0000,#ff0000,3,0.2217166229343962
-'Blitzeinschlag',de,Impacts,#ffff00,#ffff00,3,0.2181897404273266
 'Unwetterwarnung',de,Mitigation,#33cc33,#33cc33,3,0.2064515587909804
 'thunderstorm lightning',en,Hazard,#a89216,#637939,3,0.2038901789111963
 'hailstorm',en,Hazard,#e67e22,#756bb1,2,0.191577506556084
