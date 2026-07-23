@@ -24,6 +24,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hagelsturm',de,Hazard,#e67e22,#e67e22,1,0.0903594447996402
 'hail swath',en,Hazard,#e67e22,#ff6f61,1,0.0902644711412146
 'lightning fire',en,Impacts,#ffff00,#ffff00,3,0.0858989228951232
+'thunderstorm wind damage',en,Impacts,#4287f5,#8c6d31,2,0.08376487034811737
 'Brand durch Blitzeinschlag',de,Impacts,#ffff00,#ffff00,1,0.0817184161096025
 'hail roof damage',en,Impacts,#2980b9,#e6550d,1,0.0814181221455559
 'lightning rod',en,Adaptation,#0000ff,#0000ff,3,0.0788654492165985
@@ -31,7 +32,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'thunderstorm tornado',en,Hazard,#a89216,#393b79,2,0.0786824064663661
 'thunderstorm low pressure',en,Causes,#9e3215,#2ca02c,1,0.0778229129448924
 'hail insurance',en,Mitigation,#22cc44,#1f77b4,2,0.0762106761914233
-'thunderstorm wind damage',en,Impacts,#4287f5,#8c6d31,1,0.0703110651154322
 'thunderstorm wind shear',en,Causes,#9e3215,#31a354,1,0.0630490056408144
 'thunderstorm cell',en,Causes,#00ffff,#00ffff,1,0.0594670336829094
 'hail freezing level',en,Causes,#8e44ad,#17a2b8,1,0.0564705369454563
