@@ -24,7 +24,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hagelsturm',de,Hazard,#e67e22,#e67e22,1,0.0903594447996402
 'hail swath',en,Hazard,#e67e22,#ff6f61,1,0.0902644711412146
 'lightning fire',en,Impacts,#ffff00,#ffff00,3,0.0858989228951232
-'thunderstorm wind damage',en,Impacts,#4287f5,#8c6d31,2,0.08376487034811737
+'thunderstorm wind damage',en,Impacts,#4287f5,#8c6d31,2,0.0837648703481173
 'Brand durch Blitzeinschlag',de,Impacts,#ffff00,#ffff00,1,0.0817184161096025
 'hail roof damage',en,Impacts,#2980b9,#e6550d,1,0.0814181221455559
 'lightning rod',en,Adaptation,#0000ff,#0000ff,3,0.0788654492165985
@@ -48,7 +48,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Dachschaden durch Hagel',de,Impacts,#2980b9,#2980b9,1,0.0128230835312499
 'thunderstorm building codes',en,Mitigation,#33cc33,#9c9ede,1,0.0106117971379977
 'Konvektion',de,Causes,#00ffff,#00ffff,1,0.0100844346323871
-'Hagelschaeden',de,Impacts,#2980b9,#2980b9,1,0.0044550651741635
+'Hagelschaeden',de,Impacts,#2980b9,#2980b9,1,0.003786805398038975
 'Grosshagel',de,Hazard,#e67e22,#e67e22,1,0.0037868053980389
 'Nullgradgrenze',de,Causes,#8e44ad,#8e44ad,1,0.0034752943606661
 'Hagelwarnung',de,Mitigation,#2ecc71,#2ecc71,1,0.002885981900083
