@@ -14,8 +14,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Blitzschutz',de,Adaptation,#0000ff,#0000ff,1,0.1456702286799186
 'thunderstorm warning',en,Mitigation,#00ff00,#00ff00,3,0.1302888674576846
 'Hagelschaden am Auto',de,Impacts,#2980b9,#2980b9,2,0.127973779568291
-'thunderstorm power outages',en,Impacts,#4287f5,#7b4173,2,0.1212347753569045
 'hail impact resistant roofing',en,Mitigation,#2ecc71,#6b6ecf,1,0.1138392392605273
+'thunderstorm power outages',en,Impacts,#4287f5,#7b4173,2,0.10634991905336882
 'thunderstorm early warning',en,Mitigation,#33cc33,#3182bd,2,0.1049702716345188
 'lightning and thunder',en,Hazard,#ff0000,#ff0000,3,0.1029989758238915
 'hail supercells',en,Causes,#8e44ad,#bdb76b,1,0.0949346446590533
