@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hagel',de,Hazard,#e67e22,#e67e22,3,0.4130715277745972
 'Unwetter',de,Hazard,#ff0000,#ff0000,3,0.4114521185184366
-'Gewitter',de,Hazard,#ff0000,#ff0000,3,0.35924134600582286
+'Gewitter',de,Hazard,#ff0000,#ff0000,3,0.3592413460058228
 'thunderstorm',en,Hazard,#ff0000,#ff0000,3,0.249453483779951
 'Blitzeinschlag',de,Impacts,#ffff00,#ffff00,3,0.2354137093632276
 'Stromausfall',de,Impacts,#4287f5,#4287f5,3,0.2089975951827944
@@ -49,7 +49,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'thunderstorm building codes',en,Mitigation,#33cc33,#9c9ede,1,0.0106117971379977
 'Konvektion',de,Causes,#00ffff,#00ffff,1,0.009321844437529
 'Nullgradgrenze',de,Causes,#8e44ad,#8e44ad,1,0.0034040452065661
-'Grosshagel',de,Hazard,#e67e22,#e67e22,1,0.003218784588333
 'Hagelschaeden',de,Impacts,#2980b9,#2980b9,1,0.003218784588333
 'Hagelwarnung',de,Mitigation,#2ecc71,#2ecc71,1,0.002885981900083
+'Grosshagel',de,Hazard,#e67e22,#e67e22,1,0.00273596690008305
 'Ambosswolke',de,Causes,#00ffff,#00ffff,1,0.0012622684660127
