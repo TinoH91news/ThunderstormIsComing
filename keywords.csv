@@ -9,7 +9,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Superzelle',de,Causes,#8e44ad,#8e44ad,2,0.1679954453695273
 'hailstorm',en,Hazard,#e67e22,#756bb1,2,0.1562138568488396
 'thunderstorm warning',en,Mitigation,#00ff00,#00ff00,3,0.1525156691572137
-'thunderstorm squall line',en,Hazard,#a89216,#636363,2,0.15200719842884752
+'thunderstorm squall line',en,Hazard,#a89216,#636363,2,0.1520071984288475
 'Unwetterwarnung',de,Mitigation,#33cc33,#33cc33,2,0.1475371931300108
 'Aufwind',de,Causes,#8e44ad,#8e44ad,3,0.1468735413916571
 'Blitzschutz',de,Adaptation,#0000ff,#0000ff,1,0.1456702286799186
@@ -51,5 +51,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hagelschaeden',de,Impacts,#2980b9,#2980b9,1,0.003218784588333
 'Nullgradgrenze',de,Causes,#8e44ad,#8e44ad,1,0.0031934684255811
 'Hagelwarnung',de,Mitigation,#2ecc71,#2ecc71,1,0.002885981900083
-'Grosshagel',de,Hazard,#e67e22,#e67e22,1,0.002735966900083
+'Grosshagel',de,Hazard,#e67e22,#e67e22,1,0.00232557186507055
 'Ambosswolke',de,Causes,#00ffff,#00ffff,1,0.0012622684660127
