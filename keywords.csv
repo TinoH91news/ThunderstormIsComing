@@ -8,7 +8,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'thunderstorm lightning',en,Hazard,#a89216,#637939,3,0.1908076353477548
 'thunderstorm squall line',en,Hazard,#a89216,#636363,2,0.1786555099162912
 'Superzelle',de,Causes,#8e44ad,#8e44ad,2,0.1679954453695273
-'hailstorm',en,Hazard,#e67e22,#756bb1,1,0.1628413305726714
+'hailstorm',en,Hazard,#e67e22,#756bb1,2,0.15621385684883965
 'thunderstorm warning',en,Mitigation,#00ff00,#00ff00,3,0.1525156691572137
 'Unwetterwarnung',de,Mitigation,#33cc33,#33cc33,2,0.1475371931300108
 'Aufwind',de,Causes,#8e44ad,#8e44ad,3,0.1468735413916571
