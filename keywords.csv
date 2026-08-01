@@ -7,10 +7,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Stromausfall',de,Impacts,#4287f5,#4287f5,3,0.2089975951827944
 'thunderstorm lightning',en,Hazard,#a89216,#637939,3,0.1908076353477548
 'thunderstorm squall line',en,Hazard,#a89216,#636363,2,0.1786555099162912
-'Unwetterwarnung',de,Mitigation,#33cc33,#33cc33,3,0.1735723389764833
 'Superzelle',de,Causes,#8e44ad,#8e44ad,2,0.1679954453695273
 'hailstorm',en,Hazard,#e67e22,#756bb1,1,0.1628413305726714
 'thunderstorm warning',en,Mitigation,#00ff00,#00ff00,3,0.1525156691572137
+'Unwetterwarnung',de,Mitigation,#33cc33,#33cc33,2,0.1475371931300108
 'Aufwind',de,Causes,#8e44ad,#8e44ad,3,0.1468735413916571
 'Blitzschutz',de,Adaptation,#0000ff,#0000ff,1,0.1456702286799186
 'Gewitterwarnung',de,Mitigation,#00ff00,#00ff00,1,0.1408734037480939
@@ -49,7 +49,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'thunderstorm building codes',en,Mitigation,#33cc33,#9c9ede,1,0.0106117971379977
 'Konvektion',de,Causes,#00ffff,#00ffff,1,0.009321844437529
 'Hagelschaeden',de,Impacts,#2980b9,#2980b9,1,0.003218784588333
-'Nullgradgrenze',de,Causes,#8e44ad,#8e44ad,1,0.003193468425581185
+'Nullgradgrenze',de,Causes,#8e44ad,#8e44ad,1,0.0031934684255811
 'Hagelwarnung',de,Mitigation,#2ecc71,#2ecc71,1,0.002885981900083
 'Grosshagel',de,Hazard,#e67e22,#e67e22,1,0.002735966900083
 'Ambosswolke',de,Causes,#00ffff,#00ffff,1,0.0012622684660127
