@@ -25,7 +25,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'hail swath',en,Hazard,#e67e22,#ff6f61,1,0.0902644711412146
 'lightning fire',en,Impacts,#ffff00,#ffff00,3,0.0858989228951232
 'hail roof damage',en,Impacts,#2980b9,#e6550d,2,0.0847784610964497
-'thunderstorm wind damage',en,Impacts,#4287f5,#8c6d31,2,0.0837648703481173
+'thunderstorm wind damage',en,Impacts,#4287f5,#8c6d31,2,0.0844381197958997
 'Brand durch Blitzeinschlag',de,Impacts,#ffff00,#ffff00,1,0.0817184161096025
 'large hail',en,Hazard,#e67e22,#d62728,3,0.0804420520404918
 'lightning rod',en,Adaptation,#0000ff,#0000ff,3,0.0788654492165985
