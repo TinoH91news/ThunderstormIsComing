@@ -2,8 +2,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hagel',de,Hazard,#e67e22,#e67e22,3,0.4698221486084075
 'Unwetter',de,Hazard,#ff0000,#ff0000,3,0.3792374502861256
 'Gewitter',de,Hazard,#ff0000,#ff0000,3,0.3307712395594948
-'thunderstorm',en,Hazard,#ff0000,#ff0000,3,0.249453483779951
 'Blitzeinschlag',de,Impacts,#ffff00,#ffff00,3,0.2354137093632276
+'thunderstorm',en,Hazard,#ff0000,#ff0000,3,0.2244341016968293
 'Stromausfall',de,Impacts,#4287f5,#4287f5,3,0.2089975951827944
 'thunderstorm lightning',en,Hazard,#a89216,#637939,3,0.1908076353477548
 'Superzelle',de,Causes,#8e44ad,#8e44ad,2,0.1679954453695273
@@ -18,7 +18,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'hail impact resistant roofing',en,Mitigation,#2ecc71,#6b6ecf,1,0.1138392392605273
 'thunderstorm early warning',en,Mitigation,#33cc33,#3182bd,2,0.1049702716345188
 'lightning and thunder',en,Hazard,#ff0000,#ff0000,3,0.1029989758238915
-'Blitzschutz',de,Adaptation,#0000ff,#0000ff,1,0.10175093300055493
+'Blitzschutz',de,Adaptation,#0000ff,#0000ff,1,0.1017509330005549
 'Blitzableiter',de,Adaptation,#0000ff,#0000ff,1,0.0923468797554441
 'thunderstorm power outages',en,Impacts,#4287f5,#7b4173,1,0.0903977761953634
 'Hagelsturm',de,Hazard,#e67e22,#e67e22,1,0.0903594447996402
