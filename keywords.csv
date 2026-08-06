@@ -30,7 +30,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'large hail',en,Hazard,#e67e22,#d62728,3,0.0804420520404918
 'lightning rod',en,Adaptation,#0000ff,#0000ff,3,0.0788654492165985
 'thunderstorm low pressure',en,Causes,#9e3215,#2ca02c,1,0.0778229129448924
-'Hagelsturm',de,Hazard,#e67e22,#e67e22,1,0.07770561807969417
+'Hagelsturm',de,Hazard,#e67e22,#e67e22,1,0.0777056180796941
 'hail crop damage',en,Impacts,#2980b9,#ff7f0e,1,0.0765089288674267
 'hail insurance',en,Mitigation,#22cc44,#1f77b4,2,0.0762106761914233
 'thunderstorm wind shear',en,Causes,#9e3215,#31a354,1,0.0630490056408144
@@ -49,7 +49,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'thunderstorm building codes',en,Mitigation,#33cc33,#9c9ede,1,0.0106117971379977
 'Konvektion',de,Causes,#00ffff,#00ffff,1,0.009321844437529
 'Nullgradgrenze',de,Causes,#8e44ad,#8e44ad,1,0.0031934684255811
-'Hagelwarnung',de,Mitigation,#2ecc71,#2ecc71,1,0.002885981900083
 'Hagelschaeden',de,Impacts,#2980b9,#2980b9,1,0.002735966900083
+'Hagelwarnung',de,Mitigation,#2ecc71,#2ecc71,1,0.00245308461507055
 'Grosshagel',de,Hazard,#e67e22,#e67e22,1,0.0023255718650705
 'Ambosswolke',de,Causes,#00ffff,#00ffff,1,0.0012622684660127
