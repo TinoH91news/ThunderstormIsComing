@@ -22,13 +22,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Blitzableiter',de,Adaptation,#0000ff,#0000ff,1,0.0923468797554441
 'thunderstorm power outages',en,Impacts,#4287f5,#7b4173,1,0.0903977761953634
 'hail swath',en,Hazard,#e67e22,#ff6f61,1,0.0902644711412146
-'hail roof damage',en,Impacts,#2980b9,#e6550d,2,0.08809529526531557
+'lightning rod',en,Adaptation,#0000ff,#0000ff,3,0.08918331183410871
+'hail roof damage',en,Impacts,#2980b9,#e6550d,2,0.0880952952653155
 'lightning fire',en,Impacts,#ffff00,#ffff00,3,0.0858989228951232
 'thunderstorm wind damage',en,Impacts,#4287f5,#8c6d31,2,0.0844381197958997
 'thunderstorm tornado',en,Hazard,#a89216,#393b79,2,0.0843807654964111
 'Brand durch Blitzeinschlag',de,Impacts,#ffff00,#ffff00,1,0.0817184161096025
 'large hail',en,Hazard,#e67e22,#d62728,3,0.0804420520404918
-'lightning rod',en,Adaptation,#0000ff,#0000ff,3,0.0788654492165985
 'thunderstorm low pressure',en,Causes,#9e3215,#2ca02c,1,0.0778229129448924
 'Hagelsturm',de,Hazard,#e67e22,#e67e22,1,0.0777056180796941
 'hail crop damage',en,Impacts,#2980b9,#ff7f0e,1,0.0765089288674267
