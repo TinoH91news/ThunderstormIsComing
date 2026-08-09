@@ -30,9 +30,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Brand durch Blitzeinschlag',de,Impacts,#ffff00,#ffff00,1,0.0817184161096025
 'large hail',en,Hazard,#e67e22,#d62728,3,0.0804420520404918
 'thunderstorm low pressure',en,Causes,#9e3215,#2ca02c,1,0.0778229129448924
-'Hagelsturm',de,Hazard,#e67e22,#e67e22,1,0.0777056180796941
 'hail crop damage',en,Impacts,#2980b9,#ff7f0e,1,0.0765089288674267
 'hail insurance',en,Mitigation,#22cc44,#1f77b4,2,0.0762106761914233
+'Hagelsturm',de,Hazard,#e67e22,#e67e22,1,0.06694986536773999
 'thunderstorm wind shear',en,Causes,#9e3215,#31a354,1,0.0630490056408144
 'thunderstorm cell',en,Causes,#00ffff,#00ffff,1,0.0594670336829094
 'hail freezing level',en,Causes,#8e44ad,#17a2b8,1,0.0564705369454563
