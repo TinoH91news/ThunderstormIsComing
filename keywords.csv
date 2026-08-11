@@ -9,10 +9,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'thunderstorm lightning',en,Hazard,#a89216,#637939,3,0.1777695700455915
 'Unwetterwarnung',de,Mitigation,#33cc33,#33cc33,2,0.1712662150696
 'thunderstorm squall line',en,Hazard,#a89216,#636363,2,0.1520071984288475
-'thunderstorm warning',en,Mitigation,#00ff00,#00ff00,3,0.14990846378363162
 'Superzelle',de,Causes,#8e44ad,#8e44ad,2,0.1430966535640982
 'Gewitterwarnung',de,Mitigation,#00ff00,#00ff00,1,0.1408734037480939
 'hailstorm',en,Hazard,#e67e22,#756bb1,1,0.1327822433215136
+'thunderstorm warning',en,Mitigation,#00ff00,#00ff00,3,0.13162360421608685
 'Hagelschaden am Auto',de,Impacts,#2980b9,#2980b9,2,0.127973779568291
 'hail supercells',en,Causes,#8e44ad,#bdb76b,1,0.1261444929601953
 'hail impact resistant roofing',en,Mitigation,#2ecc71,#6b6ecf,1,0.1138392392605273
