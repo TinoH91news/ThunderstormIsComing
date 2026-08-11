@@ -46,7 +46,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'anvil clouds',en,Causes,#00ffff,#00ffff,1,0.0227639776399196
 'Dachschaden durch Hagel',de,Impacts,#2980b9,#2980b9,1,0.0128230835312499
 'thunderstorm flood barriers',en,Mitigation,#33cc33,#7f7f7f,1,0.0113643157923354
-'thunderstorm building codes',en,Mitigation,#33cc33,#9c9ede,1,0.0106117971379977
+'thunderstorm building codes',en,Mitigation,#33cc33,#9c9ede,1,0.009170042567298043
 'Konvektion',de,Causes,#00ffff,#00ffff,1,0.0082235977718996
 'Nullgradgrenze',de,Causes,#8e44ad,#8e44ad,1,0.0038224324374823
 'Hagelschaeden',de,Impacts,#2980b9,#2980b9,1,0.002735966900083
