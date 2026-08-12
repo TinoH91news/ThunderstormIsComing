@@ -43,11 +43,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'hail vehicle shelters',en,Mitigation,#2ecc71,#e377c2,1,0.0266751589802329
 'Windscherung',de,Causes,#9e3215,#9e3215,1,0.02641890203449
 'hail dented vehicles',en,Impacts,#2980b9,#843c39,1,0.0251567337628551
-'anvil clouds',en,Causes,#00ffff,#00ffff,1,0.019649410993931662
+'anvil clouds',en,Causes,#00ffff,#00ffff,1,0.0196494109939316
 'Dachschaden durch Hagel',de,Impacts,#2980b9,#2980b9,1,0.0128230835312499
 'thunderstorm flood barriers',en,Mitigation,#33cc33,#7f7f7f,1,0.0113643157923354
-'thunderstorm building codes',en,Mitigation,#33cc33,#9c9ede,1,0.009170042567298
 'Konvektion',de,Causes,#00ffff,#00ffff,1,0.0082235977718996
+'thunderstorm building codes',en,Mitigation,#33cc33,#9c9ede,1,0.0079445511822033
 'Nullgradgrenze',de,Causes,#8e44ad,#8e44ad,1,0.0038224324374823
 'Hagelschaeden',de,Impacts,#2980b9,#2980b9,1,0.002735966900083
 'Hagelwarnung',de,Mitigation,#2ecc71,#2ecc71,1,0.0024530846150705
