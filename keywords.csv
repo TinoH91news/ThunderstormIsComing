@@ -13,7 +13,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'hail swath',en,Hazard,#e67e22,#ff6f61,1,0.1335748754700323
 'hailstorm',en,Hazard,#e67e22,#756bb1,1,0.1327822433215136
 'thunderstorm warning',en,Mitigation,#00ff00,#00ff00,3,0.1316236042160868
-'thunderstorm squall line',en,Hazard,#a89216,#636363,2,0.12935613366452037
+'thunderstorm squall line',en,Hazard,#a89216,#636363,2,0.1293561336645203
 'Hagelschaden am Auto',de,Impacts,#2980b9,#2980b9,2,0.127973779568291
 'hail supercells',en,Causes,#8e44ad,#bdb76b,1,0.1261444929601953
 'hail impact resistant roofing',en,Mitigation,#2ecc71,#6b6ecf,1,0.1138392392605273
@@ -32,9 +32,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'thunderstorm low pressure',en,Causes,#9e3215,#2ca02c,1,0.0778229129448924
 'hail crop damage',en,Impacts,#2980b9,#ff7f0e,1,0.0765089288674267
 'hail insurance',en,Mitigation,#22cc44,#1f77b4,2,0.0762106761914233
-'Hagelsturm',de,Hazard,#e67e22,#e67e22,1,0.0669498653677399
 'thunderstorm wind shear',en,Causes,#9e3215,#31a354,1,0.0630490056408144
 'thunderstorm cell',en,Causes,#00ffff,#00ffff,1,0.0594670336829094
+'Hagelsturm',de,Hazard,#e67e22,#e67e22,1,0.05765746056257892
 'hail freezing level',en,Causes,#8e44ad,#17a2b8,1,0.0564705369454563
 'thunderstorm flooding',en,Impacts,#4287f5,#9467bd,1,0.0483606368136621
 'hail strong updrafts',en,Causes,#8e44ad,#bcbd22,1,0.0474458261655728
