@@ -23,7 +23,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'thunderstorm power outages',en,Impacts,#4287f5,#7b4173,1,0.0903977761953634
 'lightning rod',en,Adaptation,#0000ff,#0000ff,3,0.0891833118341087
 'hail roof damage',en,Impacts,#2980b9,#e6550d,2,0.0880952952653155
-'Blitzschutz',de,Adaptation,#0000ff,#0000ff,1,0.08768841305047166
+'Blitzschutz',de,Adaptation,#0000ff,#0000ff,1,0.0876884130504716
 'lightning fire',en,Impacts,#ffff00,#ffff00,3,0.0858989228951232
 'thunderstorm wind damage',en,Impacts,#4287f5,#8c6d31,2,0.0844381197958997
 'thunderstorm tornado',en,Hazard,#a89216,#393b79,2,0.0843807654964111
@@ -52,4 +52,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hagelwarnung',de,Mitigation,#2ecc71,#2ecc71,1,0.0024530846150705
 'Hagelschaeden',de,Impacts,#2980b9,#2980b9,1,0.0023255718650705
 'Grosshagel',de,Hazard,#e67e22,#e67e22,1,0.0019767360853099
-'Ambosswolke',de,Causes,#00ffff,#00ffff,1,0.0012622684660127
+'Ambosswolke',de,Causes,#00ffff,#00ffff,1,0.001072928196110795
