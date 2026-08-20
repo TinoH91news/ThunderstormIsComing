@@ -19,8 +19,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'hail impact resistant roofing',en,Mitigation,#2ecc71,#6b6ecf,1,0.1138392392605273
 'thunderstorm early warning',en,Mitigation,#33cc33,#3182bd,2,0.1047978031620682
 'lightning and thunder',en,Hazard,#ff0000,#ff0000,3,0.1029989758238915
+'thunderstorm power outages',en,Impacts,#4287f5,#7b4173,1,0.09527073270723536
 'Blitzableiter',de,Adaptation,#0000ff,#0000ff,1,0.0923468797554441
-'thunderstorm power outages',en,Impacts,#4287f5,#7b4173,1,0.0903977761953634
 'lightning rod',en,Adaptation,#0000ff,#0000ff,3,0.0891833118341087
 'hail roof damage',en,Impacts,#2980b9,#e6550d,2,0.0880952952653155
 'Blitzschutz',de,Adaptation,#0000ff,#0000ff,1,0.0876884130504716
