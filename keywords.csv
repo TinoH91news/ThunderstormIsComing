@@ -24,14 +24,14 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'large hail',en,Hazard,#e67e22,#d62728,3,0.088379104234418
 'thunderstorm power outages',en,Impacts,#4287f5,#7b4173,1,0.08619287780115
 'lightning fire',en,Impacts,#ffff00,#ffff00,3,0.0858989228951232
-'thunderstorm tornado',en,Hazard,#a89216,#393b79,2,0.0843807654964111
 'Brand durch Blitzeinschlag',de,Impacts,#ffff00,#ffff00,1,0.0817184161096025
 'hail crop damage',en,Impacts,#2980b9,#ff7f0e,1,0.0765089288674267
 'hail insurance',en,Mitigation,#22cc44,#1f77b4,2,0.0762106761914233
 'hail roof damage',en,Impacts,#2980b9,#e6550d,1,0.0748812409755181
 'Blitzschutz',de,Adaptation,#0000ff,#0000ff,1,0.0745351510929008
+'thunderstorm tornado',en,Hazard,#a89216,#393b79,2,0.07232420567194944
 'thunderstorm wind damage',en,Impacts,#4287f5,#8c6d31,1,0.0717727468265147
-'Blitzableiter',de,Adaptation,#0000ff,#0000ff,1,0.07035098362330829
+'Blitzableiter',de,Adaptation,#0000ff,#0000ff,1,0.0703509836233082
 'thunderstorm wind shear',en,Causes,#9e3215,#31a354,1,0.0630490056408144
 'thunderstorm cell',en,Causes,#00ffff,#00ffff,1,0.0594670336829094
 'hail freezing level',en,Causes,#8e44ad,#17a2b8,1,0.0564705369454563
