@@ -5,7 +5,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Blitzeinschlag',de,Impacts,#ffff00,#ffff00,3,0.3064732327422046
 'Stromausfall',de,Impacts,#4287f5,#4287f5,3,0.2438779765052699
 'thunderstorm',en,Hazard,#ff0000,#ff0000,3,0.2377615264423049
-'Aufwind',de,Causes,#8e44ad,#8e44ad,3,0.225935881329755
+'Aufwind',de,Causes,#8e44ad,#8e44ad,3,0.21109704413029176
 'Superzelle',de,Causes,#8e44ad,#8e44ad,1,0.1784135294907697
 'thunderstorm lightning',en,Hazard,#a89216,#637939,3,0.1777695700455915
 'Unwetterwarnung',de,Mitigation,#33cc33,#33cc33,1,0.14557673280916
@@ -44,7 +44,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'thunderstorm convection',en,Causes,#9e3215,#17becf,1,0.0230287071001227
 'Windscherung',de,Causes,#9e3215,#9e3215,1,0.019897737719919
 'anvil clouds',en,Causes,#00ffff,#00ffff,1,0.0196494109939316
-'Dachschaden durch Hagel',de,Impacts,#2980b9,#2980b9,1,0.010899621001562415
+'Dachschaden durch Hagel',de,Impacts,#2980b9,#2980b9,1,0.0108996210015624
 'thunderstorm flood barriers',en,Mitigation,#33cc33,#7f7f7f,1,0.009809683423485
 'thunderstorm building codes',en,Mitigation,#33cc33,#9c9ede,1,0.0079445511822033
 'Konvektion',de,Causes,#00ffff,#00ffff,1,0.0067741326401974
