@@ -5,7 +5,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Blitzeinschlag',de,Impacts,#ffff00,#ffff00,3,0.3064732327422046
 'Stromausfall',de,Impacts,#4287f5,#4287f5,3,0.2438779765052699
 'thunderstorm',en,Hazard,#ff0000,#ff0000,3,0.2377615264423049
-'Unwetterwarnung',de,Mitigation,#33cc33,#33cc33,3,0.23624067288778605
+'Unwetterwarnung',de,Mitigation,#33cc33,#33cc33,3,0.236240672887786
 'Aufwind',de,Causes,#8e44ad,#8e44ad,3,0.2110970441302917
 'Superzelle',de,Causes,#8e44ad,#8e44ad,1,0.1784135294907697
 'thunderstorm lightning',en,Hazard,#a89216,#637939,3,0.1777695700455915
@@ -41,7 +41,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'hail nets',en,Mitigation,#2ecc71,#8c564b,1,0.0359864264893474
 'hail vehicle shelters',en,Mitigation,#2ecc71,#e377c2,1,0.0266751589802329
 'hail dented vehicles',en,Impacts,#2980b9,#843c39,1,0.0251567337628551
-'thunderstorm convection',en,Causes,#9e3215,#17becf,1,0.0230287071001227
+'thunderstorm convection',en,Causes,#9e3215,#17becf,1,0.019874431035104296
 'anvil clouds',en,Causes,#00ffff,#00ffff,1,0.0196494109939316
 'Windscherung',de,Causes,#9e3215,#9e3215,1,0.0170630920619311
 'Dachschaden durch Hagel',de,Impacts,#2980b9,#2980b9,1,0.0108996210015624
