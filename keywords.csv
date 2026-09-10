@@ -35,15 +35,15 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Blitzableiter',de,Adaptation,#0000ff,#0000ff,1,0.0703509836233082
 'hail freezing level',en,Causes,#8e44ad,#17a2b8,1,0.0577500314036378
 'thunderstorm wind shear',en,Causes,#9e3215,#31a354,1,0.0541917147946922
-'thunderstorm cell',en,Causes,#00ffff,#00ffff,1,0.05159708363047299
+'thunderstorm cell',en,Causes,#00ffff,#00ffff,1,0.0515970836304729
 'Hagelsturm',de,Hazard,#e67e22,#e67e22,1,0.049008841478192
 'thunderstorm flooding',en,Impacts,#4287f5,#9467bd,1,0.0483606368136621
 'hail strong updrafts',en,Causes,#8e44ad,#bcbd22,1,0.0410790422407368
 'hail nets',en,Mitigation,#2ecc71,#8c564b,1,0.0359864264893474
 'hail vehicle shelters',en,Mitigation,#2ecc71,#e377c2,1,0.0266751589802329
 'hail dented vehicles',en,Impacts,#2980b9,#843c39,1,0.0251567337628551
-'thunderstorm convection',en,Causes,#9e3215,#17becf,1,0.0198744310351042
 'anvil clouds',en,Causes,#00ffff,#00ffff,1,0.0196494109939316
+'thunderstorm convection',en,Causes,#9e3215,#17becf,1,0.017193296379838567
 'Windscherung',de,Causes,#9e3215,#9e3215,1,0.0170630920619311
 'Dachschaden durch Hagel',de,Impacts,#2980b9,#2980b9,1,0.0108996210015624
 'thunderstorm building codes',en,Mitigation,#33cc33,#9c9ede,1,0.0079445511822033
