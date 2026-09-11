@@ -51,5 +51,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nullgradgrenze',de,Causes,#8e44ad,#8e44ad,1,0.0048992325718599
 'Grosshagel',de,Hazard,#e67e22,#e67e22,1,0.0019767360853099
 'Hagelwarnung',de,Mitigation,#2ecc71,#2ecc71,1,0.0017723686343884
-'Hagelschaeden',de,Impacts,#2980b9,#2980b9,1,0.00142819182163639
-'Ambosswolke',de,Causes,#00ffff,#00ffff,1,0.000911988966694
+'Hagelschaeden',de,Impacts,#2980b9,#2980b9,1,0.0014281918216363
+'Ambosswolke',de,Causes,#00ffff,#00ffff,1,0.0007751906216899
