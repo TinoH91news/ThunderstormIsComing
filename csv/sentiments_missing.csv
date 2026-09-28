@@ -273,13 +273,13 @@ Juni 2024,Juni 2024,DATE,,,de,2.8
 National Mall,National Mall,FAC,,,en,2.8
 later in the day,later in the day,TIME,,,en,2.8
 English,English,LANGUAGE,,,en,2.8
-Bengaluru,Bengaluru,WORK_OF_ART,0.011415525114155249,0.10730593607305935,en,2.8
+Wednesday evening,Wednesday evening,TIME,,,en,2.8
 at least 20,at least 20,CARDINAL,,,en,2.8
 February,February,DATE,,,en,2.8
 86,86,CARDINAL,,,de,2.8
 a decade,a decade,DATE,,,en,2.8
 Eisregen,Eisregen,NORP,,,de,2.8
-Wednesday evening,Wednesday evening,TIME,,,en,2.8
+Bengaluru,Bengaluru,WORK_OF_ART,0.011415525114155249,0.10730593607305935,en,2.8
 135,135,CARDINAL,,,de,2.8
 5000,5000,CARDINAL,,,de,2.8
 Unwettern,Unwettern,NORP,,,de,2.8
@@ -417,10 +417,10 @@ The weekend,The weekend,DATE,,,en,1.9
 around 11,around 11,DATE,,,en,1.9
 Winter i,Winter i,DATE,,,de,1.9
 1.600,1.600,CARDINAL,,,de,1.9
+Biertornados,Biertornados,NORP,,,de,1.9
 at least 35,at least 35,CARDINAL,,,en,1.9
 a matter of hours,a matter of hours,TIME,,,en,1.9
 Februar,Februar,DATE,,,de,1.9
-Biertornados,Biertornados,NORP,,,de,1.9
 Wednesday night,Wednesday night,TIME,,,en,1.9
 Pkw,Pkw,NORP,,,de,1.9
 the next seven days,the next seven days,DATE,,,en,1.9
@@ -599,14 +599,14 @@ Anwohner,Anwohner,NORP,,,de,1.9
 8.000,8.000,CARDINAL,,,de,1.9
 Nov. 19,Nov. 19,DATE,,,en,1.9
 +474 chars,+474 chars,WORK_OF_ART,,,de,1.9
-45,45,CARDINAL,,,de,1.9
+247,247,CARDINAL,,,en,1.9
 Fahrgäste,Fahrgäste,NORP,,,de,1.9
 +2789,+2789,NORP,,,en,1.9
 A million,A million,CARDINAL,,,en,1.9
 Südosten,Südosten,PERCENT,,,de,1.9
 More than 41 million,More than 41 million,CARDINAL,,,en,1.9
 +166 chars,+166 chars,WORK_OF_ART,,,de,1.9
-247,247,CARDINAL,,,en,1.9
+45,45,CARDINAL,,,de,1.9
 Deutschland-Achter bei den Weltmeisterschaften,Deutschland-Achter bei den Weltmeisterschaften,NORP,,,de,1.9
 £870m,£870m,MONEY,,,en,1.9
 bei Schlüchtern,bei Schlüchtern,NORP,,,de,1.9
@@ -623,13 +623,13 @@ a rainy few days,a rainy few days,DATE,,,en,1.9
 61,61,CARDINAL,,,de,1.9
 39°C,39°C,PERCENT,,,en,1.9
 3070,3070,CARDINAL,,,de,1.9
-nearly 500,nearly 500,CARDINAL,,,en,1.9
 A wet weekend,A wet weekend,DATE,,,en,1.9
+nearly 500,nearly 500,CARDINAL,,,en,1.9
 Whanganui,Whanganui,PRODUCT,0.053571428571428575,0.17857142857142858,en,1.9
-October 11,October 11,DATE,,,en,1.8
 Nigerian,Nigerian,NORP,,,en,1.8
 Sept. 5,Sept. 5,DATE,,,en,1.8
 35-27,35-27,DATE,,,en,1.8
+October 11,October 11,DATE,,,en,1.8
 Lake Saint Louis,Lake Saint Louis,FAC,,,en,1.8
 Almost 1000,Almost 1000,CARDINAL,,,en,1.8
 two-thirds,two-thirds,CARDINAL,,,en,1.8
@@ -737,47 +737,47 @@ more than $728 million,more than $728 million,MONEY,,,en,1.3
 55%,55%,PERCENT,,,en,1.2000000000000002
 Del Sol VTEC,Del Sol VTEC,PRODUCT,,,en,1.2000000000000002
 1995,1995,DATE,,,en,1.2000000000000002
-1997,1997,DATE,,,en,1.2000000000000002
 2011,2011,DATE,,,en,1.2000000000000002
+1997,1997,DATE,,,en,1.2000000000000002
+around 80 km/h,around 80 km/h,QUANTITY,,,en,1.2
+earlier this year,earlier this year,DATE,,,en,1.2
 last year,last year,DATE,,,en,1.2
 10th,10th,ORDINAL,,,en,1.2
 Overnight,Overnight,TIME,,,en,1.2
-around 80 km/h,around 80 km/h,QUANTITY,,,en,1.2
-earlier this year,earlier this year,DATE,,,en,1.2
-Nikon Comedy Wildlife Photography Awards,Nikon Comedy Wildlife Photography Awards,EVENT,,,en,1.1
-late Wednesday,late Wednesday,TIME,,,en,1.1
+75,75,CARDINAL,,,en,1.1
+Victorian,Victorian,NORP,,,en,1.1
 the next 36 hours,the next 36 hours,TIME,,,en,1.1
-2002,2002,DATE,,,en,1.1
 700k,700k,MONEY,,,en,1.1
+Polish,Polish,NORP,,,en,1.1
 million,million,CARDINAL,,,en,1.1
 Chubbies,Chubbies,PRODUCT,,,en,1.1
-Polish,Polish,NORP,,,en,1.1
 7 days,7 days,DATE,,,en,1.1
-700 miles,700 miles,QUANTITY,,,en,1.1
 The Ideal Backup,The Ideal Backup,PRODUCT,,,en,1.1
-Victorian,Victorian,NORP,,,en,1.1
-"October 16, 2025","October 16, 2025",DATE,,,en,1.1
-Civic,Civic,PRODUCT,,,en,1.1
 121,121,CARDINAL,,,en,1.1
-75,75,CARDINAL,,,en,1.1
+700 miles,700 miles,QUANTITY,,,en,1.1
+late Wednesday,late Wednesday,TIME,,,en,1.1
+the Launch of Olde Style Weatherwood Color,the Launch of Olde Style Weatherwood Color,WORK_OF_ART,,,en,1.1
+Civic,Civic,PRODUCT,,,en,1.1
+2002,2002,DATE,,,en,1.1
+Nikon Comedy Wildlife Photography Awards,Nikon Comedy Wildlife Photography Awards,EVENT,,,en,1.1
 1.16,1.16,CARDINAL,,,en,1.1
 Epson International Pano,Epson International Pano,EVENT,,,en,1.1
-the Launch of Olde Style Weatherwood Color,the Launch of Olde Style Weatherwood Color,WORK_OF_ART,,,en,1.1
-more than 500,more than 500,CARDINAL,,,en,1.1
 one September day in 1995,one September day in 1995,DATE,,,en,1.1
+"October 16, 2025","October 16, 2025",DATE,,,en,1.1
+more than 500,more than 500,CARDINAL,,,en,1.1
+Westen,Westen,PRODUCT,,,de,1.0
+"5,500 degrees","5,500 degrees",QUANTITY,,,en,1.0
+mos,mos,DATE,,,en,1.0
+over 100mm,over 100mm,QUANTITY,,,en,1.0
 Baitadi:,Baitadi:,WORK_OF_ART,,,en,1.0
 Oct. 20,Oct. 20,DATE,,,en,1.0
-Westen,Westen,PRODUCT,,,de,1.0
-mos,mos,DATE,,,en,1.0
-"5,500 degrees","5,500 degrees",QUANTITY,,,en,1.0
 Basedow geht,Basedow geht,FAC,,,de,1.0
-over 100mm,over 100mm,QUANTITY,,,en,1.0
-No Income Tax to Parents,No Income Tax to Parents,LAW,,,en,1.0
++72 chars,+72 chars,WORK_OF_ART,,,de,1.0
 +1926 chars,+1926 chars,WORK_OF_ART,,,de,1.0
 +3175,+3175,NORP,,,de,1.0
 Westman,Westman,NORP,,,en,1.0
-Brandenburgs,Brandenburgs,WORK_OF_ART,,,de,1.0
 Prelims,Prelims,WORK_OF_ART,,,en,1.0
+Brandenburgs,Brandenburgs,WORK_OF_ART,,,de,1.0
 36 hours,36 hours,TIME,,,en,1.0
 06/06/2026 11:46:16 AM PDT,06/06/2026 11:46:16 AM PDT,TIME,,,en,1.0
 the Argentine World Cup,the Argentine World Cup,EVENT,,,en,1.0
@@ -788,14 +788,13 @@ Deepavali day,Deepavali day,DATE,,,en,1.0
 +979 chars,+979 chars,WORK_OF_ART,,,de,1.0
 +3104 chars,+3104 chars,WORK_OF_ART,,,de,1.0
 Nazis,Nazis,NORP,,,de,1.0
-+72 chars,+72 chars,WORK_OF_ART,,,de,1.0
-3.6,3.6,CARDINAL,,,en,1.0
-+1859 chars,+1859 chars,WORK_OF_ART,,,de,1.0
 +457 chars,+457 chars,WORK_OF_ART,,,de,1.0
 diese Stadt Hitze,diese Stadt Hitze,NORP,,,de,1.0
+No Income Tax to Parents,No Income Tax to Parents,LAW,,,en,1.0
++1859 chars,+1859 chars,WORK_OF_ART,,,de,1.0
 Southside-Festival,Southside-Festival,EVENT,,,de,1.0
-100mm,100mm,QUANTITY,,,en,1.0
 23.3 degrees Celsius,23.3 degrees Celsius,QUANTITY,,,en,1.0
+100mm,100mm,QUANTITY,,,en,1.0
 +87 chars],+87 chars],WORK_OF_ART,,,de,1.0
 Polizei,Polizei,NORP,,,de,1.0
 the high 90s,the high 90s,DATE,,,en,1.0
@@ -804,10 +803,11 @@ the high 90s,the high 90s,DATE,,,en,1.0
 Dauereinsatz und neue Gewitter,Dauereinsatz und neue Gewitter,WORK_OF_ART,,,de,1.0
 28 degrees Celsius,28 degrees Celsius,QUANTITY,,,en,1.0
 Linken-Vorsitzende greift schwarz-rote,Linken-Vorsitzende greift schwarz-rote,EVENT,,,de,1.0
+3.6,3.6,CARDINAL,,,en,1.0
 four-month rainy season,four-month rainy season,DATE,,,en,1.0
 +1130,+1130,CARDINAL,,,de,1.0
-around 42,around 42,CARDINAL,,,en,1.0
 +560 chars],+560 chars],WORK_OF_ART,,,de,1.0
+around 42,around 42,CARDINAL,,,en,1.0
 Family Features,Family Features,WORK_OF_ART,,,en,1.0
 20.000,20.000,CARDINAL,,,de,1.0
 between June 25 and June 30,between June 25 and June 30,DATE,,,en,1.0
@@ -815,9 +815,9 @@ Extremely Severe Alert,Extremely Severe Alert,WORK_OF_ART,,,en,1.0
 June 6,June 6,DATE,,,en,1.0
 Tag der Berlin Tennis Open,Tag der Berlin Tennis Open,EVENT,,,de,1.0
 the Western Ghats,the Western Ghats,FAC,-0.1,0.25,en,1.0
+second half,second half,DATE,,,en,1.0
 2026 monsoon,2026 monsoon,QUANTITY,,,en,1.0
 +4759 chars,+4759 chars,WORK_OF_ART,,,de,1.0
-Crashout gehen,Crashout gehen,WORK_OF_ART,,,de,1.0
 Jun 22).A,Jun 22).A,DATE,,,en,1.0
 90%,90%,PERCENT,,,en,1.0
 Donnerstag 18,Donnerstag 18,FAC,,,de,1.0
@@ -833,7 +833,6 @@ Donnerstag 18,Donnerstag 18,FAC,,,de,1.0
 und Schauer,und Schauer,NORP,,,de,1.0
 8 pm ET,8 pm ET,TIME,,,en,1.0
 Sturm,Sturm,NORP,0.0,0.0,de,1.0
-second half,second half,DATE,,,en,1.0
 +446 chars,+446 chars,WORK_OF_ART,,,de,1.0
 Mondays World Cup,Mondays World Cup,EVENT,,,en,1.0
 nearly two hours,nearly two hours,TIME,,,en,1.0
@@ -844,6 +843,7 @@ October 19,October 19,DATE,,,en,1.0
 14./54,14./54,CARDINAL,,,de,1.0
 66,66,CARDINAL,,,de,1.0
 +2063 chars,+2063 chars,WORK_OF_ART,,,de,1.0
+Crashout gehen,Crashout gehen,WORK_OF_ART,,,de,1.0
 Zehntausende,Zehntausende,NORP,,,de,1.0
 Plätze,Plätze,NORP,,,de,1.0
 "May 29, 2026","May 29, 2026",DATE,,,en,1.0
@@ -903,7 +903,7 @@ June 12th,June 12th,DATE,,,en,1.0
 an… After days,an… After days,DATE,,,en,1.0
 three-year-old,three-year-old,DATE,,,en,1.0
 13.35,13.35,CARDINAL,,,de,1.0
-+1274 chars,+1274 chars,WORK_OF_ART,,,de,1.0
+2-3,2-3,CARDINAL,,,en,1.0
 +2999,+2999,NORP,,,en,1.0
 +7150,+7150,CARDINAL,,,en,1.0
 "75,000","75,000",CARDINAL,,,en,1.0
@@ -918,7 +918,7 @@ Tuesday evening,Tuesday evening,TIME,,,en,1.0
 26.2 degrees Celsius,26.2 degrees Celsius,QUANTITY,,,en,1.0
 1.8 degrees,1.8 degrees,QUANTITY,,,en,1.0
 13.30,13.30,CARDINAL,,,de,1.0
-2-3,2-3,CARDINAL,,,en,1.0
++1274 chars,+1274 chars,WORK_OF_ART,,,de,1.0
 World Cup's,World Cup's,EVENT,,,en,1.0
 +959 chars,+959 chars,WORK_OF_ART,,,de,1.0
 "June 12, 2026","June 12, 2026",DATE,,,en,1.0
@@ -1161,8 +1161,8 @@ Feuerwehr eine erste Entwarnung gegeben,Feuerwehr eine erste Entwarnung gegeben,
 +2286 chars,+2286 chars,WORK_OF_ART,,,en,1.0
 Aufwind und,Aufwind und,WORK_OF_ART,,,de,1.0
 2.5,2.5,CARDINAL,,,de,1.0
-Gen Z,Gen Z,PRODUCT,,,de,1.0
 Die Politik,Die Politik,WORK_OF_ART,,,de,1.0
+Gen Z,Gen Z,PRODUCT,,,de,1.0
 Donnerstag-,Donnerstag-,CARDINAL,,,de,1.0
 the age of 80,the age of 80,DATE,,,en,1.0
 Ortsgemeinden,Ortsgemeinden,NORP,,,de,1.0
@@ -1442,8 +1442,8 @@ Vorpommern seien g,Vorpommern seien g,FAC,,,de,1.0
 32 degrees,32 degrees,QUANTITY,,,en,1.0
 Schüler,Schüler,NORP,,,de,1.0
 Solarenergie,Solarenergie,NORP,,,de,1.0
-Umspannwerk,Umspannwerk,PRODUCT,,,de,1.0
 Mitleidenschaft,Mitleidenschaft,NORP,0.0,0.0,de,1.0
+Umspannwerk,Umspannwerk,PRODUCT,,,de,1.0
 +2242,+2242,CARDINAL,,,de,1.0
 Eilmeldung,Eilmeldung,WORK_OF_ART,,,de,1.0
 +3187 chars,+3187 chars,WORK_OF_ART,,,de,1.0
@@ -1921,9 +1921,9 @@ Nearly 70,Nearly 70,CARDINAL,,,en,1.0
 April 29,April 29,DATE,,,en,1.0
 the second consecutive day in a row,the second consecutive day in a row,DATE,,,en,1.0
 +5140,+5140,NORP,,,en,1.0
+October 28 evening,October 28 evening,DATE,,,en,1.0
 "an estimated 5,000","an estimated 5,000",CARDINAL,,,en,1.0
 BookWorm,BookWorm,PRODUCT,,,en,1.0
-October 28 evening,October 28 evening,DATE,,,en,1.0
 Stürme,Stürme,NORP,,,de,1.0
 Unter,Unter,NORP,,,de,1.0
 bei Höchstwerten zwischen,bei Höchstwerten zwischen,NORP,,,de,1.0
