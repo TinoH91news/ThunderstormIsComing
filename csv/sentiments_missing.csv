@@ -273,13 +273,13 @@ Juni 2024,Juni 2024,DATE,,,de,2.8
 National Mall,National Mall,FAC,,,en,2.8
 later in the day,later in the day,TIME,,,en,2.8
 English,English,LANGUAGE,,,en,2.8
-Bengaluru,Bengaluru,WORK_OF_ART,0.011415525114155249,0.10730593607305935,en,2.8
+Wednesday evening,Wednesday evening,TIME,,,en,2.8
 at least 20,at least 20,CARDINAL,,,en,2.8
 February,February,DATE,,,en,2.8
 86,86,CARDINAL,,,de,2.8
 a decade,a decade,DATE,,,en,2.8
 Eisregen,Eisregen,NORP,,,de,2.8
-Wednesday evening,Wednesday evening,TIME,,,en,2.8
+Bengaluru,Bengaluru,WORK_OF_ART,0.011415525114155249,0.10730593607305935,en,2.8
 135,135,CARDINAL,,,de,2.8
 5000,5000,CARDINAL,,,de,2.8
 Unwettern,Unwettern,NORP,,,de,2.8
@@ -548,7 +548,7 @@ Dezember,Dezember,DATE,,,de,1.9
 Januar um,Januar um,DATE,,,de,1.9
 +2328 chars,+2328 chars,WORK_OF_ART,,,de,1.9
 Konzerte,Konzerte,NORP,,,de,1.9
-Temperaturen,Temperaturen,NORP,0.0,0.0,de,1.9
+Teile,Teile,NORP,0.0,0.0,de,1.9
 Wetters bleiben,Wetters bleiben,PRODUCT,,,de,1.9
 Dec 28,Dec 28,DATE,,,en,1.9
 Dec 6,Dec 6,DATE,,,en,1.9
@@ -558,7 +558,7 @@ Nov 19,Nov 19,DATE,,,en,1.9
 +2002 chars,+2002 chars,WORK_OF_ART,,,en,1.9
 "More than 10,000","More than 10,000",CARDINAL,,,en,1.9
 muss,muss,NORP,,,de,1.9
-Niedersachsens,Niedersachsens,NORP,,,de,1.9
+1992,1992,DATE,,,en,1.9
 Deutschland mit Gewittern,Deutschland mit Gewittern,EVENT,,,de,1.9
 Innenminister,Innenminister,NORP,,,de,1.9
 seventh,seventh,ORDINAL,,,en,1.9
@@ -568,8 +568,8 @@ Hitze und Unwetter - Brandenburg erlebt,Hitze und Unwetter - Brandenburg erlebt,
 Sunday afternoon,Sunday afternoon,TIME,,,en,1.9
 Lauchringen,Lauchringen,FAC,,,de,1.9
 55,55,CARDINAL,,,de,1.9
-Teile,Teile,NORP,0.0,0.0,de,1.9
-1992,1992,DATE,,,en,1.9
+Niedersachsens,Niedersachsens,NORP,,,de,1.9
+Temperaturen,Temperaturen,NORP,0.0,0.0,de,1.9
 +1739 chars,+1739 chars,WORK_OF_ART,,,de,1.9
 1000,1000,CARDINAL,,,en,1.9
 50-60 kmph,50-60 kmph,QUANTITY,,,en,1.9
@@ -604,9 +604,9 @@ Fahrgäste,Fahrgäste,NORP,,,de,1.9
 +2789,+2789,NORP,,,en,1.9
 A million,A million,CARDINAL,,,en,1.9
 Südosten,Südosten,PERCENT,,,de,1.9
+45,45,CARDINAL,,,de,1.9
 More than 41 million,More than 41 million,CARDINAL,,,en,1.9
 +166 chars,+166 chars,WORK_OF_ART,,,de,1.9
-45,45,CARDINAL,,,de,1.9
 Deutschland-Achter bei den Weltmeisterschaften,Deutschland-Achter bei den Weltmeisterschaften,NORP,,,de,1.9
 £870m,£870m,MONEY,,,en,1.9
 bei Schlüchtern,bei Schlüchtern,NORP,,,de,1.9
@@ -639,11 +639,11 @@ the next 72 hours,the next 72 hours,TIME,,,en,1.8
 October 13,October 13,DATE,,,en,1.8
 a month ago,a month ago,DATE,,,en,1.8
 Main Street,Main Street,FAC,,,en,1.8
-7.39 seconds,7.39 seconds,TIME,,,en,1.8
+more than one hundred thousand,more than one hundred thousand,CARDINAL,,,en,1.8
 April through September,April through September,DATE,,,en,1.8
 August 2021,August 2021,DATE,,,en,1.8
 these months,these months,DATE,,,en,1.8
-more than one hundred thousand,more than one hundred thousand,CARDINAL,,,en,1.8
+7.39 seconds,7.39 seconds,TIME,,,en,1.8
 two hours,two hours,TIME,,,en,1.8
 "about 30,000 degrees Celsius","about 30,000 degrees Celsius",QUANTITY,,,en,1.8
 early-season,early-season,DATE,,,en,1.8
@@ -806,8 +806,8 @@ Linken-Vorsitzende greift schwarz-rote,Linken-Vorsitzende greift schwarz-rote,EV
 3.6,3.6,CARDINAL,,,en,1.0
 four-month rainy season,four-month rainy season,DATE,,,en,1.0
 +1130,+1130,CARDINAL,,,de,1.0
-around 42,around 42,CARDINAL,,,en,1.0
 +560 chars],+560 chars],WORK_OF_ART,,,de,1.0
+around 42,around 42,CARDINAL,,,en,1.0
 Family Features,Family Features,WORK_OF_ART,,,en,1.0
 20.000,20.000,CARDINAL,,,de,1.0
 between June 25 and June 30,between June 25 and June 30,DATE,,,en,1.0
@@ -869,7 +869,7 @@ Störche auf Expansionskurs,Störche auf Expansionskurs,WORK_OF_ART,,,de,1.0
 +490 chars,+490 chars,WORK_OF_ART,,,de,1.0
 around 36 degrees Celsius,around 36 degrees Celsius,QUANTITY,,,en,1.0
 +2932 chars,+2932 chars,WORK_OF_ART,,,de,1.0
-+4211 chars,+4211 chars,WORK_OF_ART,,,de,1.0
++2528 chars,+2528 chars,WORK_OF_ART,,,de,1.0
 Südpfalz seit Jahren als,Südpfalz seit Jahren als,PRODUCT,,,de,1.0
 next few hours,next few hours,TIME,,,en,1.0
 +1203,+1203,NORP,,,de,1.0
@@ -883,9 +883,9 @@ over half a dozen,over half a dozen,CARDINAL,,,en,1.0
 A day earlier,A day earlier,DATE,,,en,1.0
 99,99,CARDINAL,,,de,1.0
 33°,33°,QUANTITY,,,en,1.0
-+2528 chars,+2528 chars,WORK_OF_ART,,,de,1.0
++4211 chars,+4211 chars,WORK_OF_ART,,,de,1.0
 Antrag gegen,Antrag gegen,PRODUCT,,,de,1.0
-+885 chars,+885 chars,WORK_OF_ART,,,de,1.0
+Folge am,Folge am,PRODUCT,,,de,1.0
 52,52,CARDINAL,,,de,1.0
 2012,2012,DATE,,,de,1.0
 Starkregenfälle,Starkregenfälle,NORP,,,de,1.0
@@ -903,7 +903,7 @@ June 12th,June 12th,DATE,,,en,1.0
 an… After days,an… After days,DATE,,,en,1.0
 three-year-old,three-year-old,DATE,,,en,1.0
 13.35,13.35,CARDINAL,,,de,1.0
-+1274 chars,+1274 chars,WORK_OF_ART,,,de,1.0
+2-3,2-3,CARDINAL,,,en,1.0
 +2999,+2999,NORP,,,en,1.0
 +7150,+7150,CARDINAL,,,en,1.0
 "75,000","75,000",CARDINAL,,,en,1.0
@@ -918,7 +918,7 @@ Tuesday evening,Tuesday evening,TIME,,,en,1.0
 26.2 degrees Celsius,26.2 degrees Celsius,QUANTITY,,,en,1.0
 1.8 degrees,1.8 degrees,QUANTITY,,,en,1.0
 13.30,13.30,CARDINAL,,,de,1.0
-2-3,2-3,CARDINAL,,,en,1.0
++1274 chars,+1274 chars,WORK_OF_ART,,,de,1.0
 World Cup's,World Cup's,EVENT,,,en,1.0
 +959 chars,+959 chars,WORK_OF_ART,,,de,1.0
 "June 12, 2026","June 12, 2026",DATE,,,en,1.0
@@ -975,13 +975,13 @@ Türschläge,Türschläge,NORP,,,de,1.0
 +1747 chars,+1747 chars,WORK_OF_ART,,,de,1.0
 Yesterday,Yesterday,DATE,,,en,1.0
 41,41,DATE,,,en,1.0
-nächsten Tage wieder regnerisch,nächsten Tage wieder regnerisch,PERCENT,,,de,1.0
 119.000,119.000,CARDINAL,,,de,1.0
++885 chars,+885 chars,WORK_OF_ART,,,de,1.0
 1 p.m.,1 p.m.,TIME,,,en,1.0
 "early Monday, June 1, 2026","early Monday, June 1, 2026",DATE,,,en,1.0
-Folge am,Folge am,PRODUCT,,,de,1.0
-+2259 chars,+2259 chars,WORK_OF_ART,,,de,1.0
 Day Two,Day Two,DATE,,,en,1.0
++2259 chars,+2259 chars,WORK_OF_ART,,,de,1.0
+nächsten Tage wieder regnerisch,nächsten Tage wieder regnerisch,PERCENT,,,de,1.0
 Temperaturen über 30 Grad - wann Unwetter,Temperaturen über 30 Grad - wann Unwetter,WORK_OF_ART,,,de,1.0
 "2,57","2,57",CARDINAL,,,de,1.0
 +1350 chars,+1350 chars,WORK_OF_ART,,,de,1.0
@@ -1249,8 +1249,8 @@ about 477 miles,about 477 miles,QUANTITY,,,en,1.0
 51,51,CARDINAL,,,en,1.0
 10/15/2025 8:52:31 AM PDT,10/15/2025 8:52:31 AM PDT,TIME,,,en,1.0
 werden Schauer,werden Schauer,NORP,,,de,1.0
-+560 chars,+560 chars,WORK_OF_ART,,,de,1.0
 +434,+434,WORK_OF_ART,,,de,1.0
++560 chars,+560 chars,WORK_OF_ART,,,de,1.0
 +1608 chars,+1608 chars,WORK_OF_ART,,,de,1.0
 Landwirtschaftskammer auf Nachfrage des ORF Vorarlberg,Landwirtschaftskammer auf Nachfrage des ORF Vorarlberg,WORK_OF_ART,,,de,1.0
 +2812 chars,+2812 chars,WORK_OF_ART,,,de,1.0
@@ -1921,9 +1921,9 @@ Nearly 70,Nearly 70,CARDINAL,,,en,1.0
 April 29,April 29,DATE,,,en,1.0
 the second consecutive day in a row,the second consecutive day in a row,DATE,,,en,1.0
 +5140,+5140,NORP,,,en,1.0
+October 28 evening,October 28 evening,DATE,,,en,1.0
 "an estimated 5,000","an estimated 5,000",CARDINAL,,,en,1.0
 BookWorm,BookWorm,PRODUCT,,,en,1.0
-October 28 evening,October 28 evening,DATE,,,en,1.0
 Stürme,Stürme,NORP,,,de,1.0
 Unter,Unter,NORP,,,de,1.0
 bei Höchstwerten zwischen,bei Höchstwerten zwischen,NORP,,,de,1.0
